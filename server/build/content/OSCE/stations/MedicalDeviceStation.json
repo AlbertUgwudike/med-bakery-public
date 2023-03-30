@@ -1,0 +1,67 @@
+{
+    "id": "MedicalDeviceStation",
+    "thumbnail": "pacemakerThumbnail.png",
+    "isDemoStation": true,
+    "category": "Cardiology",
+    "title": "Cardiology: X-rays",
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "\n            <div>\n                <p>Your task is to:</p>\n\n                <p>\n                    <div>1. Interpret the data presented to you</div>\n                    <div>2. Formulate a working diagnosis</div>\n                    <div>3. Answer the associated questions</div>\n                </p>\n            </div>\n        "
+    },
+    "questions": [
+        {
+            "question": "Name the medical device in this CXR",
+            "questionAudio": "nameDeviceQuestion.mp3",
+            "img": "pacemaker.png",
+            "responseAudio": "",
+            "exemplarAudio": "nameDevice.mp3",
+            "markScheme": [
+                {
+                    "title": "Name of medical device",
+                    "points": [
+                        { "point": "Biventricular pacemaker", "selected": false, "pointId": 0 }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What is the difference between a single vs dual ventricular pacemaker?",
+            "questionAudio": "singleVdualQuestion.mp3",
+            "img": "pacemaker.png",
+            "responseAudio": "",
+            "exemplarAudio": "singleVdual.mp3",
+            "markScheme": [
+                {
+                    "title": "Single versus dual chamber pacemaker",
+                    "points": [
+                        { "point": "Single chamber has one wire", "selected": false, "pointId": 0 },
+                        { "point": "Dual chamber has two wires", "selected": false, "pointId": 1 },
+                        {
+                            "point": "Biventricular has three wires",
+                            "selected": false,
+                            "pointId": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Give one clinical indication for a biventricular pacemaker.",
+            "questionAudio": "bvIndicationQuestion.mp3",
+            "img": "pacemaker.png",
+            "responseAudio": "",
+            "exemplarAudio": "bvIndication.mp3",
+            "markScheme": [
+                {
+                    "title": "Indications for biventricular pacemaker",
+                    "points": [
+                        { "point": "Congestive cardiac failure", "selected": false, "pointId": 0 }
+                    ]
+                }
+            ]
+        }
+    ]
+}

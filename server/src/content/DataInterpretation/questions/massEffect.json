@@ -1,0 +1,18 @@
+{
+    "id": "MassEffect",
+    "title": "Mass Effect",
+    "task": "Please intepret the CXR",
+    "exemplar":"true",
+    "category": "Chest X-rays",
+    "finding": "Tracheal Deviation",
+    "description": "Some description of pneumothorax",
+    "image": "pneum.png",
+    "sections": [
+      {
+        "title": "Deviated Trachea",
+        "tab_label": "A",
+        "image": "Pneumothorax.png",
+        "descirption": "A deviated trachea can indicate .... etc"
+      }
+    ]
+  }

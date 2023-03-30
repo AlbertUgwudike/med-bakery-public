@@ -1,0 +1,135 @@
+{
+    "id": "Haemolytic anaemia",
+    "thumbnail": "IDAThumbnail.png",
+    "title": "Haematology: Jaundice",
+    "category": "Haematology",
+    "isDemoStation": true,
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div><p>Candidate instructions: You will be presented with a case and some investigations. Your task is to:</p><p><div>1. Interpret the data presented to you</div><div>2. Answer the examiners questions</div></div>"
+    },
+    "questions": [
+        {
+            "question": "Please interpret the following blood results",
+            "questionAudio": "3.9.22H2Q1.mp3",
+            "img": "3.9.22.H2Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H2A1.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirm patient details for FBC",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        {
+                            "point": "Normocytic anaemia",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Reticulocytosis",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Confirm patient details for LFTs and enzymes",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Hyperbilirubinaemia",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Normal ALP, ALT and AST",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Low haptoglobin",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Elevated LDH",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What is the most likely diagnosis",
+            "questionAudio": "3.9.22H2Q2.mp3",
+            "img": "3.9.22.H2Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H2A2.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Haemolytic anaemia",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Name two further investigations you would like to carry out?",
+            "questionAudio": "3.9.22H2Q3.mp3",
+            "img": "3.9.22.H2Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H2A3.mp3",
+            "markScheme": [
+                {
+                    "title": "Any two of the following:",
+                    "points": [
+                        {
+                            "point": "Blood film, Coomb's test, G6PD spot test, Hb electorphoresis",
+                            "selected": false,
+                            "pointId": 2
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "The patient is diagnosed with G6PD deficiency. Give two causes of a flare up",
+            "questionAudio": "3.9.22H2Q4.mp3",
+            "img": "3.9.22.H2Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H2A4.mp3",
+            "markScheme": [
+                {
+                    "title": "Any two of the following:",
+                    "points": [
+                        {
+                            "point": "Medications (ciprofloxacin, nitrofurantoin, sulfa-drugs), fava beans, acute illness",
+                            "selected": false,
+                            "pointId": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

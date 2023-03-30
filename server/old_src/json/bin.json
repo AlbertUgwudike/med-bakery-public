@@ -1,0 +1,24 @@
+{
+    "_id": "",
+    "categoryPath": ["All", "Endocrinology"],
+    "Answered": "false",
+    "Notes": "",
+    "Chat": [],
+    "sections": [
+        {
+            "Occurence": "",
+            "Question": "",
+            "Options": [
+                "", 
+                "", 
+                "", 
+                "", 
+                ""
+            ],
+            "CorrectOption": 3,
+            "SelectedOption": -1,
+            "explanation": "",
+            "Percentages": [0, 0, 0, 0, 0]
+        }
+    ]
+}

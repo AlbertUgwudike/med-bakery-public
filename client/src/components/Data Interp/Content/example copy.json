@@ -1,0 +1,38 @@
+{
+    "title": "Systematic CXR Intepretation",
+    "category": "Respiratory",
+    "description": "You need to look systematically at the CXR. ABCDE is a useful pneumonic to use",
+    "image": "pneum.png",
+    "sections": [
+        {
+            "title": "Deviated Trachea",
+            "tab_label": "A",
+            "image": "CXR_trachea.jpeg",
+            "descirption": "A deviated trachea can indicate .... etc"
+        },
+        {
+            "title": "Lung fields",
+            "tab_label": "B",
+            "image": "CXR_field.jpeg",
+            "descirption": "Shadowing in right middle lobe suggests .... etc"
+        },
+        {
+            "title": "Enlarged heart",
+            "tab_label": "C",
+            "image": "CXR_heart.jpeg",
+            "descirption": "Increased cardiothoracic ratio is seen in .... etc"
+        },
+        {
+            "title": "Diaphragm",
+            "tab_label": "D",
+            "image": "CXR_diaphragm.jpeg",
+            "descirption": "blunt costrophrenic angles may suggest .... etc"
+        },
+        {
+            "title": "ECG leads",
+            "tab_label": "E",
+            "image": "CXR_leads.jpeg",
+            "descirption": "Extra features hint at level of morbidity .... etc"
+        }
+    ]
+}

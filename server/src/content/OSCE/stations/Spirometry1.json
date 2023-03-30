@@ -1,0 +1,207 @@
+{
+    "id": "Obstructive spirometry pattern",
+    "thumbnail": "lungs.png",
+    "title": "Respiratory: Spirometry",
+    "category": "Respiratory",
+    "isDemoStation": true,
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div><p>Candidate instructions: You will be presented with a case and some investigations. Your task is to:</p><p><div>1. Interpret the data presented to you</div><div>2. Answer the examiners questions</div></div>"
+    },
+    "questions": [
+        {
+            "question": "Please interpret the following spirometry values",
+            "questionAudio": "3.9.22SpiroC1Q1.mp3",
+            "img": "3.9.22SpiroC1Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22SpiroC1A1.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirms patient details and date",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        {
+                            "point": "Reduced FEV1",
+                            "selected": false,
+                            "pointId": 2
+                        },
+
+                        {
+                            "point": "Normal FVC",
+                            "selected": false,
+                            "pointId": 3
+                        },
+
+                        {
+                            "point": "Reduced FEV1/FVC ratio",
+                            "selected": false,
+                            "pointId": 4
+                        },
+                        {
+                            "point": "Reduced TLCO",
+                            "selected": false,
+                            "pointId": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What pattern does this show?",
+            "questionAudio": "3.9.22SpiroC1Q2.mp3",
+            "img": "3.9.22SpiroC1Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22SpiroC1A2.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Obstructive pattern",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Name three causes of this picture",
+            "questionAudio": "3.9.22SpiroC1Q3.mp3",
+            "img": "3.9.22SpiroC1Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22SpiroC1A3.mp3",
+            "markScheme": [
+                {
+                    "title": "Any three of the following:",
+                    "points": [
+                        {
+                            "point": "Chronic obstructive pulmonary disease (no mark awarded for 'COPD'), bronchiectasis, asthma",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Please interpret the arterial blood gas",
+            "questionAudio": "3.9.22SpiroC1Q4.mp3",
+            "img": "3.9.22SpiroC1Q4.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22SpiroC1A4.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirms patient details",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Normal pH",
+                            "selected": false,
+                            "pointId": 2
+                        },
+
+                        {
+                            "point": "Normal pO2",
+                            "selected": false,
+                            "pointId": 3
+                        },
+                        {
+                            "point": "Elevated pCO2",
+                            "selected": false,
+                            "pointId": 4
+                        },
+                        {
+                            "point": "Elevated HCO3/bicarbonate",
+                            "selected": false,
+                            "pointId": 5
+                        },
+                        {
+                            "point": "Fully compensated/full metabolic compensation",
+                            "selected": false,
+                            "pointId": 6
+                        },
+                        {
+                            "point": "Respiratory acidosis ",
+                            "selected": false,
+                            "pointId": 7
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "What is the unifying diagnosis?",
+            "questionAudio": "3.9.22SpiroC1Q5.mp3",
+            "img": "3.9.22SpiroC1Q4.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22SpiroC1A5.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Chronic obstructive pulmonary disease (mark not awarded for COPD)",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "What criteria is used to stage chronic obstructive pulmonary disease?",
+            "questionAudio": "3.9.22SpiroC1Q6.mp3",
+            "img": "3.9.22SpiroC1Q4.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22SpiroC1A6.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Gold criteria",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What stage of disease is this?",
+            "questionAudio": "3.9.22SpiroC1Q7.mp3",
+            "img": "3.9.22SpiroC1Q4.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22SpiroC1A7.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Severe grade/stage III",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

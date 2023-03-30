@@ -1,0 +1,1169 @@
+[  
+    {
+        "_id": "",
+        "categoryPath": ["All", "Endocrinology"],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "",
+                "Question": "Thyrotropin releasing hormone (TRH) is produced in the hypothalamus. It stimulates the release of which of the following hormones?",
+                "Options": [
+                    "Thyroid stimulating hormone (TSH)", 
+                    "Thyroxine (T4)", 
+                    "Triiodothyronine (T3) ", 
+                    "Thyroglobulin", 
+                    "Thyroid peroxidase"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "TRH travels from the hypothalamus via the hypophyseal portal system, and stimulates the release of TSH by thyrotroph cells in the anterior pituitary. TSH then goes on to stimulate the release of T3 and T4 from the thyroid gland. \nThyroglobulin is a precursor to thyroid hormones, found in the thyroid gland. \nThyroid peroxidase is an enzyme involved in the iodination of...",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "TSH binds to receptors on the thyroid gland, where it stimulates the production and release of thyroid hormones. Which of the following is a precursor to thyroid hormones?",
+                "Options": [
+                    "Thyroxine (T4)", 
+                    "Triiodothyronine (T3)", 
+                    "Thyroglobulin", 
+                    "Calcitonin", 
+                    "Thyroid peroxidase"
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "Thyroglobulin is a precursor to thyroid hormones. It is also a tumour marker used to monitor disease recurrence in papillary and follicular cancer. \nThyroxine (T4) and triiodothyronine (T3 ) are both thyroid hormones. T4 is more abundant in the body, but T3 is far more potent. 80% of T3 comes from direct T4 conversion. \nCalcitonin is produced by parafollicular cells of the thyroid gland; it opposes the action of PTH. It is also used as a tumour marked in medullary thyroid cancer. \nThyroid peroxidase is an enzyme which catalyses the synthesis of thyroid hormones.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "What is the function of thyroid hormones?",
+                "Options": [
+                    "Increases metabolic rate and thermogenesis", 
+                    "Stimulates breast tissue growth and lactation", 
+                    "Stimulates gluconeogenesis, increases protein catabolism and appetite", 
+                    "Stimulates the production of sex hormones by gonads", 
+                    "Increases glycogenesis and protein synthesis"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "Thyroid hormones increase metabolic rate by increasing oxygen and energy consumption through a variety of measures; increasing heart rate and contractility, increasing respiratory rate and expression of Na+/K+/ATPase expression.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following hormones exert a negative feedback effect on TRH and TSH?",
+                "Options": [
+                    "Prolactin", 
+                    "Thyroid Hormones", 
+                    "Cortisol", 
+                    "Growth Hormone", 
+                    "Insulin"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "Thyroxine and triiodothyronine both exert a negative feedback effect on the hypothalamus and anterior pituitary, suppressing the release of TRH and TSH respectively. This is to prevent the oversecretion of those hormones, ensuring homeostasis is maintained. Once thyroid hormones levels start to drop, this will stimulate the release of TRH which kick-starts the cycle again.",
+                "Percentages": [0, 0, 0, 0, 0]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": ["All", "Endocrinology"],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "",
+                "Question": "A 37 year old man is involved in a car accident. At A&E he has a CT scan done to assess for a brain haemorrhage. The scan showed no signs of haemorrhage but revealed a pituitary adenoma. You are the junior doctor on the ward, and you inform the patient that they have a small tumour in the base of their brain. What else about pituitary adenomas is true?",
+                "Options": [
+                    "They are benign", 
+                    "They cause a homonymous hemianopia", 
+                    "They commonly cause unilateral hemiparesis", 
+                    "They commonly cause unilateral sensory loss", 
+                    "They are rare and affect less than 1% of people"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "Pituitary adenomas are benign tumours that arise in the anterior pituitary gland. They are often picked up when neuroimaging is carried out for another purpose, such as in this patient’s case. As it was picked up incidentally, it can be called an ‘incidentaloma’.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "During the consultation, you are explaining to the patient that his tumour is considered to be a “microadenoma”. What is the definition of a microadenoma?",
+                "Options": [
+                    "Diameter of ≤1mm", 
+                    "Diameter of ≤5mm", 
+                    "Diameter of ≤10mm", 
+                    "Diameter of ≤15mm", 
+                    "Diameter of ≤20mm"
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "Pituitary adenomas are classified based on their size and functional state.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "What is the most common type of functional adenoma?",
+                "Options": [
+                    "Lactotroph (prolactinoma)", 
+                    "Somatotroph", 
+                    "Corticotroph", 
+                    "Thyrotroph", 
+                    "Gonadotroph"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "Lactotroph adenomas, commonly referred to as prolactinomas are the most common type of pituitary adenoma; making up 40% of functional adenomas.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following features is not a clinical manifestation of a pituitary adenoma?",
+                "Options": [
+                    "Hormone excess", 
+                    "Hormone depletion", 
+                    "Bitemporal hemianopia", 
+                    "Headache", 
+                    "Bell’s palsy"
+                ],
+                "CorrectOption": 4,
+                "SelectedOption": -1,
+                "explanation": "Bell’s palsy is the name given for an idiopathic facial nerve palsy, which results in unilateral weakness of the facial muscles. It is not a manifestation of a pituitary adenoma.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": " Which investigations will you order as part of this patient’s assessment?",
+                "Options": [
+                    "Hormone panel, MRI scan and perimetry", 
+                    "Hormone panel and perimetry", 
+                    "Plain radiograph of the head", 
+                    "FBC and U&Es", 
+                    "CSF sample"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "There are three maininvestigations which should be ordered as part of the work up for a patient with an pituitary adenoma: Hormone panel - to assess for the excess or depletion of a hormone. MRI scan of the head - to visualise the location and size of the adenoma clearly. Perimetry - assesses visual field function",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "The patient’s hormone panel came back normal and their perimetry revealed no visual field defects. His MRI scan confirmed that the size of his adenoma is 7mm. What is the most appropriate management option?",
+                "Options": [
+                    "Watch and wait", 
+                    "Transsphenoidal adenomectomy", 
+                    "Radiotherapy", 
+                    "Cabergoline", 
+                    "Chemotherapy"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "Patients who are asymptomatic do not require treatment; only follow-ups to make sure the tumour hasn’t grown and their hormones are at normal levels.",
+                "Percentages": [0, 0, 0, 0, 0]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": ["All", "Haematology"],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "",
+                "Question": "Which of the following is not a good source of vitamin B12?",
+                "Options": [
+                    "Eggs", 
+                    "Redmeat", 
+                    "Chicken", 
+                    "Leafy greens", 
+                    "Fortified breads and cereals"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A - Most animal products are a good source of vitamin B12. B - Most animal products are a good source of vitamin B12. C  - Most animal products are a good source of vitamin B12. D - Correct. This is a good source of folate but not B12. E - Fortified breads and cereals contain a good amount of B12.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following is not involved in B12 absorption?",
+                "Options": [
+                    "R Binder protein", 
+                    "Pepsin", 
+                    "Homocysteine", 
+                    "Intrinsic Factor", 
+                    "Stomach Acid"
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A - R binder protein binds to vitamin B12 in the stomach to transport it to the small intestines. B - Pepsis is needed to break down protein and release B12 in the stomach. C - Correct. Homocysteine is removed and neutralised by B12. It is not used in the absorption of B12. D - Intrinsic factor binds to B12 in the small intestines to help it be absorbed in the terminal ileum. E - Stomach acid helps to break down protein and release the B12 bound to the protein in the stomach.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "Based on your understanding of B12 absorption, which of the following people are not at a high risk of vitamin B12 deficiency?",
+                "Options": [
+                    "A 45-year-old man with severe Crohn’s colitis, having had a terminal ileum resection", 
+                    "A 64-year-old man who has had a left-hemicolectomy to treat bowel adenocarcinoma", 
+                    "A 56-year-old lady with chronic dyspepsia, who has been using proton pump inhibitors for 10 years", 
+                    "A 57-year-old bariatric patient who has had gastric bypass surgery", 
+                    "A 45-year-old lady with vitiligo and anti-intrinsic factor antibodies"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A - B12 is primarily absorbed in the terminal ileum. As such, a terminal ileum resection is a big risk factor for B12 deficiency. B - Correct. The ascending colon is involved in water from stools. However, it is not involved in the absorption of B12. C - The use of PPIs can suppress stomach acid production, leading to less stomach acid production. Stomach acid is needed to release protein-bound B12. D - A gastric bypass surgery bypasses the stomach, leading to less stomach acid being made. Stomach acid is needed to release protein-bound B12. E - Pernicious anaemia is the most common cause of vitamin B12 deficiency, and is associated with other autoimmune conditions such as vitiligo. The presence of anti-intrinsic factor antibodies leads to an intrinsic factor deficiency, meaning B12 cannot be absorbed in the terminal ileum.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following is not associated with B12 deficiency?",
+                "Options": [
+                    "Pica syndrome", 
+                    "Lemon-yellow tinge", 
+                    "Loss of vibration and proprioception", 
+                    "Dementia and depression", 
+                    "Gastric cancer"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "A - Correct. Pica syndrome is the urge to eat strange, inedible things such as dirt or foam. This occurs due to iron deficiency, not B12 deficiency. B - The lemon-yellow tinge occurs due to the haemolysis of macrocytic cells as they pass through the spleen. C - The loss of vibration and proprioception senses can occur due to permanent nerve damage. This can result from the buildup of the neurotoxic substance methylmalonic acid. D - Dementia and depression are common features of B12 deficiency, as well as loss of colour vision, due to nerve damage. E - Pernicious anaemia is associated with a 2-3 fold increase in the risk of gastric adenocarcinoma.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "What type of anaemia does B12 deficiency cause?",
+                "Options": [
+                    "Macrocytic hyperchromic megaloblastic", 
+                    "Macrocytic hypochromic non-megaloblastic", 
+                    "Microcytic hypochromic non-megaloblastic", 
+                    "Macrocytic hypochromic megaloblastic", 
+                    "Microcytic hyperchromic megaloblastic"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A - B12 deficiency leads to a macrocytic hypochromic anaemia which is megaloblastic. Hyperchromia is not a feature. B - B12 deficiency leads to a macrocytic hypochromic anaemia which is megaloblastic. C - B12 deficiency leads to a macrocytic hypochromic anaemia which is megaloblastic. It is not microcytic. D - Correct. B12 deficiency leads to a macrocytic hypochromic anaemia which is megaloblastic. E - B12 deficiency leads to a macrocytic hypochromic anaemia which is megaloblastic.  It is not microcytic , and hyperchromia is not a feature. ",
+                "Percentages": [0, 0, 0, 0, 0]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": ["All", "Haematology"],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 65-year-old lady with a history of Grave’s disease presents to the GP complaining of tingling in her feet and hands. She admits that she has been feeling significantly down recently and has been forgetting where she leaves her keys and to lock the door. Examination shows that she has a lemon-yellow tinge to her skin, glossitis, and sub-conjunctival pallor. The doctor carries out a neurovascular examination. ",
+                "Question": "What is he likely to find?",
+                "Options": [
+                    "Loss of vibration, proprioception, pain, and temperature senses in both arms and legs extending up to the torso", 
+                    "Unilateral loss of coordination in the legs and past-pointing", 
+                    "Loss of pain and temperature sensation in the arms in a cape-like distribution", 
+                    "Loss of pain and temperature sensations on one leg, and motor, vibration, and proprioception in the other", 
+                    "Loss of vibration and proprioception senses in the feet and a positive Romberg’s test "
+                ],
+                "CorrectOption": 4,
+                "SelectedOption": -1,
+                "explanation": "A - These are the characteristic findings in Guillain-Barre syndrome. B - This would suggest an isolated cerebellar lesion. This history is pointing more towards B12 deficiency. C - This is the classical loss of sensation in syringomyelia, where the formation of a cyst in the spinal cord stretches the sensory fibres for pain and temperature sensation.  D - This is the characteristic pattern for Brown-Sequard syndrome, also known as hemisection of the spinal cord. E - Correct. In B12 deficiency, there is degeneration of the posterior and lateral columns of the spinal cord, leading to loss of vibration and proprioception.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "The GP detects loss of vibration and proprioception senses in the legs. He orders an FBC, blood film, as well as some other tests. What is the blood film likely to show? ",
+                "Options": [
+                    "Howell-Jolly bodies", 
+                    "Hyper-segmented neutrophils ", 
+                    "Pappenheimer bodies", 
+                    "Smear cells", 
+                    "Auer rods"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A - This is a feature of hyposplenism. B - Correct. B12 deficiency leads to hyper-segmented neutrophils. C - This is a feature of hyposplenism. D - This is a feature of chronic lymphocytic leukaemia (CLL). E - This is a feature of AML.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "The GP also ordered some blood tests. Haematinic studies demonstrate very low serum B12, as well as a low serum folate. Which of the values would you expect to be reduced in the blood tests?",
+                "Options": [
+                    "Homocysteine", 
+                    "Methylmalonic acid", 
+                    "Anti-intrinsic factor antibodies", 
+                    "Reticulocytes", 
+                    "Anti-gastric parietal cells"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A - Homocysteine is reduced back to cystine by the action of B12. In a B12-deficient state, this can accumulate, increasing the risk of CVD. B - Methylmalonic acid is a toxic product which is converted back to its non-toxic form by B12. In a deficient state, this can accumulate, leading to progressive and irreversible nerve damage. C - This lady has a history of Grave’s Disease, meaning the most likely cause of her B12 deficiency is pernicious anaemia. This is characterised by anti-intrinsic factor antibodies. D - Correct. Reticulocytes are typically low in B12 deficiency due to impaired red cell division, as a result of fewer available nucleotides. E - This lady has a history of Grave’s Disease, meaning the most likely cause of her B12 deficiency is pernicious anaemia. This is characterised by anti-gastric parietal cells.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "She is diagnosed with pernicious anaemia. What is her treatment?",
+                "Options": [
+                    "IM vitamin B12 lifelong, followed by folic acid supplements", 
+                    "Oral Vitamin B12 lifelong, followed by folic acid supplements", 
+                    "Oral Folic acid for first 3 months, then IM vitamin B12", 
+                    "IM Folic acid for first 3 months, then oral vitamin B12", 
+                    "Oral vitamin B12 lifelong, followed by IM folic acid"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "A - Correct. B12 levels need to be corrected parenterally first, as folic acid may mask the features of B12 deficiency. The deficit of B12 (if it is untreated) will lead to progressive nerve damage. B - This lady has pernicious anaemia and as such, oral vitamin B12 cannot be absorbed due to the lack of intrinsic factor. C - B12 must be replaced before folate because folate supplementation can mask the symptoms of B12 deficiency. The deficit of B12 (if it is untreated) will lead to progressive and irreversible nerve damage. D - B12 must be replaced before folate because folate supplementation can mask the symptoms of B12 deficiency. The deficit of B12 (if it is untreated) will lead to progressive and irreversible nerve damage. E – This lady has pernicious anaemia and as such, oral vitamin B12 cannot be absorbed due to the lack of intrinsic factor.",
+                "Percentages": [0, 0, 0, 0, 0]
+            },
+            {
+                "Occurence": "",
+                "Question": "The patient is worried about what the diagnosis of pernicious anaemia means for her future cancer risk. What should the doctor advise?",
+                "Options": [
+                    "She is at a 2-3 times increased risk of bowel cancer", 
+                    "She is at a 2-3 times increased risk of lung cancer", 
+                    "She is at a 2-3 times increased risk of thyroid cancer", 
+                    "She is at a 2-3 times increased risk of gastric cancer", 
+                    "She is at a 2-3 times increased risk of leukaemia "
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "Pernicious anaemia increases the risk of gastric cancer",
+                "Percentages": [0, 0, 0, 0, 0]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": [
+            "All",
+            "Haematology"
+        ],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 19-year-old lady presents to the GP with a history of heavy periods. As well as this, she suffers from frequent epistaxis and gum bleeds when brushing her teeth. Her mother also has menorrhagia and tends to bruise quite easily. Other than migraines with aura, she does not have any other past medical history. A full lymphoreticular and abdominal examination was normal. ",
+                "Question": "What investigation should the doctor order next?",
+                "Options": [
+                    "Von-Willebrand antigen assay",
+                    "Full blood count",
+                    "Thyroid function tests",
+                    "Bone marrow biopsy",
+                    "Transvaginal ultrasound"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A – The history of mucosal bleeding and menorrhagia is indicative of impaired primary haemostasis. Although von-Willebrand disease is suggested by the history provided, a full blood count should first be conducted to rule out thrombocytopenia. This is also a readily available investigation to be ordered by GPs. Measurement of von-Willebrand levels is a specialist investigation and may be performed in hospital.   B – Correct. The history of mucosal bleeding and menorrhagia is indicative of impaired primary haemostasis. Initial investigations include ruling out thrombocytopenia with a full blood count. C – Hypothyroidism can be a cause of menorrhagia. However, nothing in this history is suggestive of hypothyroidism (e.g., weight gain, fatigue, or cold intolerance).  This history is more suggestive of impaired primary haemostasis so should be assessed, initially, with a full blood count.  D – The history of mucosal bleeding and menorrhagia is indicative of impaired primary haemostasis. Conditions like leukaemia may lead to thrombocytopenia, which could cause features of impaired haemostasis. As such, initial investigations should include ruling out thrombocytopenia with a full blood count. A bone marrow biopsy is only considered if the full blood count is suggestive of leukaemia.  E – A transvaginal ultrasound may be ordered if a structural cause of menorrhagia is suspected. However, this history of mucosal bleeding and menorrhagia is indicative of impaired primary haemostasis. As such, initial investigations include ruling out thrombocytopenia with a full blood count.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "Investigations reveal a normal FBC, and prolonged aPTT & bleed time",
+                "Question": "What is the most likely diagnosis?",
+                "Options": [
+                    "Thrombotic thrombocytopenic purpura",
+                    "Immune thrombocytopenic purpura",
+                    "Disseminated intravascular coagulation",
+                    "Haemophilia A",
+                    "Von-Willebrand disease"
+                ],
+                "CorrectOption": 4,
+                "SelectedOption": -1,
+                "explanation": "A – In TTP, we would expect an accompanying anaemia due to shearing of red blood cells as a result of deposition of clots in small vessels. B – ITP would lead to an isolated thrombocytopenia with normal clotting studies. Here, the platelets are normal but aPTT is raised. C – We would expect a prolonged PT alongside the prolonged aPTT in DIC. DIC would also have accompanying thrombocytopenia. Here, the platelet count is normal.  D – Haemophilia A is purely a condition affecting secondary haemostasis. As such, we would expect bleeding time to be normal. Here, the bleeding time is prolonged. E – Correct. Von-Willebrand disease is a disorder of primary haemostasis, leading to a prolonged bleeding time. Von-Willebrand factor also binds to serum factor VIII, preventing its clearance from the plasma. In its absence, factor VIII is cleared more rapidly, leading to a prolonged aPTT. ",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which investigation can be used to confirm the type of vWD the patient has?",
+                "Options": [
+                    "Full blood count",
+                    "Clotting studies ",
+                    "Liver function tests",
+                    "Von-Willebrand factor antigen assay",
+                    "Blood film"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – A full blood count can rule out thrombocytopenia. It may be used as a supplementary investigation, but it is not diagnostic for von-Willebrand disease. B – Clotting studies will indicate a prolonged aPTT. However, the British Society of Haematologists state that a normal aPTT does not exclude the diagnosis of von-Willebrand disease as some subtypes may have a normal aPTT. As such, clotting studies can aid the diagnosis but cannot definitively rule out the diagnosis of von-Willebrand disease. C – Although the liver plays an important role in synthesis of clotting factors and thrombopoietin for platelets, von-Willebrand factor is produced in the endothelial cells. As such, LFTs can play a role in ruling out other causes of bleeding but are not diagnostic for von-Willebrand disease. D – Correct. Both von-Willebrand antigen assay and von-Willebrand factor functionality assays can be used to identify and classify the type of von-Willebrand disease. Type 1 disease is characterised by the partial deficiency of von-Willebrand disease.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "She has a history of migraine with auras. She is currently sexually active and does not currently want to get pregnant. What is the most appropriate management for her menorrhagia? ",
+                "Options": [
+                    "Combined oral contraceptive pill",
+                    "Tranexamic acid and desmopressin",
+                    "Intrauterine system (Mirena coil)",
+                    "Intrauterine device (copper coil)",
+                    "Combined contraceptive patch "
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A – In patients with menorrhagia and von-Willebrand disease, oestrogen containing contraceptives is first-line. However, this lady has a history of migraines with aura, which is an absolute contraindication to combined oral contraceptive therapy. As such, the Mirena coil should be used. Other absolute contraindications to oestrogen containing hormonal therapy include: 6-week postpartum and breastfeeding Current breast cancer  Past history of a thromboembolic event > 35 y/o and smoking > 15 cigarettes a day Ischaemic heart disease B – This is a good option if the patient is opposed to long-term hormonal contraception or is actively trying to conceive. Tranexamic acid is often used in the management of menorrhagia in women trying to conceive. It is an antifibrinolytic that inhibits the activation of plasminogen into plasmin. Desmopressin is often used in acute mild mucosal bleeding to release endothelial stores of von-Willebrand factor, which then increases factor VIII in the plasma. C – Correct. Due to the history of migraines with aura, oestrogen-containing contraceptives are contraindicated. As such, the IUS can be used second-line to treat menorrhagia and provide long-term contraception.  D – One of the main side effects of the copper coil is heavier periods. As such, this can make menorrhagia worse. E – In patients with menorrhagia and von-Willebrand disease, oestrogen-containing contraceptives is first-line. However, this lady has migraines with aura which is an absolute contraindication to oestrogen therapy. As such, the Mirena coil should be used second-line. Other absolute contraindications to oestrogen containing hormonal therapy include: 6 weeks postpartum and breastfeeding Migraines with aura Current breast cancer Past history of a thromboembolic event  > 35 and smoking more than 15 a day Ischaemic heart disease",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "This lady would like to know if her condition is likely to affect any children she has in the future. What is the likelihood her children will inherit this condition?",
+                "Options": [
+                    "50% regardless of gender",
+                    "0% if a girl, 50% if a boy",
+                    "25% regardless of gender",
+                    "100% if a boy, 0% if a girl",
+                    "100% regardless of gender"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "A – Correct. The most common form of von-Willebrand disease is type 1, which is inherited in an autosomal dominant pattern. B – This is the pattern of inheritance for an X-linked condition. The most common types of von-Willebrand disease are autosomal dominant. C – This is the pattern of inheritance for an autosomal recessive condition. Type 3 vWD is autosomal recessive in inheritance, but the most common types of von-Willebrand disease are autosomal dominant. D – This would be the pattern of inheritance for a Y-link condition. The most common types of von-Willebrand disease are autosomal dominant. E – This would be the pattern of inheritance for a mitochondrial illness. The most common types of von-Willebrand disease are autosomal dominant.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": [
+            "All",
+            "Haematology"
+        ],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 15-year-old boy is brought into A&E with a prolonged nosebleed. This started after he was hit in the face with a football. He has been bleeding for 45 minutes, and this has continued despite pinching his nose and having had nasal packing. His parents are concerned as he often has nosebleeds but they do not usually last this long.  He remains hemodynamically stable. Investigations reveal a prolonged bleed time and aPTT",
+                "Question": "What is the most appropriate management?",
+                "Options": [
+                    "Red cell transfusion",
+                    "Desmopressin and tranexamic acid",
+                    "Von-Willebrand factor concentrate ",
+                    "Cryoprecipitate ",
+                    "Platelet transfusion"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A – The patient is hemodynamically stable with a normal haemoglobin. He does not require a red cell transfusion at this stage. B – Correct. This is Von-Willebrand disease, as suggested by the prolonged nosebleed, history of frequent epistaxis, and a normal FBC with a prolonged bleeding time and aPTT. As the patient is hemodynamically stable and their haemoglobin is normal, desmopressin and tranexamic acid should be used first-line to stop the bleeding. Desmopressin works by releasing vWF from endothelial cells, increasing vWF and factor VIII plasma concentration. Tranexamic acid prevents conversion of plasminogen to plasmin, inhibiting clot breakdown. C – This would be first-line if the patient was experiencing severe bleeding. However, he is hemodynamically stable with a normal haemoglobin. As such, desmopressin and tranexamic acid should be used first-line.  D – This would be second-line if the patient was experiencing severe bleeding. However, he is hemodynamically stable with a normal haemoglobin. As such, desmopressin and tranexamic acid should be used first-line.  E – Here, the platelet count is normal with prolonged aPTT and bleeding time. This is suggestive of von-Willebrand disease and a platelet transfusion is not indicated.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": [
+            "All",
+            "Haematology"
+        ],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 28-year-old lady presents to the GP with heavy periods. On questioning, she also states that she had a nosebleed yesterday which lasted about half an hour before stopping. This is unusual for her as in the past, her nosebleeds stopped within 5 minutes. She is otherwise well and does not have any other medical conditions. She does not report any fatigue or recurrent infections. Examination reveals normal vital signs, a clear chest, a soft and nontender abdomen, as well as a normal pelvic exam.",
+                "Question": "What investigation will be most helpful in the next step of assessment?",
+                "Options": [
+                    "Urea and electrolytes ",
+                    "Transvaginal ultrasound ",
+                    "Von-Willebrand factor assay",
+                    "Full blood count",
+                    "Blood cultures "
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – The history here is indicative of ITP. From the history we cannot infer any issues with this lady’s kidneys. B – The cause for the menorrhagia is likely due to impaired primary haemostasis. A transvaginal ultrasound might be offered if there was a structural abnormality suspected to be the cause of menorrhagia. Some pointers in the history which may point to this is finding a bulky uterus. Here the uterus size is normal on examination. C – Although von-Willebrand disease is a good differential, a full blood count should be performed first to rule out any issue with the platelets. Furthermore, the history does not suggest other features of von-Willebrand disease, such as a positive family history or a long-standing history of bleeding. In this case, the patient only recently started noticing these symptoms. D – Correct. Based on the completely normal history beforehand and the patient’s age group, the most likely diagnosis here is ITP. Next steps should include assessment of platelets via an FBC and blood film. E – There are no features in the history suggesting infection, bacteraemia, or sepsis. As such, blood cultures are not necessary.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Investigations reveal an isolated thrombocytopenia",
+                "Options": [
+                    "Thrombotic thrombocytopenic purpura",
+                    "Immune thrombocytopenic purpura",
+                    "Disseminated intravascular coagulation",
+                    "Haemophilia A",
+                    "Von-Willebrand disease"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A – In TTP, we would expect an accompanying anaemia indicating intravascular haemolysis due to deposition of clots in small vessels. B – Correct. The FBC demonstrates an isolated thrombocytopenia  , and the clotting studies indicate impairment of primary haemostasis due to raised bleeding time. This narrows down the differentials to ITP and von-Willebrand disease. However, the aPTT is not raised, ruling out DIC, haemophilia and vWD as differentials. C – We would expect both PT and aPTT to be raised in DIC. Here they are normal. D – We would expect a raised aPTT in haemophilia and a normal bleeding time because haemophilia is an issue of secondary haemostasis. Here, the aPTT is normal. Furthermore, it is an X-linked recessive condition so is unlikely to be seen in females. E – Due to von-Willebrand factor shuttling around factor VIII, we would expect a raised aPTT in vWD.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following best sums up the pathophysiology behind her bleeding symptoms?",
+                "Options": [
+                    "Reduced production of thrombopoietin ",
+                    "Platelet depletion due to excessive activation and clot formation",
+                    "Antibody formation against GpIIb/IIIa receptors",
+                    "Bone marrow infiltration by malignant immature cells",
+                    "Inability for platelets to degranulate "
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A – This is the mechanism of thrombocytopenia in advanced liver disease. B – This is the mechanism of thrombocytopenia in microangiopathic haemolytic anaemia such as HUS, TTP or DIC. C – Correct. The antibodies bind to the receptors on platelets and mark them for destruction by the spleen. D – This is the mechanism of thrombocytopenia in acute leukaemia.  E – Platelet function is normal in ITP so we would not expect structural deformities of the platelets themselves.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "What is the next step in her management?",
+                "Options": [
+                    "Rituximab",
+                    "Eltrombopag",
+                    "Oral prednisolone  ",
+                    "Splenectomy",
+                    "Cyclophosphamide"
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A – Rituximab is a biologic drug consisting of monoclonal antibodies against CD20 receptors on B cells. It may be used if oral prednisolone, IVIg and anti-D antibodies have failed. B – Eltrombopag is a thrombopoietin receptor agonist which increases platelet production.  It may be used if oral prednisolone, IVIg and anti-D antibodies have failed.  C – Correct. Oral prednisolone (and in more severe cases, adjunct IVIg and anti-D antibodies) is first-line in the acute treatment of ITP.  D – Splenectomy is less commonly used now. It may be used if oral prednisolone, IVIg and anti-D antibodies have failed. E – Cyclophosphamide is an immunosuppressant. It may be used if oral prednisolone, IVIg and anti-D antibodies have failed.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "What further investigations should she receive?",
+                "Options": [
+                    "Antinuclear antibodies",
+                    "Bone marrow biopsy",
+                    "Cytogenetics and immunohistochemistry",
+                    "HIV and Hepatitis C testing ",
+                    "TDT staining "
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – Although other autoimmune diseases (e.g., SLE) have been associated with ITP, at the moment it is not recommended to routinely check for antinuclear antibodies. B – Bone marrow biopsy is not recommended unless abnormalities other than thrombocytopenia appear on the FBC. C – This may be offered if leukaemia was thought to be the cause. Only hepatitis C and HIV screening is offered routinely to adults with ITP. D – Correct. All adults with ITP are offered screening for hep C and HIV. E – This is a special type of stain used to distinguish between acute lymphoblastic leukaemia and acute myeloid leukaemia. It does not play a role in ITP investigation/management.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": [
+            "All",
+            "Haematology"
+        ],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 5-year-old boy is brought to A&E after his mother notices a non-blanching rash on his skin. She is worried because 2 weeks ago, he had a runny nose and a very painful ear. The child is otherwise well and has no other past medical history. On examination, you notice a petechial rash over the child’s legs. Other than this, he appears alert, well-perfused, playful and orientated, with no fever or organomegaly. Investigations reveal an isolated thrombocytopenia.",
+                "Question": "What is the most likely diagnosis?",
+                "Options": [
+                    "Haemolytic uraemic syndrome",
+                    "Meningococcal septicaemia ",
+                    "Acute lymphoblastic leukaemia",
+                    "Immune thrombocytopenic purpura",
+                    "Henoch-Schoenlein purpura"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – If this was HUS, we would expect a history of bloody diarrhoea, and anaemia with thrombocytopenia in the FBC. However, only an isolated thrombocytopenia is seen, which came on following a viral infection, making ITP the most likely diagnosis. B – We would expect the child to be much more miserable, disoriented and withdrawn, with a fever and potential signs of shock. Here, the child is playful and oriented. C – Although this is a good differential, we would expect a high white cell count as well as some other features of pancytopenia such as pallor or recurrent infection. The lack of organomegaly, as well as the isolated thrombocytopenia, makes ITP the most likely diagnosis. D – Correct. The onset of bleeding following a viral infection, and confirmed isolated thrombocytopenia are the hallmarks of ITP. E – This is a type of small vessel vasculitis. We would not expect to see a thrombocytopenia in HSP. In addition to this, the characteristic pattern of the rash seen in HSP is over the buttocks and back of the legs. ",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "What is the next step in this child’s management?",
+                "Options": [
+                    "He requires IVIG",
+                    "He should be referred for a splenectomy",
+                    "Patient education and advice to avoid contact sports",
+                    "He should be given rituximab",
+                    "He requires cyclophosphamide  "
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A – The vast majority of children do not need treatment as this is a self-limiting condition. Education about trauma prevention, as well as recognising early symptoms of bleeding which require urgent attention, is the mainstay of management. B – The vast majority of children do not need treatment as this is a self-limiting condition. Education about trauma prevention, as well as recognising early symptoms of bleeding which require urgent attention, is the mainstay of management. C – Correct. The vast majority of children do not need treatment as this is a self-limiting condition. Education about trauma prevention, as well as recognising early symptoms of bleeding which require urgent attention, is the mainstay of management. D – The vast majority of children do not need treatment as this is a self-limiting condition. Education about trauma prevention, as well as recognising early symptoms of bleeding which require urgent attention, is the mainstay of management. E – The vast majority of children do not need treatment as this is a self-limiting condition. Education about trauma prevention, as well as recognising early symptoms of bleeding which require urgent attention, is the mainstay of management.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "His mother is worried and wants to know more about the disease. Which one of the following statements is false?",
+                "Options": [
+                    "Most cases will resolve within 6-8 weeks",
+                    "1/3 will relapse, 1/3 will get better and 1/3 will get worse",
+                    "Cases resolve completely in around 80% of children ",
+                    "Its mean age of onset in children is around 5-6y/o",
+                    "It is more common in women of childbearing age"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A – Most cases in children resolve around 6-8 weeks. B – Correct. This is the prognosis of minimal change disease (a kidney related disease). C – Only around 20% of children go on to have chronic ITP. D – The mean age of onset in children is 5.7y/o. E – This is more common in women of childbearing age.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": [
+            "All",
+            "Haematology"
+        ],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 6-day old baby born to an asylum seeker is found to have prolonged bleeding at his heel-prick test. His mother did not have the normal antenatal care as she recently migrated here. He was breech so was born via caesarean section. His family history reveals that his maternal uncle has a bleeding disorder and is wheelchair bound due to recurrent joint bleeds. His platelet count is found to be normal. A clotting screen reveals a prolonged aPTT",
+                "Question": "What is the most likely diagnosis?",
+                "Options": [
+                    "Haemophilia A",
+                    "Haemophilia B",
+                    "Immune thrombocytopenic purpura",
+                    "Von-Willebrand disease",
+                    "Disseminated intravascular coagulation"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "A – Correct. This baby had prolonged bleeding at his heel prick test, suggesting an underlying coagulopathy. Being male and having a maternal uncle with a bleeding disorder, with asymptomatic parents, suggests an X-linked recessive condition. The investigations demonstrate normal platelets and bleeding time, and a prolonged aPTT. This suggests a defect of the intrinsic pathway. Haemophilia A is 6 times more common than haemophilia B, so the pathology is more likely to be haemophilia A than B. B – This baby had prolonged bleeding at his heel prick test, suggesting an underlying coagulopathy. Being male and having a maternal uncle with a bleeding disorder, with asymptomatic parents, suggests an X-linked recessive condition. The investigations demonstrate normal platelets and bleeding time, and a prolonged aPTT. This suggests a defect of the intrinsic pathway. Haemophilia A is 6 times more common than haemophilia B, so the pathology is more likely to be haemophilia A than B. C – ITP in children is usually preceded by a trigger such as a viral infection, and is followed by a period of isolated transient thrombocytopenia. Here, the platelet count is normal. D – We would expect a prolonged bleeding time with von-Willebrand disease.  E – In DIC, we would expect a thrombocytopenia, prolonged PT and prolonged aPTT. Here, the PT and platelet count are normal.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following best characterises the pathology of haemophilia A?",
+                "Options": [
+                    "Resistance to activated protein C",
+                    "Protein C deficiency",
+                    "Deficiency of factor IX",
+                    "Deficiency of factor VIII",
+                    "Deficiency of factor XI"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – This is the pathology of Factor V Leiden which increases risk of clotting. Haemophilia, on the other hand, is a bleeding disorder due to factor VIII deficiency. B – Protein C deficiency would lead to an increase in the risk of clotting. Haemophilia A is a bleeding disorder due to factor VIII deficiency. C – Factor IX deficiency is the pathology of haemophilia B. D – Correct. Haemophilia A, which is far more common than haemophilia B, is due to the deficiency of factor VIII. E – Factor XI deficiency is the pathology behind haemophilia C.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "The child is diagnosed with haemophilia, and it is decided that he should have prophylactic treatment. Which of the following is the mainstay prophylactic treatment?",
+                "Options": [
+                    "Plasma-derived factor VIII",
+                    "Recombinant factor VIII",
+                    "Fresh frozen plasma",
+                    "Cryoprecipitate",
+                    "Activated factor VII"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A – Plasma derived factor VIII is rarely used now due to the increased risk of blood-borne viral infections such as Creutzfeldt-Jakob disease. Recombinant factor VIII forms the first-line management of haemophilia A. B – Correct. Recombinant factor VIII is first-line due to the reduced risk of viral infections such as Creutzfeldt-Jacob disease compared to plasma-derived factor VIII. C – FFP may be used in an emergency situation/acute bleeding episode if recombinant factor VIII is not available. An intravenous infusion helps to restore all clotting factors including factor VIII and fibrinogen. However, it is not used as prophylactic treatment. D – Cryoprecipitate may be used in an emergency situation/acute bleeding episode if recombinant factor VIII is not available. It contains factor VIII, von-Willebrand factor and fibrinogen. However, it is not used as prophylaxis against acute bleeds. E – Haemophilia is characterised by the deficiency of factor VIII in haemophilia A (the far more common type) and factor IX in haemophilia B (the rarer type). As such it is a disease of the intrinsic pathway. Factor VII is part of the extrinsic pathway and thus tends to be normal. As factor VII is not used prophylactically.  ",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "The child is started on recombinant factor VIII. He presents at the age of 7 with a tense swollen knee. This came on suddenly with no history of trauma. On examination, he looks miserable and is clearly in pain. On inspection, the knee looks tense and erythematous. The child is refusing to bear weight, has a reduced range of movement, and negative anterior and posterior draw tests. Aside from pain he is haemodynamically stable and has a temperature of 37.1. What is the most likely diagnosis?",
+                "Options": [
+                    "Septic arthritis",
+                    "ACL tear ",
+                    "Haemarthrosis",
+                    "Septic bursitis ",
+                    "Transient synovitis"
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A – With a history of haemophilia, haemarthrosis is more likely to be the diagnosis than septic arthritis. We can also see that his temperature is normal, whereas septic arthritis is often accompanied by fever and features of an infection. B – An ACL tear may result in haemarthrosis. However, with the history of haemophilia A, spontaneous haemarthrosis is more likely to be the case. Furthermore, the anterior draw test is negative. We would expect this to be positive in an ACL tear.  C – Correct. Spontaneous haemarthroses, large ecchymoses and intramuscular bleeds are common features for haemophilia A. D – In septic bursitis, we would expect the swelling to be present anterior of the knee rather than in the actual knee joint itself. Furthermore, we may also expect other features of infection like a fever. Here, his temperature is normal. E – Transient synovitis is a self-limiting condition characterised by the inflammation of the synovium following a precipitant (usually a preceding viral infection). This patient has no history of this. Furthermore, the history of haemophilia makes spontaneous haemarthrosis the most likely diagnosis.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "This episode of haemarthrosis occurred despite the use of prophylactic therapy. His parents admit he has been progressively developing larger bruises. What is the most likely reason why his factor VIII therapy is not working?",
+                "Options": [
+                    "Excessive destruction of factor recombinant VIII by the spleen ",
+                    "New development of factor IX deficiency",
+                    "Recombinant factor VIII is less effective than plasma derived alternatives",
+                    "Excessive destruction of factor VIII by the liver",
+                    "Development of antibodies against recombinant factor VIII"
+                ],
+                "CorrectOption": 4,
+                "SelectedOption": -1,
+                "explanation": "A. Around 1/4 – 1/3 of patients who receive recombinant factor VIII develop autoantibodies against factor VIII. This occurs due to a T-cell mediated response, and the spleen does not play a role in its breakdown.  B. Around 1/4 – 1/3 of patients who receive recombinant factor VIII develop autoantibodies against factor VIII. This occurs due to a T-cell mediated response. Factor IX deficiency is haemophilia B and is a different condition. C. Recombinant factor VIII and plasma-derived factor VIII are equally as effective. However, recombinant factor VIII is used first-line due to the lower risk of infection.  D. Around 1/4 – 1/3 of patients who receive recombinant factor VIII develop autoantibodies against factor VIII. This occurs due to a T-cell mediated response, and the liver does not play a role in its breakdown.  E. Correct. Around 1/4 – 1/3 of patients who receive recombinant factor VIII develop autoantibodies against factor VIII. This occurs due to a T-cell mediated response which neutralises the factor VIII in the blood, rendering it ineffective. ",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Should the child have a life-threatening bleeding episode, which of the following can be given as an alternative to factor VIII?  ",
+                "Options": [
+                    "Factor VIIa",
+                    "Plasma-derived factor VIII",
+                    "Desmopressin",
+                    "Vitamin K infusion",
+                    "Recombinant factor IX"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "A – Correct. Once antibodies have developed against factor VIII, bypassing agents such as factor VIIa can be used. This bypasses the intrinsic pathway by upregulating the extrinsic pathway, increasing clot production. B – The antibodies target factor VIII regardless of whether it is plasma-derived or recombinant. It should be noted, however, that there is a slightly higher risk of developing these antibodies with the use of plasma-derived factor VIII. C – This works in mild to moderate bleeds by releasing endothelial stores of von-Willebrand factor which increases plasma concentration of factor VIII. In acute and life-threatening bleeds, a bypassing agent such as factor VIIa can be used to bypass the intrinsic pathway and boost clot production via the extrinsic pathway. D – Vitamin K is useful in reversing the effects of warfarin as it inhibits the clotting factors II, VII, IX and X. However, it is not used in the management of haemophilia. E – Patients with haemophilia A have normal levels of factor IX so do not require this infusion. Furthermore, factor IX forms clots via the intrinsic pathway, which is inhibited due to the inhibition of factor VIII. As such, bypassing agents such as factor VIIa can be used. This bypasses the intrinsic pathway by upregulating the extrinsic pathway, increasing clot production.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": [
+            "All",
+            "Haematology"
+        ],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 19-month-old girl is brought into A&E with a tense and swollen elbow. Her parents inform you she had a fall 2 hours ago while running and has been refusing to move the arm since. She is otherwise well. However, her mother tells you that she has always been short on her growth chart, and bled excessively during her heel-prick test. Her maternal grandfather had a bleeding condition. On examination, the elbow joint is tense, swollen and erythematous. During the examination, you notice that her arms have a wide carrying angle, she has a broad shield-shaped chest with widely spaced nipples, and webbing of the neck.",
+                "Question": "Which of the following investigations is not appropriate?",
+                "Options": [
+                    "Full blood count",
+                    "Clotting profile ",
+                    "Plain radiograph of the elbow",
+                    "Bone marrow biopsy",
+                    "Genetic karyotyping  "
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – The history hints towards haemophilia in this patient. Despite this, thrombocytopenia should be ruled out with a full blood count. B – The history hints towards haemophilia in this patient. A clotting profile is very helpful in making the diagnosis and often shows a prolonged aPTT with a normal bleeding time.  C – Trauma, such as a fracture, could cause haemarthrosis. As such, plain radiographs can be useful to rule this out. D – Correct. At this stage, a bone marrow biopsy is not needed. First-line investigations such as a full blood count, clotting studies and liver function tests should be performed to rule out other clotting abnormalities. Bone marrow biopsies are used to diagnose a malignant infiltrative haematological condition such as leukaemia. E – The features of short stature, a shield-shaped chest, webbing of the neck, and a wide carrying angle strongly suggests a chromosomal abnormality. This chromosomal abnormality can be detected by genetic karyotyping.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Her investigations reveal a normal FBC, plain radiograph and LFTs. Her clotting profile shows a prolonged aPTT and normal bleeding time. What is her genetic karyotyping likely to show?",
+                "Options": [
+                    "XXY",
+                    "Trisomy 18 ",
+                    "XO",
+                    "Trisomy 21",
+                    "Trisomy 13"
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A – This is Kleinfelter syndrome. This is characterised by delayed puberty and feminine features in a phenotypic male. Features include small testicular volume, tall height and gynecomastia.  B – This is Edward’s syndrome. Although many of these abnormalities are seen, the X chromosome is not affected. Since haemophilia is an X-linked recessive condition, a patient with 2 functional X chromosomes is often asymptomatic so should not experience haemarthrosis.      C – Correct. This is Turner syndrome. It is characterised by the loss of one X chromosome, leading to short stature, webbing of the neck, widely spaced nipples and a wide carrying angle. If the healthy X chromosome is lost, females (who are usually asymptomatic) may show features of severe haemophilia  D – This is Down syndrome. Typical features include epicanthic folds, almond shaped eyes, single palmar crease, and a flat nasal bridge. However, the X chromosome is not affected. Since haemophilia is an X-linked recessive condition, a patient with 2 functional X chromosomes is often asymptomatic so should not experience haemarthrosis.      E – This is Patau’s syndrome and does not affect the X chromosome. Since haemophilia is an X-linked recessive condition, a patient with 2 functional X chromosomes is often asymptomatic so should not experience haemarthrosis.  ",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Her factor VIII assay reveals <1% of the normal value in the blood, and she is diagnosed with severe haemophilia. Which of the following best describes the genetic mutation?",
+                "Options": [
+                    "Inversion of the X chromosome",
+                    "Chromosomal nondisjunction",
+                    "Robertsonian translocation ",
+                    "Inversion of the Y chromosome ",
+                    "Substitution reaction on chromosome 11"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "A – Correct. Around half of the cases of severe haemophilia A occur due to a flip-tip inversion of the X chromosome. The long arm of chromosome X (containing the factor VIII gene) wraps around the short arm, placing the introns 1 and 22 next to each other, leading to a missense or nonsense mutation.  B – This is the mechanism behind Down syndrome.  C – This is the mechanism behind Patau’s syndrome, and rarely, Down syndrome.  D – The Y chromosome does not play a role in the mechanism of haemophilia A. E – This is the mechanism behind sickle cell disease which is an autosomal recessive haemolytic anaemia.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": [
+            "All",
+            "Haematology"
+        ],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 4-year-old boy is brought into the GP with a 3-day history of abdominal pain, and profuse diarrhoea which has turned bloody for one episode. The episodes started after he visited his friend’s birthday party. On examination, the child appears pale with dry mucous membranes. He has a soft abdomen which is tender on palpation. A urine dipstick reveals ++ blood and ++ protein.",
+                "Question": " What is the next step in his management?",
+                "Options": [
+                    "Advise bedrest and oral rehydration solution",
+                    "Perform stool cultures",
+                    "Cannulate and give IV fluids",
+                    "Admit to hospital",
+                    "Refer for plasma exchange"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – The presence of haematuria and proteinuria suggests renal involvement and, thus, the patient may require haemodialysis. They may also require IV fluids to replace fluids. He also requires a more thorough assessment which should be done after admission to hospital. Advising bedrest and ORS may lead to further kidney damage. B – Although stool cultures will need to be performed, this should be done at the hospital. At the moment, the child requires assessment and treatment of underlying renal damage. C – This will form part of the management. However, IV cannulation should be done at the hospital. Further to this, his peripheral access may be poor due to dehydration and diarrhoea and, as such, he may require more specialist input. D – Correct. This is the classical history of haemolytic uraemic syndrome. The presence of haematuria and proteinuria suggests significant glomerular insult and, as such, he should be admitted to and assessed in hospital. E – Plasma exchange is offered for atypical HUS to remove the defective complement (C5), limiting further glomerular damage. It does not typically form part of the management of typical HUS. Furthermore, this would be ordered in hospital by the specialist.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "While admitted to hospital, the doctor orders some investigations. His urea and creatinine are raised significantly. Both haemoglobin and platelets are low.",
+                "Question": "Given the most likely diagnosis, what is the most likely causative organism?",
+                "Options": [
+                    "Parvovirus B19",
+                    "E. coli 0157:H7",
+                    " Non-typhi salmonella",
+                    "Norovirus",
+                    "Rotavirus"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A – Haemolytic uraemic syndrome is most often caused by exposure to E. coli 0157:H7, an entero-haemorrhagic form of E. coli that produces the shiga-like toxin. This toxin can damage the intestinal lining as well as the endothelium at the glomerulus, leading to bloody diarrhoea and kidney injury. Parvovirus would cause more coryzal symptoms followed by a slapped cheek appearance. B – Correct. Haemolytic uraemic syndrome is most often caused by exposure to E. coli 0157:H7, an entero-haemorrhagic form of E. coli that produces the shiga-like toxin. It can be detected in stool cultures. This toxin can damage the intestinal lining as well as the endothelium at the glomerulus, leading to bloody diarrhoea and kidney injury. C – Haemolytic uraemic syndrome is most often caused by exposure to E. coli 0157:H7, an entero-haemorrhagic form of E. coli that produces the shiga-like toxin. This toxin can damage the intestinal lining as well as the endothelium at the glomerulus, leading to bloody diarrhoea and kidney injury. Non-typhi salmonella often causes non-bloody diarrhoea. D – Haemolytic uraemic syndrome is most often caused by exposure to E. coli 0157:H7, an entero-haemorrhagic form of E. coli that produces the shiga-like toxin. This toxin can damage the intestinal lining as well as the endothelium at the glomerulus, leading to bloody diarrhoea and kidney injury. Norovirus usually causes profuse, non-bloody diarrhoea and often spreads in environments like care homes.    E – Haemolytic uraemic syndrome is most often caused by exposure to E. coli 0157:H7, an entero-haemorrhagic form of E. coli that produces the shiga-like toxin. This toxin can damage the intestinal lining as well as the endothelium at the glomerulus, leading to bloody diarrhoea and kidney injury. Rotavirus is routinely vaccinated against in the UK so it is unlikely to be the causative organism in this case.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following is likely to be seen in this patient?",
+                "Options": [
+                    "Positive Coombs’ test and presence of schistocytes on blood film",
+                    "Negative Coombs’ test and normal blood film",
+                    " Negative Coombs’ test and presence of schistocytes on blood film",
+                    "Positive Coombs’ test and presence of Heinz bodies on blood film",
+                    "Positive Coombs’ test and presence of bite cells on blood film"
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A – HUS is a microangiopathic haemolytic anaemia. As such, it is not an autoimmune process so Coombs’ test is negative. The deposition of microthrombi in the blood vessels leads to shearing of red cells, producing schistocytes which can be visualised on a blood film. B – HUS is a microangiopathic haemolytic anaemia so we would expect Coombs’ test to be negative. However, we would also expect to see schistocytes on a blood film as a result of intravascular haemolysis secondary to microthrombi deposition. C – Correct. HUS is a microangiopathic haemolytic anaemia. Typical HUS (far more common than aHUS, and more likely in this case) is a non-immune mediated process so Coombs’ test would be negative. The deposition of microthrombi in blood vessels leads to shearing of red cells, producing schistocytes which can be visualised on a blood film. D – HUS is a microangiopathic haemolytic anaemia so we would expect Coombs’ test to be negative. However, we would also expect to see schistocytes on a blood film as a result of intravascular haemolysis secondary to microthrombi deposition. Heinz bodies are not typically seen in HUS, and are instead typically seen in G6PD deficiency and thalassaemia. E – HUS is a microangiopathic haemolytic anaemia so we would expect Coombs’ test to be negative. However, we would also expect to see schistocytes on a blood film as a result of intravascular haemolysis secondary to microthrombi deposition. Bite cells are not typically seen in HUS, and are instead typically seen in G6PD deficiency.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": " Which of the following does not form part of the management of typical HUS?",
+                "Options": [
+                    "Haemodialysis",
+                    "Red cell transfusion",
+                    "Calcium channel blockers",
+                    "IV fluids",
+                    "Eculizumab"
+                ],
+                "CorrectOption": 4,
+                "SelectedOption": -1,
+                "explanation": "A – Renal replacement therapy is needed in up to half of children with HUS and diarrhoea. B – In excessive haemolysis, a blood transfusion may be needed. This is especially the case in cardiac compromise, which may manifest as tachycardia, hypotension, and a systolic flow murmur. C – Antihypertensives may be used as renal protection to prevent further kidney injury. CCB may be used first-line in place of ACE-i due to risk of renal hypoperfusion with the latter. D – IV fluids and supportive care are the mainstay treatment for HUS. This is especially the case here as he has had profuse diarrhoea for 3 days and has signs of dehydration such as dry mucous membranes. E – Correct. eculizumab is a monoclonal antibody that acts against the complement protein, C5, which leads to kidney injury in aHUS. The cause of the renal damage in typical HUS is due to the presence of the shiga-like toxin so eculizumab would not play a part in its treatment.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "",
+        "categoryPath": [
+            "All",
+            "Haematology"
+        ],
+        "Answered": false,
+        "Notes": "",
+        "Chat": [],
+        "sections": [
+            {
+                "Occurence": "A 45-year-old man was admitted to hospital following a severe road traffic accident yesterday in which he lost a significant amount of blood. He had been resuscitated, stabilised, and admitted as an inpatient. You are called to see him today for an ongoing nosebleed that started 20 minutes ago.  On examination, you notice he is oozing blood from his cannulation sites, as well as his gums. He appears confused and drowsy, and appears to have a purpuric rash over his arms and legs. You notice his fingers look blue. His temperature is normal, but his pulse is 130bpm with a blood pressure of 85/60mmhg. ",
+                "Question": "What is the most likely diagnosis?",
+                "Options": [
+                    "Von-Willebrand disease",
+                    "Disseminated intravascular coagulation",
+                    "Immune thrombocytopenic purpura",
+                    "Heparin induced thrombocytopenia ",
+                    "Thrombotic thrombocytopenic purpura"
+                ],
+                "CorrectOption": 1,
+                "SelectedOption": -1,
+                "explanation": "A – Von-Willebrand disease is a disorder of primary haemostasis in which epistaxis and, rarely, purpura can be seen. However, oozing of blood, especially from more than 3 sites, with a clear trigger of major trauma, points strongly towards DIC. B – Correct. He has a clear trigger of trauma. He also has features of spontaneous bleeding and oozing from 3 different sites, suggesting he has DIC. A history of acute blood loss can also precipitate DIC due to loss of plasma and clotting factors during the acute haemorrhage. Other triggers include sepsis, obstetric emergencies, pancreatitis and haemotoxins. C – This is often a self-limiting condition following a viral illness. Although it may cause purpura and epistaxis, it should not come on as acutely. Furthermore, oozing of blood, especially from more than 3 sites, with a clear trigger of major trauma points strongly towards DIC. D – He is an inpatient so may have received heparin. Heparin can bind to platelet factor 4, activating them, and causing them to be destroyed in the spleen. However, this usually occurs around the 4-5th day of heparin therapy. This man has only been on heparin a day. Furthermore, oozing of blood, especially from more than 3 sites, with a clear trigger of major trauma points strongly towards DIC. E – TTP has a slow onset, occurring due to the improper cleavage of von-Willebrand factor. Although it may also lead to microthrombi formation, it usually presents with the classic pentad of anaemia, thrombocytopenia, fever, neurological dysfunction, and renal failure. Here, oozing of blood, especially from more than 3 sites, with a clear trigger of major trauma points strongly towards DIC.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "A diagnosis of DIC is suspected. Which of the following best summarises the pathogenesis of DIC?",
+                "Options": [
+                    "Improper cleavage of the ADAMTS13",
+                    "Deficiency of factor IX",
+                    "Antibodies against GpIIb/IIIa receptors",
+                    "Improper activation of the tissue factor",
+                    "Antibodies against beta-2 glycoprotein 1 on platelets"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – This is the pathogenesis of thrombotic thrombocytopenic purpura. B – This is the pathogenesis of haemophilia B. C – This is the pathogenesis of immune thrombocytopenia. D – Correct. It is thought the trigger of DIC causes the release of tissue factor which leads to thrombin formation via the extrinsic pathway. This thrombin can act as a kickstarter of the intrinsic pathway leading to uncontrolled fibrin formation. E – This is the mechanism behind antiphospholipid syndrome.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following is not a trigger for DIC?",
+                "Options": [
+                    "Severe sepsis",
+                    "Eclampsia",
+                    "Severe burns",
+                    "Preceding viral infection",
+                    "Invasive surgery"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – This is a common trigger of DIC. The inflammation diffusely activates coagulation, triggering a hypercoagulable state. B – Obstetric emergencies such as eclampsia are triggers for DIC. Others include placental abruption and retained intrauterine foetal death. C – Trauma, severe burns and invasive surgeries are triggers for DIC. D – Preceding viral infection is not a trigger for DIC. However, it may be a trigger for ITP E – Trauma, severe burns and invasive surgeries are triggers for DIC.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "Which of the following is not a feature of DIC?",
+                "Options": [
+                    "Digital infarcts",
+                    "Petechiae",
+                    "Oliguria",
+                    "Haematuria",
+                    "Splenomegaly"
+                ],
+                "CorrectOption": 4,
+                "SelectedOption": -1,
+                "explanation": "A – Microthrombi can get deposited in the small vessels of the hands and feet, leading to digital ischaemia and infarction. B – The thrombocytopenia may result in petechiae. C – Microthrombi in the kidney can lead to AKI and subsequent oliguria. D – Red cell fragments may appear in the urine, causing haemoglobinuria. E – Correct. The haemolysis that occurs in DIC is intravascular. As a result, the spleen does not play a big role in the haemolysis and does not enlarge. Another way to think about it is that DIC is an acute condition and, as such, the spleen also does not have enough time to enlarge. ",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "The doctor orders some blood tests. Which of the following is unlikely to form part of the initial blood tests for this patient?",
+                "Options": [
+                    "Full blood count",
+                    "Clotting studies",
+                    "U&Es",
+                    "Coombs’s test ",
+                    "D Dimer  "
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – This helps to visualise the thrombocytopenia which is classically present in DIC.  B – Helps to visualise coagulopathy in DIC. Findings include a prolonged PT, aPTT and bleeding time.  C – Microthrombi in the kidneys can lead to AKI, which is reflected on the U&Es. D – Correct. This is used to detect autoimmune haemolytic anaemia. While haemolysis is a key feature of DIC, the mechanism behind it is mechanical due to microthrombi deposition and intravascular shearing of cells. Since it is not an immune mediated process, the Coombs test is negative.  E – D dimer is a product of fibrin degradation, which is elevated DIC due to the rapid formation and breakdown of clots. We would expect the levels to be markedly elevated.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": "What is likely to be found on the patient’s blood results?",
+                "Options": [
+                    "Low fibrinogen, prolonged PT, prolonged aPTT",
+                    "Normal fibrinogen, prolonged PT, prolonged aPTT",
+                    "Normal fibrinogen, normal PT, prolonged aPTT",
+                    "Low fibrinogen, prolonged PT, normal aPTT",
+                    "Low fibrinogen, normal PT, normal aPTT"
+                ],
+                "CorrectOption": 0,
+                "SelectedOption": -1,
+                "explanation": "A – Correct. The uncontrolled clot formation depletes all clotting factors. The depletion of the extrinsic clotting factors leads to a prolonged PT. The depletion of the Intrinsic clotting factors leads to a prolonged aPTT. Since the cascade is highly active and produces high levels of fibrin, serum fibrinogen decreases. B – This would be the typical findings in warfarin toxicity.  C – This would be the typical findings in haemophilia. D – DIC classically shows prolonged PT, prolonged aPTT and low fibrinogen.     E – DIC classically shows prolonged PT, prolonged aPTT and low fibrinogen.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "Investigations reveal an elevated PT and aPTT, the fibrinogen and platelet count were low.",
+                "Question": "What can be used to replenish all of his clotting factors?",
+                "Options": [
+                    "Cryoprecipitate",
+                    "Prothrombin complex concentrate (PCC)",
+                    "Fresh frozen plasma (FFP)",
+                    "Platelet concentrate",
+                    "IV vitamin K"
+                ],
+                "CorrectOption": 2,
+                "SelectedOption": -1,
+                "explanation": "A – Cryoprecipitate contains fibrinogen, factor VIII and von-Willebrand factor in high concentrates. It is used as the second line to FFP which contains all of the clotting factors.  B – PCC contains the clotting factors II, VII, IX and X. It would partially resolve the coagulopathy and could be used if FFP is unavailable or patients could not have FFP due to fluid overload. Our patient has no signs of this. C – Correct. Clotting factors exist dissolved in the plasma. As such, replenishment of plasma via the means of FFP is first-line in replenishing all clotting factors. This includes fibrinogen. Only when this is not available or is contraindicated will cryoprecipitate or PCC be considered. General management includes supportive care and treating the underlying cause.   D – Although platelet transfusion does form part of the management of DIC, it is mainly considered if platelets drop below 50.  E – IV vitamin K is used in the treatment of overanticoagulation with warfarin. It is not used in DIC.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "Occurence": "",
+                "Question": " He is treated with FFP. On closer inspection, you notice one of his fingers is starting to turn black. It feels cold and has an increased capillary refill time. Given the likely complication and this patient’s high risk of bleeding, which of the following drugs would be most appropriate in his treatment?",
+                "Options": [
+                    "Low molecular weight heparin",
+                    "Apixaban",
+                    "Warfarin",
+                    "Unfractionated heparin",
+                    "Dabigatran"
+                ],
+                "CorrectOption": 3,
+                "SelectedOption": -1,
+                "explanation": "A – Due to its short half-life and its reversibility, unfractionated heparin is preferred in patients with a high bleeding risk. B – Apixaban is a DOAC and would significantly increase the patient’s risk of bleeding. Due to its short half-life, unfractionated heparin is preferred in patients with a high bleeding risk. C – Warfarin is not used in the management of DIC. Furthermore, its acute use here could potentiate thrombosis by further depleting levels of protein C. D – Correct. Due to its short half-life, unfractionated heparin is preferred in patients with a high bleeding risk. E – Dabigatran is a DOAC and would significantly increase the patient’s risk of bleeding. Due to its short half-life, unfractionated heparin is preferred in patients with a high bleeding risk.",
+                "Percentages": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    }
+]

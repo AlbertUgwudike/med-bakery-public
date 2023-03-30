@@ -1,0 +1,20 @@
+[
+    { 
+        "name": "Rate", 
+        "selected": false,
+        "attempts": 0,
+        "correct": 0
+    },
+    { 
+        "name": "Arrhythmias", 
+        "selected": false,
+        "attempts": 0,
+        "correct": 0
+    },
+    { 
+        "name": "ACS", 
+        "selected": false,
+        "attempts": 0,
+        "correct": 0
+    }
+]

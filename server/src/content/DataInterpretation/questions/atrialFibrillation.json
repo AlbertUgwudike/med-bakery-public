@@ -1,0 +1,18 @@
+{
+    "id": "AtrialFibrillation",
+    "title": "Atrial Fibrillation",
+    "task": "Please intepret the ECG",
+    "exemplar":"false",
+    "category": "ECG",
+    "finding": "Irregular Rhythm",
+    "description": "Some description of AF",
+    "image": "Pneumothorax.png",
+    "sections": [
+      {
+        "title": "Deviated Trachea",
+        "tab_label": "A",
+        "image": "Pneumothorax.png",
+        "descirption": "A deviated trachea can indicate .... etc"
+      }
+    ]
+  }

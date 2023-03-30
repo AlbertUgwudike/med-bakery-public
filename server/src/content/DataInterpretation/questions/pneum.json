@@ -1,0 +1,45 @@
+{
+    "id": "Pneumothorax",
+    "title": "Pneumothorax",
+    "task": "Please intepret the CXR",
+    "exemplar":"true",
+    "category": "Chest X-rays",
+    "finding": "Tracheal Deviation",
+    "description": "A pneumothorax has an abscence of lung markings on one side",
+    "image": "pneum1.png",
+    
+    "sections": [
+      {
+        "title": "Deviated Trachea",
+        "tab_label": "A",
+        "image": "pneum.png",
+        "descirption": "A deviated trachea can indicate .... etc"
+      },
+      {
+        "title": "Lung fields",
+        "tab_label": "Breathing",
+        "image": "Pneumothorax.png",
+        "descirption": "Shadowing in right middle lobe suggests .... etc"
+      },
+      {
+        "title": "Enlarged heart",
+        "tab_label": "Circulation",
+        "image": "Pneumothorax.png",
+        "descirption": "Increased cardiothoracic ratio is seen in .... etc"
+      },
+      {
+        "title": "Diaphragm",
+        "tab_label": "Diaphragm",
+        "image": "Pneumothorax.png",
+        "descirption": "blunt costrophrenic angles may suggest .... etc"
+      },
+      {
+        "title": "ECG leads",
+        "tab_label": "Else",
+        "image": "pneum.png",
+        "descirption": "Extra features hint at level of morbidity .... etc"
+      }
+    ]
+  }
+
+  

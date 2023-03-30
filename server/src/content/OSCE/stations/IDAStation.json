@@ -1,0 +1,150 @@
+{
+    "id": "IDAStation",
+    "thumbnail": "IDAThumbnail.png",
+    "title": "Haematology: Blood Results",
+    "category": "Haematology",
+    "isDemoStation": true,
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div><p>Candidate instructions: You will be presented with two different cases and some investigations. Your task is to:</p><p><div>1. Interpret the data presented to you</div><div>2. Answer the examiners questions</div></div>"
+    },
+    "questions": [
+        {
+            "question": "Please interpret the following blood tests",
+            "questionAudio": "1.9.22.C1Q1.mp3",
+            "img": "1.9.22IDA.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22.C1A1.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirm patient details",
+                            "selected": false,
+                            "pointId": 0
+                        },
+                        {
+                            "point": "Microcytic anaemia",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Confirms other values normal",
+                            "selected": false,
+                            "pointId": 2
+                        },
+                        { "point": "NEWS score 11 ", "selected": false, "pointId": 3 }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Name 3 causes of this type of anaemia",
+            "questionAudio": "1.9.22.C1Q2.mp3",
+            "img": "1.9.22IDA.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A2.mp3",
+            "markScheme": [
+                {
+                    "title": "Any three from the following",
+                    "points": [
+                        {
+                            "point": "Iron deficiency anaemia, Thalassaemia , Anaemia of chronic disease, Sideroblastic anaemia, Lead poisoning",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Name 2 further investigations you would like to carry out",
+            "questionAudio": "1.9.22C1Q3.mp3",
+            "img": "1.9.22IDA.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A3.mp3",
+            "markScheme": [
+                {
+                    "title": "Any 2 from",
+                    "points": [
+                        {
+                            "point": "Iron studies, Hb electrophoresis, Blood film",
+                            "selected": false,
+                            "pointId": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Please interpret the following blood tests",
+            "questionAudio": "1.9.22C1Q4.mp3",
+            "img": "1.9.22IDA2.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A4.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Re-confirm patient details",
+                            "selected": false,
+                            "pointId": 0
+                        },
+                        {
+                            "point": "Comments on ALL Three: Low ferritin, Transferrin Saturation, Elevated TIBC ",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "What is the most likley diagnosis",
+            "questionAudio": "1.9.22C1Q5.mp3",
+            "img": "1.9.22IDA2.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A5.mp3",
+            "markScheme": [
+                {
+                    "title": "Any three from the following",
+                    "points": [
+                        {
+                            "point": "Iron Deficiency Anaemia",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Name three causes of iron deficiency",
+            "questionAudio": "1.9.22C1Q6.mp3",
+            "img": "1.9.22IDA2.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1a6.mp3",
+            "markScheme": [
+                {
+                    "title": "Any three from the following",
+                    "points": [
+                        {
+                            "point": "Menstrual losses, Coeliac disease/enteropath, Decreased dietary intake, Chronic bleeding e.g. in bowel malignancies",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

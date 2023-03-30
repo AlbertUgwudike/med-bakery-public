@@ -1,0 +1,157 @@
+{
+    "id": "B12 deficiency",
+    "thumbnail": "IDAThumbnail.png",
+    "category": "Haematology",
+    "title": "Haematology: pancytopenia",
+    "isDemoStation": true,
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div><p>Candidate instructions: You will be presented with a case and some investigations. Your task is to:</p><p><div>1. Interpret the data presented to you</div><div>2. Answer the examiners questions</div></div>"
+    },
+    "questions": [
+        {
+            "question": "Please interpret the following blood test",
+            "questionAudio": "3.9.22H3Q1.mp3",
+            "img": "3.9.22H3Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H3A1.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirm patient details",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        {
+                            "point": "Pancytopenia",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Megaloblastic anaemia",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Give 3 causes of this picture",
+            "questionAudio": "3.9.22H3Q2.mp3",
+            "img": "3.9.22H3Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H3A2.mp3",
+            "markScheme": [
+                {
+                    "title": "Any 3 of the following:",
+                    "points": [
+                        {
+                            "point": "Myeloma, myelodysplasia, myelofibrosis, malignant metastasis, leukaemia, lymphoma, aplastic anaemia, haematinic (B12/folate) deficiency",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Name two further investigations you would like to carry out?",
+            "questionAudio": "3.9.22H3Q3.mp3",
+            "img": "3.9.22H3Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H3A3.mp3",
+            "markScheme": [
+                {
+                    "title": "Any two of the following:",
+                    "points": [
+                        {
+                            "point": "Serum haematinics, blood film, thyroid function tests, liver function tests",
+                            "selected": false,
+                            "pointId": 2
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "What do the further investigations show?",
+            "questionAudio": "3.9.22H3Q4.mp3",
+            "img": "3.9.22H3Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H3A4.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Reconfirm patient details",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Hypersegmented neutrophils",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Low serum B12 levels",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Give three causes of B12 deficiency",
+            "questionAudio": "3.9.22H3Q5.mp3",
+            "img": "3.9.22H3Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H3A5.mp3",
+            "markScheme": [
+                {
+                    "title": "Any three of the following:",
+                    "points": [
+                        {
+                            "point": "Pernicious anaemia, Crohn's disease, terminal ileal resection, vegan diet",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Give one further investigation to determine the cause of her B12 deficiency",
+            "questionAudio": "3.9.22H3Q6.mp3",
+            "img": "3.9.22H3Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "3.9.22H3A6.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Anti-intrinsic factor antibodies",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

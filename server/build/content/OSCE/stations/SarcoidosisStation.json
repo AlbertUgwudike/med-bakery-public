@@ -1,0 +1,125 @@
+{
+    "id": "SarcoidosisStation",
+    "thumbnail": "sarcoidosisThumbnail.jpeg",
+    "category": "Respiratory",
+    "isDemoStation": true,
+    "title": "Respiratory: Chest Xrays",
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div>\n                <p>Welcome to this CXR intepretation station!</p>\n\n                <p>Your task is to:</p>\n\n                <p>\n                    <div>1. Interpret the data presented to you</div>\n                    <div>2. Formulate a working diagnosis</div>\n                    <div>3. Answer the associated questions</div>\n                </p>\n            </div>"
+    },
+    "questions": [
+        {
+            "question": "Interpret this CXR and suggest a differential diagnosis",
+            "questionAudio": "interpretQuestion.mp3",
+            "img": "sarcoidosis.jpeg",
+            "responseAudio": "",
+            "exemplarAudio": "interpret.mp3",
+            "markScheme": [
+                {
+                    "title": "Patient details",
+                    "points": [
+                        { "point": "Confirms patient details", "selected": false, "pointId": 0 }
+                    ]
+                },
+                {
+                    "title": "Quality of radiograph",
+                    "points": [
+                        {
+                            "point": "Comments on radiograph – “this is a PA view CXR”",
+                            "selected": false,
+                            "pointId": 2
+                        },
+                        {
+                            "point": "Comments on good patient positioning, exposure AND inspiration",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                },
+                {
+                    "title": "Pathology",
+                    "points": [
+                        {
+                            "point": "Bilateral hilar lymphadenopathy",
+                            "selected": false,
+                            "pointId": 4
+                        },
+                        {
+                            "point": "Primary differential diagnosis: sarcoidosis",
+                            "selected": false,
+                            "pointId": 5
+                        }
+                    ]
+                },
+                {
+                    "title": "Anatomical landmarks",
+                    "points": [
+                        { "point": "Mentions trachea central", "selected": false, "pointId": 4 },
+                        {
+                            "point": "Comments on heart size/borders",
+                            "selected": false,
+                            "pointId": 5
+                        },
+                        {
+                            "point": "Mentions normal diaphragm position ",
+                            "selected": false,
+                            "pointId": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What is the gold standard investigation for Sarcoidosis",
+            "questionAudio": "goldQuestion.mp3",
+            "img": "sarcoidosis.jpeg",
+            "responseAudio": "",
+            "exemplarAudio": "gold.mp3",
+            "markScheme": [
+                {
+                    "title": "Gold standard investigation",
+                    "points": [{ "point": "Lung biopsy", "selected": false, "pointId": 0 }]
+                }
+            ]
+        },
+        {
+            "question": "Suggest one blood test to support your differential diagnosis",
+            "questionAudio": "bloodtestQuestion.mp3",
+            "img": "sarcoidosis.jpeg",
+            "responseAudio": "",
+            "exemplarAudio": "bloodtest.mp3",
+            "markScheme": [
+                {
+                    "title": "Diagnostic test",
+                    "points": [
+                        {
+                            "point": "Serum Angiotensin Converting Enzyme",
+                            "selected": false,
+                            "pointId": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Name two rashes commonly observed in Sarcoidosis",
+            "questionAudio": "rashesQuestion.mp3",
+            "img": "sarcoidosis.jpeg",
+            "responseAudio": "",
+            "exemplarAudio": "rashes.mp3",
+            "markScheme": [
+                {
+                    "title": "Rashes associate with lupus",
+                    "points": [
+                        { "point": "Erythema nodosum", "selected": false, "pointId": 0 },
+                        { "point": "Lupus pernio", "selected": false, "pointId": 1 }
+                    ]
+                }
+            ]
+        }
+    ]
+}

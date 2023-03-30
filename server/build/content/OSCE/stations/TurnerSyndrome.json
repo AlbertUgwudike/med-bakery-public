@@ -1,0 +1,187 @@
+{
+    "id": "Turner syndrome",
+    "thumbnail": "4.9.22PaedsGrowthChartC1Q1.png",
+    "category": "Paediatrics",
+    "title": "Paediatrics: Growth Charts Station 1",
+    "isDemoStation": true,
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div><p>Candidate instructions: You will be presented with some investigations. Your task is to:</p><p><div>1. Interpret the data presented to you</div><div>2. Answer the examiners questions</div></div>"
+    },
+    "questions": [
+        {
+            "question": "Please interpret the growth chart",
+            "questionAudio": "4.9.22PaedsGrowthChartC1Q1.mp3",
+            "img": "4.9.22PaedsGrowthChartC1Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22PaedsGrowthChartC1A1.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirms patient details",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        {
+                            "point": "Started between the 2nd and 0.4th centile for height",
+                            "selected": false,
+                            "pointId": 2
+                        },
+
+                        {
+                            "point": "Tracked along the 0.4th centile until age four",
+                            "selected": false,
+                            "pointId": 3
+                        },
+
+                        {
+                            "point": "Fell below the 0.4th centile after the age of four",
+                            "selected": false,
+                            "pointId": 4
+                        },
+                        {
+                            "point": "Weight tracked along the 50th centile normally",
+                            "selected": false,
+                            "pointId": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Give three causes of this picture.",
+            "questionAudio": "4.9.22PaedsGrowthChartC1Q2.mp3",
+            "img": "4.9.22PaedsGrowthChartC1Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22PaedsGrowthChartC1A2.mp3",
+            "markScheme": [
+                {
+                    "title": "Any three of the following:",
+                    "points": [
+                        {
+                            "point": "Hypothyroidism, Turner syndrome, Growth hormone deficiency, Cushing syndrome",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Give three further investigations you would like to carry out.",
+            "questionAudio": "4.9.22PaedsGrowthChartC1Q3.mp3",
+            "img": "4.9.22PaedsGrowthChartC1Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22PaedsGrowthChartC1A3.mp3",
+            "markScheme": [
+                {
+                    "title": "Any three of the following:",
+                    "points": [
+                        {
+                            "point": "Bone age, hormone profile, serum IGF-1 levels, karyotyping, thyroid function tests, anti-TTG",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Please comment on the karyotype.",
+            "questionAudio": "4.9.22PaedsGrowthChartC1Q4.mp3",
+            "img": "4.9.22PaedsGrowthChartC1Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22PaedsGrowthChartC1A4.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirms patient details",
+                            "selected": false,
+                            "pointId": 1
+                        },
+
+                        {
+                            "point": "Comments on missing X chromosome",
+                            "selected": false,
+                            "pointId": 2
+                        },
+
+                        {
+                            "point": "Comments on 45 total chromosomes",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "What is the most likely diagnosis?",
+            "questionAudio": "4.9.22PaedsGrowthChartC1Q5.mp3",
+            "img": "4.9.22PaedsGrowthChartC1Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22PaedsGrowthChartC1A5.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Turner's syndrome",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Name four other features of this condition.",
+            "questionAudio": "4.9.22PaedsGrowthChartC1Q6.mp3",
+            "img": "4.9.22PaedsGrowthChartC1Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22PaedsGrowthChartsC1A6.mp3",
+            "markScheme": [
+                {
+                    "title": "Any four of the following:",
+                    "points": [
+                        {
+                            "point": "Neck webbing, bicuscpid aortic valve, coarctation of the aorta, primary amenorrhoea, sensorineural hearing loss, shield chest, widely spaced nipples, low set posterior hairline.",
+                            "selected": false,
+                            "pointId": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What is the treatment for the short stature?",
+            "questionAudio": "4.9.22PaedsGrowthChartC1Q7.mp3",
+            "img": "4.9.22PaedsGrowthChartC1Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22PaedsGrowthChartC1A7.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Growth hormone supplementation",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

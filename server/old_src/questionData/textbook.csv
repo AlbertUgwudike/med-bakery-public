@@ -1,0 +1,1693 @@
+topicNumber,categoryPath,learningPointNumbers,sectionTitle,content
+0,Haematology,,Autoimmune Haemolytic Anaemia (AIHA),""
+0,Haematology,,What is it?,"    <p><span style='font-weight: 700;'>Immune-mediated</span> destruction of erythrocytes due to formation of antibodies.</p>
+"
+0,Haematology,,Definitions,"    <p><span style='font-weight: 700;'>Warm autoimmune haemolytic anaemia</span></p>
+    <ul>
+      <li>Haemolysis which occurs at the core body temperature of 37 degrees celsius.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Cold autoimmune haemolytic anaemia</span></p>
+    <ul>
+      <li>Haemolysis which occurs at lower temperatures - usually &lt;25 degrees celsius.</li>
+    </ul>
+"
+0,Haematology,,Classical exam presentation,"    <p>A <span style='font-weight: 700;'>65-year-old lady</span> presents to the GP with <span style='font-weight: 700;'>progressive weakness</span> and <span style='font-weight: 700;'>fatigue</span>. She says that this has been going on for around a few weeks. Her past medical history includes <span style='font-weight: 700;'>chronic lymphocytic leukaemia</span>, hypertension, and type II diabetes. </p>
+    <p>On examination, the lady has <span style='font-weight: 700;'>scleral, palmar, and plantar icterus</span>. You are able to <span style='font-weight: 700;'>palpate a mass in the left upper quadrant.</span> </p>
+    <p>Her FBC reveals a <span style='font-weight: 700;'>normocytic anaemia</span>. Her <span style='font-weight: 700;'>serum LDH and reticulocytes are elevated.</span> Her <span style='font-weight: 700;'>haptoglobin is low</span>. A <span style='font-weight: 700;'>Coombs’ test is positive.</span> </p>
+"
+0,Haematology,,Epidemiology,"    <p>The incidence of autoimmune haemolytic anaemia is 1/100 000 per year.</p>
+    <p>Incidence of AIHA <span style='font-weight: 700;'>rises </span>with<span style='font-weight: 700;'> </span>age.</p>
+    <p>More common in females.</p>
+"
+0,Haematology,,Aetiology,"    <p>Approximately 65% is warm AIHA, 35% is cold AIHA and 5% is mixed.</p>
+    <p><span style='font-weight: 700; font-style: italic;'>Warm autoimmune haemolytic anaemia </span></p>
+    <p>Primary warm AIHA is idiopathic.</p>
+    <p>Secondary warm AIHA may be due to:</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Malignancy</span>: chronic lymphocytic leukaemia, and lymphomas.</li>
+      <li><span style='font-weight: 700;'>Other autoimmune diseases</span>: systemic lupus erythematosus, primary sclerosing cholangitis, ulcerative colitis, sarcoidosis.</li>
+      <li><span style='font-weight: 700;'>Infections</span>: hepatitis C, HIV, pneumococcal infection, tuberculosis.</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Cold autoimmune haemolytic anaemia</span></p>
+    <p>Primary cold AIHA is idiopathic. </p>
+    <p>Secondary cold AIHA may be due to:</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Malignancy:</span> chronic lymphocytic leukaemia, non-Hodgkin lymphoma.</li>
+      <li><span style='font-weight: 700;'>Other autoimmune diseases</span>: systemic lupus erythematosus, primary sclerosing cholangitis, ulcerative colitis, sarcoidosis.</li>
+      <li><span style='font-weight: 700;'>Infection</span>: <span style='font-style: italic;'>M</span><span style='font-style: italic;'>ycoplasma pneumoniae</span>, <span style='font-style: italic;'>Haemophilus influenzae, E. coli.</span></li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Risk factors</span></p>
+    <p><span style='font-weight: 700;'>Drugs</span></p>
+    <ul>
+      <li>Methyldopa and L-Dopa </li>
+      <li>NSAIDS</li>
+      <li>Antibiotics including penicillin, levofloxacin and cephalosporins</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Other autoimmune diseases</span>:</p>
+    <ul>
+      <li>Systemic lupus erythematosus</li>
+      <li>Primary biliary cholangitis</li>
+      <li>Primary sclerosing cholangitis</li>
+      <li>Ulcerative colitis </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Malignancy</span></p>
+    <ul>
+      <li>Chronic lymphocytic leukaemia</li>
+      <li>Lymphoma</li>
+      <li>Solid-organ tumours</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Infections</span></p>
+    <ul>
+      <li>HIV, hepatitis B and hepatitis C</li>
+      <li><span style='font-style: italic;'>Mycoplasma pneumoniae, </span><span style='font-style: italic;'>Ha</span><span style='font-style: italic;'>emophilus influenzae  </span></li>
+    </ul>
+"
+0,Haematology,,Pathophysiology,"    <p><span style='font-style: italic; font-weight: 700;'>Warm autoimmune haemolytic anaemia</span></p>
+    <p>IgG autoantibodies (present in 91% of cases) most commonly bind to rhesus antigen, marking them for haemolysis in the spleen, and leading to extravascular haemolysis.</p>
+    <p>Optimal binding of C3 and IgG occurs at the core body temperature of 37 degrees, thus the name ‘warm autoimmune haemolytic anaemia’.</p>
+    <p>More rarely, abnormal binding of C3 to erythrocytes also may lead to complement activation and intravascular haemolysis. </p>
+    <p><span style='font-style: italic; font-weight: 700;'>Cold</span><span style='font-style: italic;'> </span><span style='font-weight: 700; font-style: italic;'>autoimmune haemolytic anaemia</span></p>
+    <p>Cold AIHA can be broken down into the most common form ‘<span style='font-weight: 700;'>cold haemagglutinin disease</span>’ (CHAD, 97% of all cold AIHA cases) and ‘<span style='font-weight: 700;'>paroxysmal cold haemoglobinuria</span>’ (PCH).</p>
+    <p><span style='font-weight: 700;'>Cold haemagglutinin disease (CHAD) </span></p>
+    <ol start='1'>
+      <li><span style='font-weight: 700;'>IgM</span> antibodies bind to erythrocytes, leading to erythrocyte agglutination (clumping).</li>
+      <li>These complexes are too large to pass through the spleen and are haemolysed.</li>
+    </ol>
+    <ul>
+      <li>IgM antibodies bind most optimally under 25 degrees, thus the name ‘cold AIHA’.</li>
+      <li>Most commonly, the acute form happens during an infection such as <span style='font-style: italic;'>M</span><span style='font-style: italic;'>ycoplasma pneumoniae</span>.</li>
+      <li>Chronic cold AIHA often occurs in the presence of an underlying lymphoproliferative condition such as non-Hodgkin lymphoma.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Paroxysmal cold haemoglobinuria (PCH)</span> is a rare condition affecting mainly children following an upper respiratory infection. </p>
+    <ul>
+      <li>Exposure to the viral infection leads to the formation of biphasic IgG antibodies, which bind to erythrocytes at very low temperatures, leading to complement-mediated destruction of erythrocytes.</li>
+    </ul>
+    <p>The <span style='font-weight: 700;'>increased demand</span> for splenic breakdown of erythrocytes may lead to <span style='font-weight: 700;'>mild splenomegaly</span>.</p>
+    <p>Excessive breakdown of erythrocytes leads to <span style='font-weight: 700;'>hyperbilirubinemia</span> which can get deposited in the skin leading to <span style='font-weight: 700;'>jaundice </span>or end up in the urine<span style='font-weight: 700;'> </span>leading to<span style='font-weight: 700;'> dark urine</span>.</p>
+    <p>The extent of anaemia can vary however if disease activity is excessive, <span style='font-weight: 700;'>AIHA can lead to high output cardiac failure</span> and <span style='font-weight: 700;'>hypotension</span> as a result of the reduced haemoglobin <span style='font-weight: 700;'>not</span> being able to meet the perfusion demands of the body.</p>
+"
+0,Haematology,,Clinical features,"    <p><span style='font-weight: 700;'>Features of haemolytic crisis</span></p>
+    <ul>
+      <li>Fever</li>
+      <li>Chills</li>
+      <li>Chest and loin pain </li>
+      <li>Shock (hypotension, tachycardia, low urine output)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of anaemia</span></p>
+    <ul>
+      <li>Fatigue</li>
+      <li>Pallor </li>
+      <li>Exertional dyspnoea </li>
+      <li>Weakness</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of hyperbilirubinemia</span></p>
+    <ul>
+      <li>Jaundice </li>
+      <li>Scleral icterus </li>
+      <li>Dark urine</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of increased demand on the spleen</span></p>
+    <ul>
+      <li>Splenomegaly</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of cold intolerance in cold AIHA</span></p>
+    <ul>
+      <li>Raynaud’s phenomenon</li>
+    </ul>
+    <ul>
+      <li>Vasospasm of blood vessels in the hands and feet in the cold leading to pallor followed by acrocyanosis</li>
+    </ul>
+"
+0,Haematology,,Diagnostics,"    <p><span style='font-weight: 700; font-style: italic;'>Confirming haemolysis</span></p>
+    <p><span style='font-weight: 700;'>Full blood count</span></p>
+    <ul>
+      <li>Normocytic anaemia</li>
+      <li>Reticulocytosis </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood film</span></p>
+    <ul>
+      <li>Spherocytes </li>
+      <li>Agglutination/clumping of red blood cells (in cold agglutinin disease)</li>
+      <li>Reticulocytes </li>
+      <li>Polychromasia (red cells at different stages of development)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Rest of the Haemolysis Screen</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Coombs’ test</span> – <span style='font-weight: 700;'>positive</span></li>
+      <li><span style='font-weight: 700;'>Serum bilirubin</span> – <span style='font-weight: 700;'>raised</span> due to excessive erythrocyte breakdown</li>
+      <li><span style='font-weight: 700;'>Serum haptoglobin</span> – <span style='font-weight: 700;'>reduced</span> due to increased erythrocyte breakdown increasing free-floating haemoglobin that binds to haptoglobin</li>
+      <li><span style='font-weight: 700;'>Reticulocyte count</span> – erythrocyte precursors which are <span style='font-weight: 700;'>raised</span> as a compensatory mechanism to replace haemolysed cells</li>
+      <li><span style='font-weight: 700;'>Lactate dehydrogenase</span> – <span style='font-weight: 700;'>raised</span> in cellular breakdown</li>
+      <li><span style='font-weight: 700;'>Urine hemosiderin</span> – <span style='font-weight: 700;'>raised</span> in intravascular haemolysis</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Identifying the cause</span></p>
+    <p><span style='font-weight: 700;'>Liver function tests</span></p>
+    <ul>
+      <li>In <span style='font-weight: 700;'>primary</span> disease, only<span style='font-weight: 700;'> isolated hyperbilirubinemia </span>is present</li>
+      <li><span style='font-weight: 700;'>Warm AIHA</span> is associated with <span style='font-weight: 700;'>autoimmune liver conditions</span> such as primary biliary cholangitis and primary sclerosing cholangitis so a <span style='font-weight: 700;'>cholestatic jaund</span><span style='font-weight: 700;'>ice picture </span>may be present</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Serum IgG and electrophoresis</span></p>
+    <ul>
+      <li>Identify IgM or IgG responsible for the haemolysis</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Screening for infection</span></p>
+    <ul>
+      <li>HIV</li>
+      <li>Hepatitis B</li>
+      <li>Hepatitis C</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Autoimmune screen</span></p>
+    <ul>
+      <li>ANA</li>
+      <li>Anti-dsDNA</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Malignancy screen</span></p>
+    <ul>
+      <li>CT chest, abdomen and pelvis</li>
+      <li>Bone marrow biopsy in those &gt;60y/o with CHAD </li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Preparing for treatment</span></p>
+    <p><span style='font-weight: 700;'>Crossmatch and group and save</span></p>
+    <p>For patients who may require a transfusion, this is done to identify the correct group to provide.</p>
+"
+0,Haematology,,Warm vs Cold AIHA,"    <table>
+      <tbody>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Warm AIHA</span></p>
+            <p>IgG binds to erythrocytes marking it for destruction </p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Direct </span><span style='font-weight: 700;'>a</span><span style='font-weight: 700;'>ntiglobulin test:</span> </p>
+            <ul>
+              <li>Presence of IgG (with or without C3) </li>
+            </ul>
+            <p><span style='font-weight: 700;'>No agglutination</span> on blood film</p>
+            <p></p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p></p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Cold haemagglutinin disease </span></p>
+            <p>Erythrocytes bind to IgM forming clumps</p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Direct Antiglobulin test:</span></p>
+            <ul>
+              <li>Presence of <span style='font-weight: 700;'>C3</span></li>
+              <li><span style='font-weight: 700;'>Absence</span> of IgG</li>
+            </ul>
+            <p><span style='font-weight: 700;'>Agglutination</span> on blood film</p>
+            <p></p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p></p>
+            <p></p>
+            <p></p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
+"
+0,Haematology,,Management,"    <p>In an<span style='font-weight: 700;'> acute haemolytic crisis</span>, treatment for both warm and cold AIHA should begin with: </p>
+    <ul>
+      <li>A to E assessment</li>
+      <li>Packed red cell transfusion</li>
+    </ul>
+    <ul>
+      <li>In an emergency this should be ABO, Rhesus and K antigen matched. This is because these are the most common targets for antibodies, and a full crossmatch could take 4-6 hours</li>
+    </ul>
+    <ul>
+      <li>Identifying and treating the underlying cause</li>
+    </ul>
+    <p>Emergency measures include: </p>
+    <ul>
+      <li><span style='font-weight: 700;'>Methylprednisolone </span>for immunosuppression</li>
+      <li><span style='font-weight: 700;'>Plasma exchange </span>to remove harmful autoantibodies from circulation</li>
+    </ul>
+    <p>Alongside this, <span style='font-weight: 700;'>general supportive steps</span> should be taken, including:</p>
+    <ul>
+      <li>Folic acid </li>
+      <li>Calcium and vitamin D</li>
+      <li>Assessing and treating risk of osteoporosis with bisphosphonates </li>
+    </ul>
+    <ul>
+      <li>This is especially the case for warm AIHA where prolonged use of corticosteroids significantly increases the risk of osteoporosis</li>
+    </ul>
+    <ul>
+      <li>Thromboprophylaxis for inpatients </li>
+      <li>Keeping patients in a warm environment</li>
+      <li>Stopping causative medications</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Warm AIHA </span></p>
+    <p><span style='font-weight: 700;'>Specific emergency measures:</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>IV</span> <span style='font-weight: 700;'>immunoglobulins</span> (IVIg) administration </li>
+    </ul>
+    <ul>
+      <li>Antagonises the effect of autoantibody</li>
+    </ul>
+    <ul>
+      <li>In patients requiring a transfusion, if immunosuppression fails to halt the process of haemolysis, an <span style='font-weight: 700;'>emergency splenectomy</span> may be considered</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Stable patients:</span></p>
+    <p>In haemodynamically stable patients, <span style='font-weight: 700;'>immunosuppression</span> <span style='font-weight: 700;'>is the mainstay of treatment</span></p>
+    <ol start='1'>
+      <li><span style='font-weight: 700;'>High</span> <span style='font-weight: 700;'>dose oral prednisolone is first</span><span style='font-weight: 700;'>-</span><span style='font-weight: 700;'>line</span></li>
+      <li>If the patient does not respond (usually within 21 days) <span style='font-weight: 700;'>r</span><span style='font-weight: 700;'>ituximab is second</span><span style='font-weight: 700;'>-</span><span style='font-weight: 700;'>line</span></li>
+    </ol>
+    <ul>
+      <li>Rituximab is a<span style='font-weight: 700;'> monoclonal antibody against CD20</span> receptors on B cells</li>
+      <li>It leads to <span style='font-weight: 700;'>B cell depletion</span> and subsequent <span style='font-weight: 700;'>immunosuppression</span></li>
+    </ul>
+    <ol start='3'>
+      <li>If there is still no response, <span style='font-weight: 700;'>third</span><span style='font-weight: 700;'>-</span><span style='font-weight: 700;'>line options </span>such as<span style='font-weight: 700;'> azathioprine </span>and<span style='font-weight: 700;'> ciclosporin</span> can be used or <span style='font-weight: 700;'>splenectomy </span>may be considered</li>
+    </ol>
+    <p><span style='font-weight: 700; font-style: italic;'>Cold AIHA (CHAD)</span></p>
+    <p>Not all patients with CHAD require treatment.</p>
+    <ul>
+      <li>Advise patients on how to prevent episodes including <span style='font-weight: 700;'>dressing warmly </span>and <span style='font-weight: 700;'>covering exposed areas s</span>uch as the hands and face.</li>
+    </ul>
+    <p>Treatment should be considered if there is:</p>
+    <ul>
+      <li>Symptomatic anaemia</li>
+      <li>Haemolytic crisis leading to shock</li>
+      <li>Dependence on transfusions</li>
+    </ul>
+    <p>For those requiring treatment:</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Rituximab is first</span><span style='font-weight: 700;'>-</span><span style='font-weight: 700;'>line</span> due to the poor response CHAD shows to conventional immunosuppression</li>
+    </ul>
+"
+0,Haematology,,Complications,"    <p>Of the disease:</p>
+    <ul>
+      <li>High output cardiac failure</li>
+      <li>Pigment gallstones </li>
+    </ul>
+    <p>Of treatment:</p>
+    <ul>
+      <li>Transfusion reaction</li>
+      <li>Post-splenectomy infections</li>
+    </ul>
+"
+0,Haematology,,Prognosis,"    <p>CHAD and warm AIHA tend to be more chronic and have relapses which may lead to life-threatening haemolytic crises.</p>
+"
+1,Haematology,,Overview Of Anaemia,""
+1,Haematology,,What is it?,"    <p><span style='font-style: italic; font-weight: 700;'>“An-”</span><span style='font-style: italic;'> </span>refers to a <span style='font-weight: 700;'>lack of</span>, and <span style='font-weight: 700;'>“-</span><span style='font-style: italic; font-weight: 700;'>aemia”</span> refers to the <span style='font-weight:700'>blood</span>.</p>
+    <ul>
+      <li>Anaemia refers to the lack of blood, or more specifically, the lack of haemoglobin in the blood</li>
+    </ul>
+    <p><span style='font-style: italic;'>Anaemia itself is </span><span style='font-style: italic; font-weight: 700;'>not a diagnosis</span><span style='font-style: italic;'>.</span></p>
+    <ul>
+      <li>Further investigations are needed to diagnose and treat the underlying cause.</li>
+    </ul>
+"
+1,Haematology,,Structure and role of haemoglobin,"    <p>Haemoglobin is a <span style='font-weight: 700;'>globulin protein</span> found in <span style='font-weight: 700;'>erythrocytes</span> (red blood cells).</p>
+    <p><span style='font-weight: 700;'>Adult haemoglobin </span>is composed of <span style='font-weight: 700;'>2 alpha chains </span>and <span style='font-weight: 700;'>2 beta pleated sheets</span> – there are a total of 4 protein chains per haemoglobin.</p>
+    <p>Haemoglobin contains<span style='font-weight: 700;'> 4 haem </span>molecules. These are specialised molecules containing <span style='font-weight: 700;'>iron</span>, which have a<span style='font-weight: 700;'> high affinity </span>for oxygen<span style='font-weight: 700;'>.</span></p>
+    <ul>
+      <li>Haemoglobin can carry<span style='font-weight: 700;'> 4 </span>molecules of <span style='font-weight: 700;'>oxygen</span>, allowing it to <span style='font-weight: 700;'>shuttle oxygen</span> very effectively around the body.</li>
+    </ul>
+"
+1,Haematology,,Aetiology,"    <p><span style='font-weight: 700;'>Reduced production of erythrocytes</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>L</span><span style='font-weight: 700;'>ack of haematinics</span> such as <span style='font-weight: 700;'>i</span><span style='font-weight: 700;'>ron</span>,<span style='font-weight: 700;'> B12 </span>and<span style='font-weight: 700;'> folate</span>.</li>
+      <li><span style='font-weight: 700;'>D</span><span style='font-weight: 700;'>ysfunctional bone marrow</span> (e.g., in <span style='font-weight: 700;'>m</span><span style='font-weight: 700;'>yelofibrosis, myelodysplasia, </span>or<span style='font-weight: 700;'> leukaemia</span>).</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Increased erythrocyte breakdown</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>A</span><span style='font-weight: 700;'>utoimmune destruction</span> (e.g., in autoimmune haemolytic anaemia).</li>
+      <li><span style='font-weight: 700;'>D</span><span style='font-weight: 700;'>ysfunctional haemoglobin</span> (e.g., alpha- and beta-thalassaemia, sickle cell disease).</li>
+      <li><span style='font-weight: 700;'>M</span><span style='font-weight: 700;'>embrane damage</span> or <span style='font-weight: 700;'>dysfunctional erythrocyte enzymes</span> (e.g., G6PD deficiency and hereditary spherocytosis, respectively).</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood loss</span></p>
+"
+1,Haematology,,Features of Anaemia,"    <p>Often asymptomatic in mild cases.</p>
+    <p><span style='font-weight: 700;'>General (non-specific)</span></p>
+    <ul>
+      <li>Fatigue (common)</li>
+      <li>Exertional dyspnoea (common)</li>
+      <li>Glossitis and angular cheilitis (common)</li>
+      <li>Palpitations (common)</li>
+      <li>Muscle weakness (common)</li>
+      <li>Postural hypotension (common) </li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Haemolytic anaemia</span></p>
+    <p><span style='font-weight: 700;'>Jaundice </span></p>
+    <ul>
+      <li>Excessive breakdown of erythrocytes leads to <span style='font-weight: 700;'>hyperbilirubinemia</span>.</li>
+      <li>Excess <span style='font-weight: 700;'>bilirubin</span> is <span style='font-weight: 700;'>deposited in the skin </span>and <span style='font-weight: 700;'>sclera</span>, leading to jaundice.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Dark urine</span></p>
+    <p><span style='font-weight: 700;'>Early satiety and splenomegaly</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Haemolysis </span>is carried out by the <span style='font-weight: 700;'>spleen</span> which may enlarge due to excessive activity.</li>
+    </ul>
+    <ul>
+      <li>As it enlarges it may <span style='font-weight: 700;'>push on the stomach,</span> leading to <span style='font-weight: 700;'>early satiety</span>.</li>
+    </ul>
+"
+1,Haematology,,Diagnosis and classification,"    <ol start='1'>
+      <li>Anaemia can be diagnosed on a <span style='font-weight: 700;'>full blood count (FBC) </span>which will show <span style='font-weight: 700;'>reduced </span>haemoglobin.</li>
+      <li>The <span style='font-weight: 700;'>type </span>of <span style='font-weight: 700;'>anaemia </span>can be <span style='font-weight: 700;'>classified</span> based on the <span style='font-weight: 700;'>MCV </span>(mean cell volume of the erythrocytes) as well as <span style='font-weight: 700;'>MCH </span>(mean cell haemoglobin).</li>
+      <li>A <span style='font-weight: 700;'>blood film</span> can further help to <span style='font-weight: 700;'>distinguish the type of anaemia</span>.</li>
+    </ol>
+    <p><span style='font-style: italic;'>Please refer to the table below to get an understanding of the classification of anaemia:</span></p><a id='t.c9e01361939eee7046d09a5a567b6284be6addf9'></a><a id='t.0'></a>
+    <table>
+      <tbody>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Microcytic anaemia</span></p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Normocytic anaemia</span></p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Macrocytic anaemia </span></p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p>Diagnosed when <span style='font-weight: 700;'>MCV &lt; </span><span style='font-weight: 700;'>8</span><span style='font-weight: 700;'>0</span><span style='font-weight: 700;'>fl</span></p>
+            <p>Blood film often shows <span style='font-weight: 700;'>microcytic hypochromic cells</span> and <span style='font-weight: 700;'>target </span><span style='font-weight: 700;'>cells</span>.</p>
+            <p>Causes (acronym ‘<span style='font-weight: 700;'>CLITS</span>’):</p>
+            <ul>
+              <li><span style='font-weight: 700;'>C</span>hronic disease</li>
+              <li><span style='font-weight: 700;'>L</span>ead poisoning</li>
+              <li><span style='font-weight: 700;'>I</span>ron deficiency </li>
+              <li><span style='font-weight: 700;'>T</span>halassaemia </li>
+              <li><span style='font-weight: 700;'>S</span>ideroblastic </li>
+            </ul>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p>Diagnosed <span style='font-weight: 700;'>when MCV </span><span style='font-weight: 700;'>is </span><span style='font-weight: 700;'>8</span><span style='font-weight: 700;'>0</span><span style='font-weight: 700;'>-100fl</span></p>
+            <p>Blood film usually shows <span style='font-weight: 700;'>fewer but normal</span><span style='font-weight: 700;'> </span><span style='font-weight: 700;'>erythrocytes</span>.</p>
+            <p>Causes:</p>
+            <ul>
+              <li>Acute blood loss</li>
+              <li>Chronic disease</li>
+              <li>Bone marrow disorders (leukaemia, myelodysplasia, myelofibrosis) </li>
+              <li>Haemolytic anaemia</li>
+            </ul>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p>Diagnosed when <span style='font-weight: 700;'>MCV &gt;100fl</span></p>
+            <p>Can be further divided into <span style='font-weight: 700;'>megaloblastic</span> and <span style='font-weight: 700;'>non-megaloblastic </span>anaemia.</p>
+            <p>Blood film may show <span style='font-weight: 700;'>macrocytes</span> and <span style='font-weight: 700;'>hypersegmented neutrophils</span> in <span style='font-weight: 700;'>m</span><span style='font-weight: 700;'>egaloblastic anaemia</span></p>
+            <p>Causes of <span style='font-weight: 700;'>m</span><span style='font-weight: 700;'>egaloblastic anaemia:</span></p>
+            <ul>
+              <li><span style='font-weight: 700;'>Vitamin B12 </span>(also known as <span style='font-weight: 700;'>c</span><span style='font-weight: 700;'>obalamin</span>) and<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>f</span><span style='font-weight: 700;'>olate </span>deficiency</li>
+            </ul>
+            <p>Causes of <span style='font-weight: 700;'>n</span><span style='font-weight: 700;'>on-</span><span style='font-weight: 700;'>m</span><span style='font-weight: 700;'>egaloblastic anaemia</span> (acronym ‘<span style='font-weight: 700;'>RALPH</span>’):</p>
+            <ul>
+              <li><span style='font-weight: 700;'>R</span>eticulocytosis</li>
+              <li><span style='font-weight: 700;'>A</span>lcohol</li>
+              <li><span style='font-weight: 700;'>L</span>iver disease</li>
+              <li><span style='font-weight: 700;'>P</span>regnancy</li>
+              <li><span style='font-weight: 700;'>H</span>ypothyroidism </li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><span style='font-weight: 700; text-decoration: underline;'>Further Investigations:</span></p>
+    <p>Further investigations will be guided by history and examination, and type of anaemia.</p>
+    <p><span style='font-weight: 700; font-style: italic;'>Microcytic anaemia</span></p>
+    <p><span style='font-weight: 700;'>Iron studies</span> – iron deficiency is the most common cause of anaemia.</p>
+    <ul>
+      <li>Serum ferritin &lt;30mcg/L confirms iron deficiency anaemia.</li>
+    </ul>
+    <ul>
+      <li>Normal or high serum ferritin does not exclude the diagnosis because, as an acute phase reactant, it is also a marker of acute or chronic inflammation.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemoglobin electrophoresis</span> – detects haemoglobinopathies such as thalassaemia.</p>
+    <p><span style='font-weight: 700; font-style: italic;'>Normocytic anaemia</span></p>
+    <p>Largely guided by the history and rest of the FBC.</p>
+    <p>If a <span style='font-weight: 700;'>bone-marrow disorder </span>is suspected:</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Bone marrow biopsy</span> – fine needle aspiration and trephine biopsy to visualise the bone marrow and detect abnormal cells.</li>
+    </ul>
+    <p>Patients with suspected <span style='font-weight: 700;'>haemolytic anaemia</span> (e.g. jaundice) should have a <span style='font-weight: 700;'>haemolytic screen</span>: </p>
+    <ul>
+      <li><span style='font-weight: 700;'>Coombs’ test – </span>detects autoimmune haemolytic anaemia.</li>
+      <li><span style='font-weight: 700;'>Serum bilirubin </span>–<span style='font-weight: 700;'> raised</span> due to excessive erythrocyte breakdown.</li>
+      <li><span style='font-weight: 700;'>Serum haptoglobin</span> – <span style='font-weight: 700;'>reduced</span> due to increased erythrocyte breakdown increasing free-floating haemoglobin that binds to haptoglobin.</li>
+      <li><span style='font-weight: 700;'>Reticulocyte count </span>–<span style='font-weight: 700;'> </span>erythrocyte precursors which are <span style='font-weight: 700;'>raised </span>as a compensatory mechanism to replace haemolysed cells.</li>
+      <li><span style='font-weight: 700;'>Lactate dehydrogenase </span>– <span style='font-weight: 700;'>raised</span> in cellular breakdown.</li>
+      <li><span style='font-weight: 700;'>Urine hemosiderin </span>– <span style='font-weight: 700;'>raised</span> in intravascular haemolysis. </li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Macrocytic anaemia</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Serum B12 and folate</span> – low in megaloblastic anaemia.</li>
+      <li><span style='font-weight: 700;'>Thyroid function tests</span> – hypothyroidism in non-megaloblastic anaemia.</li>
+      <li><span style='font-weight: 700;'>Liver function tests</span> – may indicate liver disease.</li>
+    </ul>
+"
+1,Haematology,,Management,"    <p>Treat the <span style='font-weight: 700;'>underlying cause</span>.<span style='font-weight: 700;'>  </span></p>
+    <p><span style='font-weight: 700;'>Acute symptomatic anaemia</span> with <span style='font-weight: 700;'>cardiac compromise</span>, <span style='font-weight: 700;'>haemodynamic instability,</span> or <span style='font-weight: 700;'>symptomatic anaemia</span> where haemoglobin levels fall<span style='font-weight: 700;'> below 70g/L</span> may require a <span style='font-weight: 700;'>packed red cell transfusion</span>.</p>
+    <p>In cases of <span style='font-weight: 700;'>haemolytic anaemia</span>, <span style='font-weight: 700;'>supportive care</span>, as well as folate supplementation, may be needed. </p>
+"
+2,Haematology,,Alpha Thalassaemia,""
+2,Haematology,,What is it?,"    <p>A <span style='font-weight: 700;'>dysfunction </span>in the<span style='font-weight: 700;'> genes</span> which code for the alpha subunit of <span style='font-weight: 700;'>HbA</span>. A person has <span style='font-weight: 700;'>4 alleles </span>of this gene (<span style='font-weight: 700;'>2 from each parent</span>). Patient symptomatology depends on <span style='font-weight: 700;'>how many of these alleles are affected</span>. </p>
+    <ul>
+      <li>The normal alleles are coded as <span style='font-weight: 700;'>(aa/aa)</span>.</li>
+    </ul>
+"
+2,Haematology,,Definitions,"    <p><span style='font-weight: 700;'>Alpha thalassaemia minor</span>:<span style='font-weight: 700;'> </span>(a-/a-) or (--/aa)</p>
+    <ul>
+      <li>Only <span style='font-weight: 700;'>one or two</span> of the alleles are mutated.</li>
+      <li>Patients will be <span style='font-weight: 700;'>asymptomatic </span>or only have <span style='font-weight: 700;'>mild symptoms</span>.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>HbH disease</span>:<span style='font-weight: 700;'> </span>(-a/--)</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Three</span> alleles are mutated, leading to <span style='font-weight: 700;'>mild to</span> <span style='font-weight: 700;'>moderate symptoms</span>. </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Alpha thalassaemia major </span><span style='font-style: italic;'>aka</span><span style='font-weight: 700;'> Hb Bart</span>:<span style='font-weight: 700;'> (--/--)</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Incompatible</span> with life.</li>
+      <li>Leads to <span style='font-weight: 700;'>hydrops fetalis </span>(death in-utero).</li>
+    </ul>
+"
+2,Haematology,,Classical exam presentation,"    <p>A 26-year-old man from <span style='font-weight: 700;'>Egypt</span> presents with feeling<span style='font-weight: 700;'> tired all the time</span>, and <span style='font-weight: 700;'>right upper quadrant pain</span>. </p>
+    <p>On examination, he appears <span style='font-weight: 700;'>jaundiced</span>, with <span style='font-weight: 700;'>scleral icterus</span> and a <span style='font-weight: 700;'>palpable spleen</span>. </p>
+    <p>A full blood count shows <span style='font-weight: 700;'>mild microcytic anaemia</span> with a <span style='font-weight: 700;'>markedly low MCV</span> and <span style='font-weight: 700;'>reticulocytosis</span>. His serum electrophoresis shows<span style='font-weight: 700;'> presence of HbH</span>.</p>
+"
+2,Haematology,,Aetiology,"    <p><span style='font-weight: 700;'>Deletion</span> to the <span style='font-weight: 700;'>alleles </span>coding for <span style='font-weight: 700;'>alpha </span>subunits of haemoglobin located on <span style='font-weight: 700;'>Chromosome 16</span>.</p>
+    <p>Each parent provides <span style='font-weight: 700;'>two alleles</span>.</p>
+    <p>The <span style='font-weight: 700;'>defective alleles</span> may only come from <span style='font-weight: 700;'>one parent, </span>e.g. <span style='font-weight: 700;'>(--/aa)</span> or from <span style='font-weight: 700;'>both </span>parents, <span style='font-weight: 700;'>(a-/a-)</span>.</p>
+    <p><span style='font-weight: 700; font-style: italic;'></span></p>
+    <p><span style='font-weight: 700; font-style: italic;'>Risk Factors</span></p>
+    <p><span style='font-weight: 700;'>Family history </span></p>
+    <p><span style='font-weight: 700;'>Ethnicity </span></p>
+    <ul>
+      <li>North African</li>
+      <li>Mediterranean</li>
+      <li>Middle Eastern</li>
+      <li>Indian and South-East Asian</li>
+    </ul>
+"
+2,Haematology,,Pathophysiology,"    <p>Both normal variants of haemoglobin<span style='font-weight: 700;'> HbF </span>and<span style='font-weight: 700;'> HbA </span>contain <span style='font-weight: 700;'>alpha </span>subunits.</p>
+    <ul>
+      <li>HbF = 2 alpha and 2 gamma chains.</li>
+      <li>HbA = 2 alpha and 2 beta chains.</li>
+    </ul>
+    <p>To act as a <span style='font-weight: 700;'>failsafe</span>, we have <span style='font-weight: 700;'>4 alleles </span>coding for the <span style='font-weight: 700;'>alpha subunit</span>. Each <span style='font-weight: 700;'>deleted gene</span> will cause progressively<span style='font-weight: 700;'> lower levels</span> of normal <span style='font-weight: 700;'>HbA</span>. This may only become symptomatic<span style='font-weight: 700;'> </span>if <span style='font-weight: 700;'>3 alleles</span> have been deleted. If <span style='font-weight: 700;'>all </span>alleles are deleted, there is <span style='font-weight: 700;'>death in utero </span>due to <span style='font-weight: 700;'>hydrops fetalis</span>. </p>
+    <p>In the more <span style='font-weight: 700;'>severe </span>case where <span style='font-weight: 700;'>3</span> alleles are deleted, the <span style='font-weight: 700;'>unmatched</span> and <span style='font-weight: 700;'>unbalanced beta-</span>chains<span style='font-weight: 700;'> precipitate</span> out and <span style='font-weight: 700;'>damage </span>the erythrocyte <span style='font-weight: 700;'>membrane</span>. This leads to <span style='font-weight: 700;'>extravascular haemolysis</span> either in the <span style='font-weight: 700;'>bone marrow </span>or the <span style='font-weight: 700;'>spleen</span>, leading to <span style='font-weight: 700;'>fatigue, jaundice,</span> and <span style='font-weight: 700;'>dark urine. </span>The <span style='font-weight: 700;'>excess </span>bilirubin may also <span style='font-weight: 700;'>precipitate </span>out as <span style='font-weight: 700;'>pigmented gallstones.</span></p>
+    <ul>
+      <li>The precipitations are seen as <span style='font-weight: 700;'>dark spots</span> in the erythrocytes as <span style='font-weight: 700;'>Heinz bodies</span>. Once <span style='font-weight: 700;'>multiple accumulate</span>, this may give the erythrocyte a <span style='font-weight: 700;'>golf ball</span> appearance. </li>
+      <li>The defective haemoglobin <span style='font-weight: 700;'>impairs </span>the oxygen carrying capacity in the blood, and may lead to <span style='font-weight: 700;'>failure to thrive </span>and <span style='font-weight: 700;'>stunted growth</span>.</li>
+    </ul>
+    <p>In response to this, there is an <span style='font-weight: 700;'>increase </span>in <span style='font-weight: 700;'>erythropoietin</span> (EPO)<span style='font-weight: 700;'> </span>production, leading to <span style='font-weight: 700;'>reticulocytosis, splenomegaly </span>and <span style='font-weight: 700;'>nucleated red-blood cells.</span> </p>
+"
+2,Haematology,,Clinical features,"    <p>The vast majority of cases are <span style='font-weight: 700;'>asymptomatic </span>and are picked up <span style='font-weight: 700;'>incidentally </span>on a blood test.</p>
+    <p><span style='font-weight: 700; font-style: italic;'>If 3 alleles are absent, features could include:</span></p>
+    <p><span style='font-weight: 700;'>Features of anaemia</span></p>
+    <ul>
+      <li>Failure to thrive (common)</li>
+      <li>Lethargy (common)</li>
+      <li>Pallor (common) </li>
+      <li>Failure to put on weight (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of haemolysis</span></p>
+    <ul>
+      <li>Features of gallstones, such as right upper quadrant pain (common)</li>
+      <li>Scleral icterus (common)</li>
+      <li>Dark urine (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of extramedullary haematopoiesis</span></p>
+    <ul>
+      <li>Splenomegaly (common)</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>If all alleles are missing:</span></p>
+    <ul>
+      <li>Hydrops fetalis (death in utero)</li>
+    </ul>
+"
+2,Haematology,,Diagnostics,"    <p><span style='font-weight: 700;'>Full blood count </span></p>
+    <ul>
+      <li>Microcytic anaemia </li>
+      <li>Disproportionately<span style='font-weight: 700;'> low MCV</span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood film</span></p>
+    <ul>
+      <li>Target cells</li>
+      <li>Golf ball appearance of erythrocytes</li>
+      <li>Nucleated red blood cells</li>
+    </ul>
+    <ul>
+      <li>Immature red blood cells formed to compensate for the anaemia</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemoglobin electrophoresis </span></p>
+    <ul>
+      <li>May show <span style='font-weight: 700;'>HbH</span> </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Genetic testing</span></p>
+"
+2,Haematology,,Management,"    <p>Management is dependent on patient symptomatology. </p>
+    <p><span style='font-weight: 700;'>Mildly </span>symptomatic patients may be offered <span style='font-weight: 700;'>folic acid </span>and <span style='font-weight: 700;'>monitored</span>.</p>
+    <p><span style='font-weight: 700;'>HbH </span>disease is <span style='font-weight: 700;'>likely </span>to need <span style='font-weight: 700;'>red cell transfusion, folic acid supplementation</span> as well as <span style='font-weight: 700;'>splenectomy</span>.</p>
+    <ul>
+      <li>In patients <span style='font-weight: 700;'>undergoing a splenectomy</span>, NICE guidelines recommend: </li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>Pneumococcal Polysaccharide Vaccine </span>(PPV) every <span style='font-weight: 700;'>5 years</span></li>
+      <li><span style='font-weight: 700;'>Annual influenza </span>vaccine </li>
+      <li>Oral antibiotic prophylaxis </li>
+    </ul>
+"
+2,Haematology,,Complications,"    <p><span style='font-weight: 700;'>Stunted growth </span>and<span style='font-weight: 700;'> failure to thrive</span>.</p>
+    <p><span style='font-weight: 700;'>Secondary haemochromatosis</span> (<span style='font-weight: 700;'>iron</span> <span style='font-weight: 700;'>overload </span>from<span style='font-weight: 700;'> repeated transfusions</span>).</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Endocrine </span>complications: delayed puberty, infertility and hypothyroidism (due to iron deposition in the pituitary or end organs).</li>
+      <li>Iron deposition in the <span style='font-weight: 700;'>heart</span>,<span style='font-weight: 700;'> </span>leading to congestive cardiac failure and arrhythmias. </li>
+      <li>Diabetes due to deposition of iron in the <span style='font-weight: 700;'>pancreas</span>.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Pigmented </span>gallstones.</p>
+    <p>Increased<span style='font-weight: 700;'> </span>risk of<span style='font-weight: 700;'> bacterial </span>infection due to <span style='font-weight: 700;'>splenectomy</span>.</p>
+    <p>Gout due to <span style='font-weight: 700;'>excessive </span>cell break down. </p>
+"
+2,Haematology,,Prognosis,"    <p>Those with one or two deletions usually have a normal life expectancy.</p>
+    <p>Patients with Hb Bart are unlikely to survive past the womb. However, in the unlikely event that they do, they will require lifelong transfusions. </p>
+"
+3,Haematology,,Sickle Cell Anaemia (SCA),""
+3,Haematology,,What is it?,"    <p><span style='font-weight: 700;'>Sickle cell anaemia</span> refers to an <span style='font-weight: 700;'>autosomal recessive congenital haemolytic anaemia</span> compromising of <span style='font-weight: 700;'>abnormal haemoglobin (</span><span style='font-style: italic; font-weight: 700;'>HbS</span><span style='font-weight: 700;'>)</span>, causing <span style='font-weight: 700;'>progressive </span>change in the <span style='font-weight: 700;'>shape </span>of erythrocytes from the characteristic biconcave to a <span style='font-weight: 700;'>crescentic sickle shape</span>.</p>
+"
+3,Haematology,,Classical exam presentation,"    <p>The concerned parents of a <span style='font-weight: 700;'>5-month-old girl</span> bring in their baby daughter who has been <span style='font-weight: 700;'>crying inconsolably</span> for the <span style='font-weight: 700;'>last 24 hours</span>. Over the last 24 hours, she has been <span style='font-weight: 700;'>refusing feeds</span> and has <span style='font-weight: 700;'>been passing fewer wet nappies</span>. The parents are<span style='font-weight: 700;'> asylum seekers</span> who <span style='font-weight: 700;'>migrated </span>from the<span style='font-weight: 700;'> Democratic Republic of Congo</span>,<span style='font-weight: 700;'> </span>and <span style='font-weight: 700;'>did not have</span> <span style='font-weight: 700;'>neonatal screening</span>. </p>
+    <p>On examination, the child appears to have <span style='font-weight: 700;'>swollen hands and feet</span>, <span style='font-weight: 700;'>a fever of 38</span><span style='font-weight: 700;'>⁰</span><span style='font-weight: 700;'>C</span> and <span style='font-weight: 700;'>scleral icterus</span>.</p>
+"
+3,Haematology,,Epidemiology,"    <p>In England, it affects <span style='font-weight: 700;'>~1/2000 live births</span>.</p>
+    <p>It is postulated that around<span style='font-weight: 700;'> 8% </span>of<span style='font-weight: 700;'> black </span>people are <span style='font-weight: 700;'>carriers</span>. </p>
+    <p>More common along the equator, affecting those of <span style='font-weight: 700;'>Afro-Caribbean </span>and <span style='font-weight: 700;'>South-East Asian descent</span>.</p>
+    <ul>
+      <li>Thought to be <span style='font-weight: 700;'>positive selection</span> as the <span style='font-weight: 700;'>sickle cell trait </span>is <span style='font-weight: 700;'>protective </span>against <span style='font-weight: 700;'>malaria</span>, giving carriers an<span style='font-weight: 700;'> evolutionary advantage</span>. As such, around <span style='font-weight: 700;'>25-30%</span> of live births in <span style='font-weight: 700;'>sub-Saharan Africa </span>are <span style='font-weight: 700;'>carriers</span><span style='font-weight: 700;'>.</span> </li>
+    </ul>
+    <p>Symptoms typically present around <span style='font-weight: 700;'>6 months of life</span> when <span style='font-weight: 700;'>foetal haemoglobin</span> <span style='font-weight: 700;'>levels</span> <span style='font-weight: 700;'>drop</span>. </p>
+"
+3,Haematology,,Aetiology,"    <p><span style='font-weight: 700;'>Autosomal recessive</span> condition which occurs due to a <span style='font-weight: 700;'>single substitution</span> to the<span style='font-weight: 700;'> beta-globin gene</span> on <span style='font-weight: 700;'>Chromosome 11</span>.</p>
+    <ul>
+      <li>At <span style='font-weight: 700;'>point 6</span> on the <span style='font-weight: 700;'>b</span><span style='font-weight: 700;'>eta-globin chain</span>, a single molecule of <span style='font-weight: 700;'>valine</span> is <span style='font-weight: 700;'>substituted </span>in place of <span style='font-weight: 700;'>glutamic acid</span>. </li>
+      <li>Unlike glutamic acid, <span style='font-weight: 700;'>v</span><span style='font-weight: 700;'>aline </span>is<span style='font-weight: 700;'> hydrophobic</span>. This causes a <span style='font-weight: 700;'>linear congregation </span>of the <span style='font-weight: 700;'>haemoglobin </span>molecules, leading to the <span style='font-weight: 700;'>crescentic sickle</span><span style='font-weight: 700;'> shape </span>of the<span style='font-weight: 700;'> erythrocyte</span>.</li>
+    </ul>
+    <p>HbS is composed of <span style='font-weight: 700;'>2 alpha-globin</span> subunits and <span style='font-weight: 700;'>2 mutated beta-globin subunits</span>.</p>
+    <p><span style='font-weight: 700; font-style: italic;'>Risk Factors</span></p>
+    <p><span style='font-weight: 700;'>Family history </span></p>
+    <p><span style='font-weight: 700;'>Ethnicity </span></p>
+    <ul>
+      <li>North African</li>
+      <li>Mediterranean</li>
+      <li>Middleeastern</li>
+      <li>Indian and South-East Asian</li>
+    </ul>
+"
+3,Haematology,,Pathophysiology,"    <p><span style='font-weight: 700;'>Sickling of erythrocytes</span> occurs in states which bring about <span style='font-weight: 700;'>hypoxia</span> because the <span style='font-weight: 700;'>haemoglobin dissociates </span>from oxygen<span style='font-weight: 700;'> more </span>easily. Other precipitants include <span style='font-weight: 700;'>cold </span>temperature (due to <span style='font-weight: 700;'>vasoconstriction</span>) and <span style='font-weight: 700;'>dehydration</span> (due to increased blood <span style='font-weight: 700;'>viscosity</span>).</p>
+    <p>The <span style='font-weight: 700;'>sickling </span>of cells causes <span style='font-weight: 700;'>damage </span>to the erythrocyte <span style='font-weight: 700;'>membrane</span>, leading to <span style='font-weight: 700;'>intravascular haemolysis</span>. This may manifest as <span style='font-weight: 700;'>jaundice</span>,<span style='font-weight: 700;'> dark urine,</span> and <span style='font-weight: 700;'>features of anaemia</span>. </p>
+    <ul>
+      <li>Increased <span style='font-weight: 700;'>free haemoglobin </span>from <span style='font-weight: 700;'>cell lysis</span> binds to <span style='font-weight: 700;'>n</span><span style='font-weight: 700;'>itrous </span><span style='font-weight: 700;'>o</span><span style='font-weight: 700;'>xide (NO)</span>,<span style='font-weight: 700;'> </span>leading to an <span style='font-weight: 700;'>NO</span> <span style='font-weight: 700;'>deficiency</span>. This may cause <span style='font-weight: 700;'>vasoconstriction</span> and <span style='font-weight: 700;'>increase </span>the risk of <span style='font-weight: 700;'>thrombosis.</span> </li>
+    </ul>
+    <p>The <span style='font-weight: 700;'>rigid sickle cells</span> can also <span style='font-weight: 700;'>occlude </span>and <span style='font-weight: 700;'>reduce blood flow </span>in vessels. This may be seen as: </p>
+    <ul>
+      <li><span style='font-weight: 700;'>Vaso-occlusive crisis</span>: <span style='font-weight: 700;'>blood vessels </span>of the <span style='font-weight: 700;'>bones</span>, <span style='font-weight: 700;'>bone marrow</span>, and <span style='font-weight: 700;'>hands and feet</span> are <span style='font-weight: 700;'>blocked</span> up, leading to <span style='font-weight: 700;'>severe pain</span>. This leads to <span style='font-weight: 700;'>hand and foot syndrome</span> in <span style='font-weight: 700;'>children</span>.</li>
+      <li><span style='font-weight: 700;'>Splenic sequestration</span>:<span style='font-weight: 700;'> sickle cells occlude the blood vessels</span> exiting the <span style='font-weight: 700;'>spleen</span>. This leads to <span style='font-weight: 700;'>splenomegaly</span>. A <span style='font-weight: 700;'>significant</span> volume of blood may <span style='font-weight: 700;'>sequester </span>here, leading to <span style='font-weight: 700;'>hypovolemic</span><span style='font-weight: 700;'> shock </span>and<span style='font-weight: 700;'> circulatory failure</span> (seen in <span style='font-weight: 700;'>children</span>). </li>
+      <li><span style='font-weight: 700;'>Ischaemic events</span>: blockage of blood vessels in the <span style='font-weight: 700;'>brain</span>, <span style='font-weight: 700;'>heart or kidneys</span> can lead to <span style='font-weight: 700;'>ischaemic injuries</span> such as <span style='font-weight: 700;'>strokes</span>, <span style='font-weight: 700;'>heart attacks </span>or<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>a</span><span style='font-weight: 700;'>cute kidney injury</span>.</li>
+      <li><span style='font-weight: 700;'>Priapism</span>: <span style='font-weight: 700;'>blockage </span>of the<span style='font-weight: 700;'> vasculature </span>around the <span style='font-weight: 700;'>penis</span>,<span style='font-weight: 700;'> </span>leading to extremely <span style='font-weight: 700;'>painful </span>and <span style='font-weight: 700;'>sustained erections</span>.</li>
+    </ul>
+    <p>The <span style='font-weight: 700;'>occlusive sickle cells</span> are also <span style='font-weight: 700;'>proinflammatory. </span>This<span style='font-weight: 700;'> </span>may result in:</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Acute chest syndrome</span>: occlusion of <span style='font-weight: 700;'>pulmonary blood vessels</span> leads to <span style='font-weight: 700;'>acute inflammation</span>, characterised by a <span style='font-weight: 700;'>pneumonia</span><span style='font-weight: 700;'>-</span><span style='font-weight: 700;'>like </span>presentation of <span style='font-weight: 700;'>fever, dyspnoea, hypoxia, </span>and <span style='font-weight: 700;'>chest infiltrates</span>.</li>
+    </ul>
+    <ul>
+      <li>This may set up a<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>vicious</span><span style='font-weight: 700;'> cycle</span> characterised by <span style='font-weight: 700;'>hypoxia, hypoxic vasoconstriction </span>of <span style='font-weight: 700;'>pulmonary vasculature</span>,<span style='font-weight: 700;'> </span>and<span style='font-weight: 700;'> further sickling</span>.</li>
+      <li><span style='font-weight: 700;'>Repeated episodes</span> may lead to <span style='font-weight: 700;'>chronic pulmonary hypertension</span>. </li>
+    </ul>
+    <p>Lastly, <span style='font-weight: 700;'>repeated occlusions</span> and <span style='font-weight: 700;'>infarctions </span>may manifest as: </p>
+    <ul>
+      <li><span style='font-weight: 700;'>Auto-splenectomy</span>: <span style='font-weight: 700;'>repeated</span> and <span style='font-weight: 700;'>sustained ischaemic damage</span> to the <span style='font-weight: 700;'>spleen</span> results in <span style='font-weight: 700;'>progressive fibrosis </span>and <span style='font-weight: 700;'>loss of function</span>.</li>
+    </ul>
+    <ul>
+      <li>This leads to <span style='font-weight: 700;'>hyposplenism</span>, leaving the patient at a<span style='font-weight: 700;'> significantly higher risk of bacterial infections</span> such as <span style='font-weight: 700; font-style: italic;'>non-typhi </span><span style='font-style: italic; font-weight: 700;'>S</span><span style='font-weight: 700; font-style: italic;'>almonella</span> or<span style='font-weight: 700; font-style: italic;'> Neisseria </span><span style='font-style: italic; font-weight: 700;'>meningitidis</span><span style='font-weight: 700; font-style: italic;'>.</span> </li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>Non healing </span>skin ulcers.</li>
+    </ul>
+"
+3,Haematology,,Clinical features,"    <p><span style='font-weight: 700;'>Features of anaemia </span></p>
+    <ul>
+      <li>Failure to thrive (common)</li>
+      <li>Lethargy (common)</li>
+      <li>Pallor (common) </li>
+      <li>Failure to put on weight (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of haemolysis</span></p>
+    <ul>
+      <li>Jaundice (common)</li>
+      <li>Scleral icterus (common)</li>
+      <li>Dark urine (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Recurrent infections (common)</span></p>
+    <p><span style='font-weight: 700;'>Non-healing skin ulcers</span></p>
+    <p><span style='font-weight: 700;'>Vaso-occlusive crisis</span></p>
+    <ul>
+      <li>Bone pain (common)</li>
+      <li>Abdominal and chest pain (common)</li>
+      <li>Hands and feet swelling in children/dactylitis (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Acute chest syndrome</span></p>
+    <ul>
+      <li>Chest pain (common)</li>
+      <li>Dyspnoea (common)</li>
+      <li>Hypoxia (common)</li>
+      <li>Fever (common)</li>
+      <li>Crackles on auscultation (common)</li>
+      <li>Tachycardia (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Splenic sequestration crisis (uncommon)</span></p>
+    <ul>
+      <li>Splenomegaly/abdominal distention </li>
+      <li>Haemodynamic instability (hypotension, tachycardia, prolonged central capillary refill time)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of bone marrow hyperplasia (uncommon) </span></p>
+    <ul>
+      <li>Maxillary hypertrophy </li>
+      <li>Large head <span style='font-weight: 700;'>  </span></li>
+    </ul>
+"
+3,Haematology,,Diagnostics,"    <p><span style='font-weight: 700; font-style: italic;'>Diagnosing sickle cell disease:</span></p>
+    <ul>
+      <li>In most<span style='font-weight: 700;'> </span>developed countries,<span style='font-weight: 700;'> antenatal </span>and<span style='font-weight: 700;'> neonatal screening </span>(heel prick test) will pick up <span style='font-weight: 700;'>most </span>cases.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Genetic testing</span></p>
+    <p><span style='font-weight: 700;'>Full Blood Count</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Normocytic anaemia</span></li>
+      <li><span style='font-weight: 700;'>Reticulocytosis</span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Peripheral blood film</span></p>
+    <ul>
+      <li>Characteristic<span style='font-weight: 700;'> sickle cells</span></li>
+      <li>Features of <span style='font-weight: 700;'>hyposplenism</span> (Pappenheimer bodies, Howell-Jolly bodies)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemoglobin electrophoresis </span></p>
+    <ul>
+      <li>Presence of <span style='font-weight: 700;'>HbS</span> </li>
+      <li><span style='font-weight: 700;'>Lack of HbA</span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemoglobin solubility testing </span></p>
+    <ul>
+      <li>Turbid appearance of blood in reducing solution due to precipitation of the cells</li>
+      <li>Not recommended in those &lt;6 months old due to high levels of HbF giving false negatives</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Investigating complications</span></p>
+    <p><span style='font-weight: 700;'>Chest X-ray</span></p>
+    <ul>
+      <li>Bilateral infiltrates in acute chest syndrome</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Abdominal ultrasound</span></p>
+    <ul>
+      <li>Splenomegaly and splenic engorgement in sequestration crisis</li>
+    </ul>
+    <p><span style='font-weight: 700;'>X-ray of long bones</span></p>
+    <ul>
+      <li>Moth bitten appearance due to recurrent infarctions</li>
+      <li>Avascular necrosis due to occlusion of blood supply</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood cultures</span></p>
+    <ul>
+      <li>Rule out life threatening infections such as meningococcal disease</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Transcranial ultrasound</span></p>
+    <ul>
+      <li>Rule out stroke</li>
+    </ul>
+"
+3,Haematology,,Management,"    <p><span style='font-weight: 700; font-style: italic;'>Acute management</span></p>
+    <p><span style='font-weight: 700;'>Prompt referral </span>to hospital and treat as a<span style='font-weight: 700;'> medical emergency</span></p>
+    <p><span style='font-weight: 700;'>ABCDE </span>approach</p>
+    <ul>
+      <li><span style='font-weight: 700;'>High flow oxygen </span>to replenish body’s oxygen, halting further sickling</li>
+      <li><span style='font-weight: 700;'>Fluid resuscitation </span>to replenish fluid levels and decrease blood viscosity</li>
+      <li><span style='font-weight: 700;'>Adequate pain control with opioid analgesia</span></li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>NICE </span>recommends starting analgesia <span style='font-weight: 700;'>within 30 minutes </span>of presentation</li>
+      <li>May require antihistamine prescription due to opioid-induced pruritus</li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>Prompt use of antibiotics</span></li>
+    </ul>
+    <ul>
+      <li>In <span style='font-weight: 700;'>acute chest syndrome</span>, a <span style='font-weight: 700;'>broad-spectrum antibiotic</span> is started <span style='font-weight: 700;'>on admission</span> due to the difficulty in distinguishing between pneumonia and acute chest syndrome</li>
+      <li>In <span style='font-weight: 700;'>vaso-occlusive crisis</span>, evidence of infection (e.g., fever) should trigger its use</li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>Blood transfusion</span><span style='font-weight: 700;'> </span>in symptomatic anaemia, shock, or cardiac compromise</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Chronic and stable disease</span></p>
+    <p><span style='font-weight: 700;'>Patient and parent education</span></p>
+    <ul>
+      <li>Hydration advice</li>
+      <li>Palpation of spleen in children to screen for splenic sequestration</li>
+      <li>Advice to avoid alcohol and smoking to older patients</li>
+      <li>Avoiding extreme heights and excessive exercise (especially swimming), dressing warmly in the cold, and remaining vigilant for signs of infection</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Hydroxyurea </span></p>
+    <ul>
+      <li>Increases foetal haemoglobin thus reducing sickling and painful episodes</li>
+      <li>However, this is a cytotoxic so there is a significant risk of neutropenia. If any infections are suspected, this should prompt thorough and vigilant investigation</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Bone marrow transplant </span></p>
+    <ul>
+      <li>NICE recommend <span style='font-weight: 700;'>vaccinations</span> including pneumococcal polysaccharide vaccine every 5 years and yearly Influenza vaccine</li>
+    </ul>
+    <ul>
+      <li>May require <span style='font-weight: 700;'>prophylactic antibiotics </span></li>
+      <li><span style='font-weight: 700;'>Folic acid </span>supplementation </li>
+    </ul>
+"
+3,Haematology,,Complications,"    <p><span style='font-weight: 700;'>Recurrent </span>and <span style='font-weight: 700;'>severe </span>infections.</p>
+    <p>Aplastic anaemia, especially following <span style='font-weight: 700;'>parvovirus B19 </span>infection.</p>
+    <p>Secondary <span style='font-weight: 700;'>haemochromatosis </span>from <span style='font-weight: 700;'>repeated </span>transfusions.</p>
+    <p>Progressive <span style='font-weight: 700;'>renal failure</span>.</p>
+    <p>Stroke.</p>
+    <p>Heart failure (high output cardiac failure).</p>
+"
+3,Haematology,,Prognosis,"    <p>Prognosis varies from early death due to end organ damage, to survival into the 60's to 70’s with effective treatment. </p>
+    <ul>
+      <li>In Africa, most children (up to 90%) will not make it to the age of 5.</li>
+      <li>Most common cause of death in children is life-threatening infection.</li>
+      <li>In adults, the most common causes of death include stroke, pulmonary hypertension, acute chest syndrome, and sepsis. </li>
+    </ul>
+"
+4,Haematology,,Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency,""
+4,Haematology,,What is it?,"    <p><span style='font-weight: 700;'>X-linked recessive </span>congenital <span style='font-weight: 700;'>haemolytic anaemia</span> which occurs due to the <span style='font-weight: 700;'>deficiency </span>of the <span style='font-weight: 700;'>enzyme G6PD</span>. </p>
+    <p>The <span style='font-weight: 700;'>deficiency</span> of the enzyme leads to <span style='font-weight: 700;'>haemolysis</span> during<span style='font-weight: 700;'> times of stress</span> (e.g. post an<span style='font-weight: 700;'> acute illness</span> or exposure to<span style='font-weight: 700;'> oxidant drugs</span>). </p>
+"
+4,Haematology,,Classical exam presentation,"    <p>A<span style='font-weight: 700;'> 28-year-old man</span> from <span style='font-weight: 700;'>Turkey</span> presents to the GP with <span style='font-weight: 700;'>new onset fatigue, lethargy</span>, and noticing he has had a <span style='font-weight: 700;'>change to the colour of his eyes</span>. He was recently<span style='font-weight: 700;'> </span>started on a course of <span style='font-weight: 700;'>Ciprofloxacin</span> due to<span style='font-weight: 700;'> </span>a<span style='font-weight: 700;'> significant chest infection</span>. He states his <span style='font-weight: 700;'>maternal uncle</span> has a blood disorder in which <span style='font-weight: 700;'>he has to avoid certain antibiotics</span>. </p>
+    <p>On examination, <span style='font-weight: 700;'>he is icteric with pale conjunctiva</span>.</p>
+    <p>A <span style='font-weight: 700;'>haemolysis screen is positive</span>, and a blood film visualises<span style='font-weight: 700;'> Heinz bodies </span>and<span style='font-weight: 700;'> bite cells</span>.</p>
+"
+4,Haematology,,Epidemiology,"    <p><span style='font-weight: 700;'>Most common </span>enzymopathy in the world, affecting <span style='font-weight: 700;'>400 million</span> people across the globe.</p>
+    <p>Mainly seen in <span style='font-weight: 700;'>males </span>due to <span style='font-weight: 700;'>X-linked </span>inheritance.</p>
+    <ul>
+      <li>Females with Turner’s Syndrome (XO) may also be affected more severely. </li>
+    </ul>
+    <p>Most commonly seen in <span style='font-weight: 700;'>African</span>, <span style='font-weight: 700;'>Mediterranean</span>, <span style='font-weight: 700;'>Asian </span>and<span style='font-weight: 700;'> Kurdish Jews</span>.</p>
+"
+4,Haematology,,Aetiology,"    <p>X-linked recessive inheritance.</p>
+    <p>The gene coding for the<span style='font-weight: 700;'> G6PD enzyme</span> is located on the <span style='font-weight: 700;'>long arm </span>of the <span style='font-weight: 700;'>X-chromosome.</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Mutations</span> in this gene may result in a <span style='font-weight: 700;'>dysfunctional G6PD enzyme</span>, leading to <span style='font-weight: 700;'>lower levels</span> of enzyme activity.</li>
+    </ul>
+    <p>G6PD is involved in the <span style='font-weight: 700;'>pentose phosphate pathway</span> which produces nicotinamide adenine dinucleotide phosphate (NADPH). NADPH is essential in the conversion of oxidised glutathione to reduced glutathione.</p>
+    <ul>
+      <li>Lower levels of reduced glutathione make red blood cells more susceptible to <span style='font-weight: 700;'>oxidative damage</span> via the <span style='font-weight: 700;'>accumulation </span>of <span style='font-weight: 700;'>free radicals</span> and <span style='font-weight: 700;'>reactive oxygen species</span> in the cell, which <span style='font-weight: 700;'>damages the erythrocyte membrane</span>, leading to <span style='font-weight: 700;'>haemolysis.</span> </li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Risk Factors</span></p>
+    <p><span style='font-weight: 700;'>Family history </span></p>
+    <p><span style='font-weight: 700;'>Ethnicity </span></p>
+    <ul>
+      <li>North African</li>
+      <li>Mediterranean</li>
+      <li>Middle eastern</li>
+      <li>Indian and south-east asian</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Triggers</span></p>
+    <ul>
+      <li>Fava beans and broad beans</li>
+      <li>Acute illness </li>
+      <li>Drugs: salicylates, ciprofloxacin, dapsone, sulfa- drugs, nitrofurans </li>
+    </ul>
+"
+4,Haematology,,Pathophysiology,"    <ol start='1'>
+      <li><span style='font-weight: 700;'>Haemolytic crises</span> are triggered by increased oxidative stress:</li>
+    </ol>
+    <ul>
+      <li>Exposure to <span style='font-weight: 700;'>acute illness </span>(infection, inflammation, metabolic acidosis).</li>
+      <li><span style='font-weight: 700;'>Oxidant drugs </span>(antimalarials, sulfa-drugs, dapsone, ciprofloxacin, nitrofurantoin, salicylate).<span style='font-weight: 700;'> </span></li>
+      <li><span style='font-weight: 700;'>Fava beans</span>. </li>
+    </ul>
+    <ol start='2'>
+      <li>This results in the accumulation of <span style='font-weight: 700;'>hydrogen peroxide</span> in the cells which <span style='font-weight: 700;'>cannot </span>be <span style='font-weight: 700;'>reduced </span>due to <span style='font-weight: 700;'>low levels </span>of the <span style='font-weight: 700;'>G6PD enzyme</span>. The accumulation of <span style='font-weight: 700;'>hydrogen peroxide </span>leads to the formation of <span style='font-weight: 700;'>free radicals</span> which <span style='font-weight: 700;'>damage </span>the erythrocyte components.</li>
+    </ol>
+    <ul>
+      <li><span style='font-weight: 700;'>Oxidative damage </span>to the haemoglobin leads to <span style='font-weight: 700;'>precipitations</span> known as <span style='font-weight: 700;'>Heinz bodies</span>. </li>
+    </ul>
+    <ol start='3'>
+      <li>As the <span style='font-weight: 700;'>damaged cells</span> pass through the <span style='font-weight: 700;'>spleen</span>, those whose membranes have received excessive damage undergo<span style='font-weight: 700;'> haemolysis</span>, leading to signs of<span style='font-weight: 700;'> hyperbilirubinemia</span> (jaundice and dark urine) and <span style='font-weight: 700;'>anaemia</span> (fatigue, lethargy, and pallor).</li>
+    </ol>
+    <ul>
+      <li>Cells with <span style='font-weight: 700;'>Heinz bodies</span> may have a <span style='font-weight: 700;'>chunk removed</span> from them by the <span style='font-weight: 700;'>splenic macrophages</span>, leading to the formation of <span style='font-weight: 700;'>bite cells.</span> </li>
+    </ul>
+    <ol start='4'>
+      <li>Deficiency of the enzymes may also have <span style='font-weight: 700;'>non-haematological </span>complications, including <span style='font-weight: 700;'>oxidative damage </span>to the <span style='font-weight: 700;'>lens </span>of the <span style='font-weight: 700;'>eye</span>, leading to <span style='font-weight: 700;'>cataract formation</span>. </li>
+    </ol>
+"
+4,Haematology,,Clinical features,"    <p>Most cases are <span style='font-weight: 700;'>asymptomatic</span>.</p>
+    <p>Symptomatic patients may present with <span style='font-weight: 700;'>neonatal jaundice</span> or acute <span style='font-weight: 700;'>haemolytic anaemia </span>following exposure to a precipitant.</p>
+    <ul>
+      <li>History of <span style='font-weight: 700;'>precipitants</span>,<span style='font-weight: 700;'> </span>such<span style='font-weight: 700;'> </span>as <span style='font-weight: 700;'>acute illness </span>or <span style='font-weight: 700;'>oxidative drugs</span>.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of haemolytic crisis</span> (may be recurring)</p>
+    <ul>
+      <li>Sudden onset of back or abdominal pain</li>
+      <li>Jaundice</li>
+      <li>Dark urine</li>
+      <li>Transient splenomegaly</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of anaemia (common)</span></p>
+    <ul>
+      <li>Fatigue</li>
+      <li>Pallor </li>
+      <li>Exertional dyspnoea </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of hyperbilirubinemia (common)</span></p>
+    <ul>
+      <li>Jaundice </li>
+      <li>Scleral icterus </li>
+      <li>Dark urine</li>
+      <li>Right upper quadrant pain due to pigment gallstones.</li>
+    </ul>
+"
+4,Haematology,,Diagnostics,"    <p><span style='font-weight: 700;'>Investigations for blood abnormalities:</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Full blood count </span>will show <span style='font-weight: 700;'>normocytic anaemia</span>, and potentially <span style='font-weight: 700;'>macrocytosis</span> due to folate deficiency as a result of haemolysis.</li>
+      <li><span style='font-weight: 700;'>Blood film </span>will show <span style='font-weight: 700;'>Heinz bodies </span>and <span style='font-weight: 700;'>bite cells</span>.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemolytic screen:</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Coomb’s test </span>to exclude autoimmune haemolytic anaemia.</li>
+      <li><span style='font-weight: 700;'>Serum bilirubin </span>is <span style='font-weight: 700;'>raised</span> due to excessive erythrocyte breakdown.</li>
+      <li><span style='font-weight: 700;'>Serum haptoglobin </span>is <span style='font-weight: 700;'>reduced</span> due to free-floating haemoglobin as a result of erythrocyte breakdown.</li>
+      <li><span style='font-weight: 700;'>Reticulocyte count </span>will be <span style='font-weight: 700;'>raised</span> as a compensatory mechanism to replace haemolysed cells.</li>
+      <li><span style='font-weight: 700;'>Lactate dehydrogenase </span>is <span style='font-weight: 700;'>raised</span> in cellular breakdown.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Investigations for jaundice:</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Liver function tests </span>will reveal <span style='font-weight: 700;'>normal</span> <span style='font-weight: 700;'>transaminases</span> and rule out other causes of jaundice.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>G6PD diagnostics</span> (newer technology):</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Rapid fluorescent spot test</span> (screening test) - blood spots fails to show fluorescence under ultraviolet light due to reduced generation of NADPH.</li>
+    </ul>
+    <ul>
+      <li>Screening test alone is not reliable in female patients.</li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>Quantitative spectrophotometric assay</span> can be diagnostic and should be performed if a rapid fluorescent test is borderline or abnormal.</li>
+      <li>Assays should be <span style='font-weight: 700;'>repeated after remission</span> of haemolytic episodes as it can result in false-negatives. </li>
+      <li><span style='font-weight: 700;'>Cytochemical or DNA analysis tests</span> may be the only tests that show this condition in heterozygous females.</li>
+    </ul>
+"
+4,Haematology,,Management,"    <p><span style='font-weight: 700;'>Preventative measures </span>(<span style='font-weight: 700;'>education</span> and <span style='font-weight: 700;'>avoidance of triggers</span>) is mainstay</p>
+    <p><span style='font-weight: 700;'>Acute haemolytic crisis</span> may be treated with <span style='font-weight: 700;'>supportive care</span> and <span style='font-weight: 700;'>packed red cell transfusion</span></p>
+    <p><span style='font-weight: 700;'>Long-term</span>,<span style='font-weight: 700;'> </span>patients may require <span style='font-weight: 700;'>folate supplementation</span> </p>
+    <p><span style='font-weight: 700;'>Genetic counselling</span></p>
+    <p><span style='font-weight: 700;'>Neonatal jaundice </span>can be treated with <span style='font-weight: 700;'>light therapy</span> or exchange transfusion in severe cases</p>
+"
+4,Haematology,,Complications,"    <p><span style='font-weight: 700;'>Neonatal Jaundice </span>and risk of <span style='font-weight: 700;'>kernicterus </span>(<span style='font-weight: 700;'>bilirubin </span>deposit in the <span style='font-weight: 700;'>basal ganglia</span> leading to <span style='font-weight: 700;'>cerebral palsy</span>)</p>
+    <p><span style='font-weight: 700;'>Pigment </span>gallstones</p>
+    <p><span style='font-weight: 700;'>Anaemia</span></p>
+    <p><span style='font-weight: 700;'>Acute haemolytic crisis </span>can lead to hypovolaemic shock and acute kidney injury</p>
+"
+4,Haematology,,Prognosis,"    <p>Most people with the disease have an <span style='font-weight: 700;'>excellent prognosis with normal life expectancy.</span></p>
+"
+5,Haematology,,Iron Deficiency Anaemia (IDA),""
+5,Haematology,,What is it?,"    <p><span style='font-style: italic; font-weight: 700;'>“An</span><span style='font-style: italic;'>-</span><span style='font-style: italic; font-weight: 700;'>”</span><span style='font-style: italic;'> </span>refers to a <span style='font-weight: 700;'>lack of</span> and <span style='font-weight: 700;'>“</span>-<span style='font-style: italic; font-weight: 700;'>aemia”</span> refers to the <span style='font-weight: 700;'>in the blood</span>.</p>
+    <ul>
+      <li><span style='font-style: italic;'>Iron </span><span style='font-style: italic;'>d</span><span style='font-style: italic;'>eficiency </span><span style='font-style: italic;'>a</span><span style='font-style: italic;'>naemia </span>(IDA) refers to the <span style='font-weight: 700;'>lack </span>of <span style='font-weight: 700;'>haemoglobin </span>due to a <span style='font-weight: 700;'>deficiency </span>of <span style='font-weight: 700;'>iron</span>. </li>
+    </ul>
+    <p>It is the <span style='font-weight: 700;'>most common</span> type of anaemia.</p>
+"
+5,Haematology,,Classical exam presentation,"    <p>A 28-year-old <span style='font-weight: 700;'>female</span> presents to the GP feeling <span style='font-weight: 700;'>extremely tired</span>, <span style='font-weight: 700;'>low in mood</span> and <span style='font-weight: 700;'>short of breath on exertion</span>. She complains that her <span style='font-weight: 700;'>tongue</span> is <span style='font-weight: 700;'>tender and painful</span>. </p>
+    <p>On examination, she has a <span style='font-weight: 700;'>pale complexion</span>, her <span style='font-weight: 700;'>conjunctiva appears pale</span>, and her <span style='font-weight: 700;'>nails appear flattened</span>. Full blood count and iron studies show a <span style='font-weight: 700;'>microcytic anaemia with high total iron binding capacity (TIBC)</span>.</p>
+"
+5,Haematology,,Epidemiology,"    <p>Most <span style='font-weight: 700;'>common </span>type of anaemia worldwide.</p>
+    <p>It has a prevalence of <span style='font-weight: 700;'>2-5%</span> in adults in the developed world.</p>
+    <p>Mostly seen <span style='font-weight: 700;'>in young children</span> due to <span style='font-weight: 700;'>inadequate intake</span>, or in <span style='font-weight: 700;'>premenopausal women </span>due to <span style='font-weight: 700;'>excessive loss during menstruation</span>.</p>
+"
+5,Haematology,,Aetiology,"    <p><span style='font-weight: 700;'>Inadequate intake </span></p>
+    <ul>
+      <li>Increased demand for iron during growth and pregnancy</li>
+      <li>Poor dietary intake (e.g., children fed cow’s milk exclusively)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Inadequate absorption</span></p>
+    <p>Dietary iron is absorbed at the duodenum. As such any disease affecting the duodenum may lead to IDA. This includes:</p>
+    <ul>
+      <li>Coeliac disease </li>
+      <li>Crohn’s Disease</li>
+    </ul>
+    <ul>
+      <li>Short bowel syndrome</li>
+    </ul>
+    <ul>
+      <li>Gastrectomy</li>
+    </ul>
+    <ul>
+      <li><span style='font-style: italic;'>Helicobacter pylori </span>infection</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Increased loss (due to chronic bleeding)</span></p>
+    <ul>
+      <li>Menstruation - the most common cause in premenopausal women </li>
+      <li>Peptic ulcer disease due to chronic NSAID use or <span style='font-style: italic;'>H. Pylori </span>infection</li>
+      <li>Bowel malignancy* - most common cause in adult men and postmenopausal women</li>
+    </ul>
+    <p>*<span style='font-style: italic;'>Suspect in any patient &gt;60 years of age and confirmed iron deficiency anaemia.  </span> </p>
+    <p><span style='font-style: italic; font-weight: 700;'>Risk Factors</span><span style='font-weight: 700; text-decoration: underline;'> </span></p>
+    <ul>
+      <li>Vegetarian/vegan diet</li>
+      <li>Menstruation </li>
+    </ul>
+    <ul>
+      <li>NSAID use</li>
+      <li>Coeliac disease</li>
+      <li><span style='font-style: italic;'>Helicobacter pylori</span> infection </li>
+    </ul>
+"
+5,Haematology,,Pathophysiology,"    <p>Lack of iron leads to a <span style='font-weight: 700;'>reduction in haemoglobin production</span>, leading to <span style='font-weight: 700;'>smaller red blood cells</span> (microcytosis). </p>
+    <ul>
+      <li>Reduced haemoglobin leads to <span style='font-weight: 700;'>dyspnoea on exertion</span> and <span style='font-weight: 700;'>fatigue</span> due to <span style='font-weight: 700;'>reduced oxygen carrying capacity</span>.</li>
+    </ul>
+    <p>Iron is essential <span style='font-weight: 700;'>for hair and nail production</span>. In its absence, <span style='font-weight: 700;'>progressive nail changes </span>such as <span style='font-weight: 700;'>thinning, flattening and spooning (koilonychia),</span> as well as <span style='font-weight: 700;'>hair thinning</span> may occur.</p>
+"
+5,Haematology,,Clinical features,"    <p><span style='font-weight: 700;'>Symptoms</span></p>
+    <ul>
+      <li>Fatigue (common)</li>
+      <li>Reduced exercise tolerance (common) </li>
+      <li>Pica syndrome (common)</li>
+      <li>Palpitations (common)</li>
+      <li>Weakness (common)</li>
+      <li>Dysphagia*</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Signs</span></p>
+    <p>Pallor (more commonly of the mucosa)</p>
+    <p>Nail changes (common)</p>
+    <ul>
+      <li>Thinning --&gt; flattening --&gt; koilonychia </li>
+    </ul>
+    <p>Angular stomatitis (common) </p>
+    <p>Glossitis (common)</p>
+    <p>Restless leg syndrome (common)</p>
+    <p>*<span style='font-style: italic;'>Dysphagia, iron-deficiency anaemia, and oesophageal webs on upper GI endoscopy is the classical triad of Plummer-Vinson-syndrome.    </span></p>
+"
+5,Haematology,,Diagnostics,"    <p><span style='font-weight: 700; font-style: italic;'>Confirming iron deficiency anaemia </span></p>
+    <p><span style='font-weight: 700;'>Full blood count </span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Microcytic anaemia</span></li>
+      <li><span style='font-weight: 700;'>L</span><span style='font-weight: 700;'>ow MCH</span> (hypochromia) </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood film</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Pencil</span> cells</li>
+      <li><span style='font-weight: 700;'>T</span><span style='font-weight: 700;'>arget</span> cells</li>
+      <li><span style='font-weight: 700;'>M</span><span style='font-weight: 700;'>icrocytic hypochromic</span> erythrocytes </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Iron Studies </span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Low </span><span style='font-weight: 700;'>f</span><span style='font-weight: 700;'>erritin</span>, <span style='font-weight: 700;'>l</span><span style='font-weight: 700;'>ow </span><span style='font-weight: 700;'>s</span><span style='font-weight: 700;'>erum </span><span style='font-weight: 700;'>i</span><span style='font-weight: 700;'>ron</span></li>
+      <li><span style='font-weight: 700;'>Low </span><span style='font-weight: 700;'>t</span><span style='font-weight: 700;'>ransferrin </span><span style='font-weight: 700;'>s</span><span style='font-weight: 700;'>aturation</span></li>
+      <li><span style='font-weight: 700;'>High TIBC   </span></li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Finding the cause of IDA</span></p>
+    <p><span style='font-weight: 700;'>Anti-TTG and total IgA</span> (offered to all patients to rule out Coeliac disease).</p>
+    <p><span style='font-weight: 700;'>Urine dipstick</span> (offered to all patients to rule out chronic bleeding from renal tract).</p>
+    <p><span style='font-weight: 700;'>Upper GI endoscopy </span>(rule out Plummer-Vinson syndrome or visualise small bowel changes to rule out Coeliac disease).</p>
+    <p><span style='font-weight: 700;'>Colonoscopy </span>(urgent 2ww referral pathway in &gt; 60y/o with confirmed IDA to rule out bowel malignancy). </p>
+    <ul>
+      <li>Consider colonoscopy in those &lt; 50y/o who present with rectal bleeding. </li>
+    </ul>
+    <p><span style='font-style: italic; font-weight: 700;'>Helicobacter pylori</span><span style='font-weight: 700;'> testing</span> (rule out chronic bleeding from peptic ulcer).</p>
+"
+5,Haematology,,Management,"    <p>Treat the<span style='font-weight: 700;'> underlying cause</span>.</p>
+    <p><span style='font-style: italic; font-weight: 700;'>Oral iron replacement</span></p>
+    <p>NICE Guidelines recommend <span style='font-weight: 700;'>f</span><span style='font-weight: 700;'>errous </span><span style='font-weight: 700;'>s</span><span style='font-weight: 700;'>ulfate </span><span style='font-weight: 700;'>200mg</span><span style='font-weight: 700;'> tablets TDS </span>until <span style='font-weight: 700;'>3 months after iron deficiency has been corrected</span>.</p>
+    <ul>
+      <li>Haemoglobin levels should be<span style='font-weight: 700;'> rechecked 2-4 weeks later</span>.</li>
+      <li>Expect Hb levels to <span style='font-weight: 700;'>rise by 20g/L over 3-4 weeks</span>.</li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>Ascorbic acid (vitamin C) </span>may be added to increase efficacy.</li>
+    </ul>
+    <p>Those not responding may receive <span style='font-weight: 700;'>parenteral iron</span>.</p>
+    <p>Those with a <span style='font-weight: 700;'>haemoglobin &lt;70g/L or 80g/</span>L with <span style='font-weight: 700;'>acute coronary syndrome</span> may require packed red cell transfusion. </p>
+    <p><span style='font-weight: 700;'>Side-effects:</span></p>
+    <ul>
+      <li>Black discoloured stools</li>
+      <li>Constipation</li>
+      <li>Abdominal cramps and bloating</li>
+    </ul>
+"
+5,Haematology,,Complications,"    <p>Recurrent infections (due to impaired immunity)</p>
+    <p>High output cardiac failure</p>
+    <p>Impaired muscular performance </p>
+"
+5,Haematology,,Prognosis,"    <p>Prognosis is dependent on the underlying cause. </p>
+    <ul>
+      <li>Uncomplicated iron deficiency anaemia has a very good prognosis.</li>
+    </ul>
+    <p>If secondary to bowel cancer, prognosis depends on the stage and grade of the cancer.</p>
+"
+6,Haematology,,Vitamin B12 Deficiency,""
+6,Haematology,,What is it?,"    <p class='title'>A characteristic <span style='font-weight: 700;'>macrocytic megaloblastic anaemia</span> which results from a <span style='font-weight: 700;'>deficiency of vitamin B12</span>.</p>
+    <ul>
+      <li class='title'>As well as <span style='font-weight: 700;'>haematological symptoms</span>, the patient may have <span style='font-weight: 700;'>neurological </span>and <span style='font-weight: 700;'>psychiatric symptoms</span>.</li>
+    </ul>
+"
+6,Haematology,,Definitions,"    <p><span style='font-weight: 700;'>Pernicious anaemia: </span>an <span style='font-weight: 700;'>autoimmune disorder</span> characterised by <span style='font-weight: 700;'>antibody-formation</span> and subsequent <span style='font-weight: 700;'>destruction</span> of <span style='font-weight: 700;'>gastric parietal cells</span>, leading to a deficiency in <span style='font-weight: 700;'>intrinsic factor</span>.</p>
+"
+6,Haematology,,B12 roles and sources,"    <p class='title'>B12 is an <span style='font-weight: 700;'>essential B vitamin</span>, also known as <span style='font-weight: 700;'>cobalamin</span>.</p>
+    <p class='title'>It plays an essential role in the <span style='font-weight: 700;'>production of new nucleotides</span> (purines and pyrimidines) which are essential for normal <span style='font-weight: 700;'>cell division </span>as well as <span style='font-weight: 700;'>production</span> of <span style='font-weight: 700;'>amino acids</span>.</p>
+    <ul>
+      <li>Helps with the <span style='font-weight: 700;'>breakdown of toxic products</span>, such as <span style='font-weight: 700;'>homocysteine</span> and <span style='font-weight: 700;'>methylmalonic acid</span>.</li>
+    </ul>
+    <p>It is commonly found in <span style='font-weight: 700;'>red meats, dairy products, fish and eggs</span>, as well as <span style='font-weight: 700;'>fortified bread and cereals</span>.</p>
+"
+6,Haematology,,B12 absorption,"    <p>In nature, <span style='font-weight: 700;'>B12 </span>exists<span style='font-weight: 700;'> bound </span>to <span style='font-weight: 700;'>proteins</span>.</p>
+    <p>In the stomach, the presence of <span style='font-weight: 700;'>pepsin </span>and the<span style='font-weight: 700;'> low pH</span> causes <span style='font-weight: 700;'>denaturation</span> of these proteins, allowing B12 to become <span style='font-weight: 700;'>free</span> and bind<span style='font-weight: 700;'> </span>to <span style='font-weight: 700;'>R binder protein</span> (secreted by the<span style='font-weight: 700;'> s</span>alivary glands).<span style='font-weight: 700;'> </span></p>
+    <ul>
+      <li>Once the B12<span style='font-weight: 700;'> </span>enters the <span style='font-weight: 700;'>duodenum</span>, the <span style='font-weight: 700;'>bile release</span> and <span style='font-weight: 700;'>increase in pH</span> allows it to<span style='font-weight: 700;'> unbind </span>from R binder protein.</li>
+      <li>At this point, the <span style='font-weight: 700;'>B12 </span>can <span style='font-weight: 700;'>bind </span>to <span style='font-weight: 700;'>intrinsic factor</span> (secreted by <span style='font-weight: 700;'>gastric parietal cells</span>).</li>
+      <li>This allows B12 to be <span style='font-weight: 700;'>absorbed</span> into the body at the <span style='font-weight: 700;'>terminal ileum</span>.</li>
+    </ul>
+"
+6,Haematology,,Classical exam presentation,"    <p>A <span style='font-weight: 700;'>65-year-old lady</span> presents to the GP with <span style='font-weight: 700;'>extreme fatigue, exertional dyspnoea</span> and <span style='font-weight: 700;'>tingling in her hands and feet</span>. She says that recently her <span style='font-weight: 700;'>tongue has been very tender</span>. Her past medical history includes <span style='font-weight: 700;'>vitiligo</span>. </p>
+    <p>On examination, the GP notes <span style='font-weight: 700;'>glossitis</span> and <span style='font-weight: 700;'>a lemon-yellow tinge</span> to her skin. A neurological examination reveals <span style='font-weight: 700;'>loss of vibration and proprioception senses</span> as well as <span style='font-weight: 700;'>loss of the ankle jerk reflex.</span> </p>
+"
+6,Haematology,,Epidemiology,"    <p><span style='font-weight: 700;'>Mean age</span> of onset is <span style='font-weight: 700;'>60 years</span> in <span style='font-weight: 700;'>white</span>, and <span style='font-weight: 700;'>50 years</span> in <span style='font-weight: 700;'>black</span> populations.</p>
+    <ul>
+      <li>Around <span style='font-weight: 700;'>20%</span> of <span style='font-weight: 700;'>people &gt; 60 years old</span> have <span style='font-weight: 700;'>B12 deficiency</span>, compared to <span style='font-weight: 700;'>6%</span> of<span style='font-weight: 700;'> people &lt; 60 years</span> <span style='font-weight: 700;'>old</span>.</li>
+    </ul>
+"
+6,Haematology,,Aetiology,"    <p><span style='font-weight: 700; font-style: italic;'>Reduced B12 intake</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Rare in the developed world </span>due to the <span style='font-weight: 700;'>fortification </span>of bread and cereals.</li>
+      <li>Those with a <span style='font-weight: 700;'>strict vegan diet</span> may be at higher risk.</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Poor B12 absorption</span></p>
+    <p><span style='font-weight: 700;'>Pernicious Anaemia</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Autoimmune</span> destruction<span style='font-weight: 700;'> </span>of<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>g</span><span style='font-weight: 700;'>astric </span><span style='font-weight: 700;'>p</span><span style='font-weight: 700;'>arietal </span><span style='font-weight: 700;'>c</span><span style='font-weight: 700;'>ells</span><span style='font-weight: 700;'> </span>leads to an <span style='font-weight: 700;'>inability </span>to produce <span style='font-weight: 700;'>intrinsic </span><span style='font-weight: 700;'>factors</span>, leading to an inability to <span style='font-weight: 700;'>absorb </span>vitamin B12.</li>
+      <li><span style='font-weight: 700;'>Most common </span>cause, accounting for <span style='font-weight: 700;'>80%</span> of cases.</li>
+    </ul>
+    <p>Damage to<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>gastric parietal cells</span><span style='font-weight: 700;'> </span>leads to a <span style='font-weight: 700;'>reduction </span>in <span style='font-weight: 700;'>i</span><span style='font-weight: 700;'>ntrinsic factor </span>as well as<span style='font-weight: 700;'> less stomach acid. </span>Causes of these include:</p>
+    <ul>
+      <li>Long-term <span style='font-style: italic;'>H. pylori </span>infection</li>
+      <li>Proton pump inhibitor overuse</li>
+      <li>Gastrectomy</li>
+      <li>Gastric bypass</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Terminal ileal disease</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Crohn’s disease</span></li>
+      <li><span style='font-weight: 700;'>Terminal ileal resection</span> - if B12 absorption site is destroyed</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'></span></p>
+    <p><span style='font-weight: 700; font-style: italic;'>Risk factors </span></p>
+    <p>Strict vegan diet</p>
+    <p>Other autoimmune conditions</p>
+    <p>Chronic gastritis (e.g. due to H-Pylori infection)</p>
+    <p>Gastric bypass surgery </p>
+    <p>Age &gt; 60 </p>
+    <p>Crohn’s disease </p>
+    <p>Drugs</p>
+    <ul>
+      <li>H2 receptor antagonists </li>
+      <li>Proton pump inhibitors </li>
+      <li>Anticonvulsant medication</li>
+      <li>Metformin use </li>
+    </ul>
+"
+6,Haematology,,Pathophysiology,"    <p>Lack of B12 leads to <span style='font-weight: 700;'>impaired nucleotide synthesis</span>, <span style='font-weight: 700;'>impairing cellular division</span>. This leads to the characteristic <span style='font-weight: 700;'>glossitis</span> as the cells which are shed during eating cannot be replaced.</p>
+    <ul>
+      <li>The lack of cell division may also lead to <span style='font-weight: 700;'>p</span><span style='font-weight: 700;'>ancytopenia</span> due to a lack of nucleotides.</li>
+      <li>The immature red blood cells<span style='font-weight: 700;'> get larger</span> but are <span style='font-weight: 700;'>unable to divide</span>. </li>
+      <li>Their large shape causes them to be <span style='font-weight: 700;'>haemolysed in the spleen</span>, giving patients the characteristic<span style='font-weight: 700;'> lemon-yellow ting</span><span style='font-weight: 700;'>e </span>(caused by hyperbilirubinaemia).</li>
+    </ul>
+    <p>Improper removal of <span style='font-weight: 700;'>h</span><span style='font-weight: 700;'>omocysteine</span> due to a lack of B12 may <span style='font-weight: 700;'>increase</span> the patient’s <span style='font-weight: 700;'>risk of atherosclerosis</span>, leading to <span style='font-weight: 700;'>increased </span>risk of <span style='font-weight: 700;'>cardiovascular </span>and <span style='font-weight: 700;'>cerebrovascular </span>diseases.</p>
+    <p>Improper breakdown of <span style='font-weight: 700;'>m</span><span style='font-weight: 700;'>ethylmalonic acid </span>leads to its <span style='font-weight: 700;'>build</span><span style='font-weight: 700;'>-</span><span style='font-weight: 700;'>up</span> and <span style='font-weight: 700;'>subsequent nerve damage</span>, leading to <span style='font-weight: 700;'>peripheral neuropathy</span>, <span style='font-weight: 700;'>loss of vibration and proprioception</span> and in severe cases <span style='font-weight: 700;'>s</span><span style='font-weight: 700;'>ubacute </span><span style='font-weight: 700;'>c</span><span style='font-weight: 700;'>ombined </span><span style='font-weight: 700;'>d</span><span style='font-weight: 700;'>egenerat</span><span style='font-weight: 700;'>ion of the spinal cord</span>.</p>
+    <ul>
+      <li>Loss of<span style='font-weight: 700;'> vibration and tactile</span> senses makes the patient become much <span style='font-weight: 700;'>more reliant</span> on <span style='font-weight: 700;'>vision</span> to <span style='font-weight: 700;'>balance </span>and <span style='font-weight: 700;'>stay upright</span>. </li>
+      <li>In the <span style='font-weight: 700;'>absence of light </span>(e.g., when the <span style='font-weight: 700;'>patient’s eyes are closed</span>) the patient becomes <span style='font-weight: 700;'>unstable </span>and may<span style='font-weight: 700;'> fall over</span>. This is demonstrated in <span style='font-weight: 700;'>Romberg’s test</span>. </li>
+    </ul>
+"
+6,Haematology,,Clinical features,"    <p><span style='font-weight: 700;'>Mild haematological features </span></p>
+    <ul>
+      <li>Asymptomatic (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Mild neuropsychiatric features </span></p>
+    <ul>
+      <li>Bilateral paraesthesia (common)</li>
+      <li>Cognitive impairment (common)</li>
+      <li>Depression (common)</li>
+      <li>Bilateral polyneuropathy (common) </li>
+      <li>Loss of colour vision (common) </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Severe haematological features</span></p>
+    <ul>
+      <li>Features of<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>a</span><span style='font-weight: 700;'>naemia</span>: fatigue, exertional dyspnoea, palpitations, glossitis and angular cheilitis</li>
+      <li>Features of <span style='font-weight: 700;'>t</span><span style='font-weight: 700;'>hrombocytopenia: </span>easy or unexplained bruising, epistaxis, gum bleeding</li>
+      <li>Features of<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>leukopenia</span><span style='font-weight: 700;'>:</span> recurrent infections <span style='font-weight: 700;'>  </span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Severe neurological features</span></p>
+    <ul>
+      <li>Marked cognitive decline</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Subacute combined degeneration</span></p>
+    <p>Degeneration of the dorsal columns</p>
+    <ul>
+      <li>Loss of vibration/tactile sense</li>
+      <li>Positive Romberg’s test</li>
+      <li>Loss of proprioception sense</li>
+      <li>Ataxia</li>
+    </ul>
+    <p>Degeneration of the lateral column </p>
+    <ul>
+      <li>Muscle weakness </li>
+      <li>Spastic paraparesis</li>
+    </ul>
+    <p>Peripheral nerve damage leads to hyporeflexia.</p>
+    <p><span style='font-weight: 700;'>Co-existent hyperreflexia </span>(due to damage to lateral corticospinal tract) and <span style='font-weight: 700;'>hyporeflexia</span> (due to peripheral neuropathy) may occur. </p>
+"
+6,Haematology,,Diagnostics,"    <p><span style='font-weight: 700; font-style: italic;'>Diagnosing B12 deficiency</span></p>
+    <p><span style='font-weight: 700;'>Full blood count</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Macrocytic anaemia</span></li>
+      <li>Pancytopenia (in later stages)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood film</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Macrocytic hypochromic</span> cells</li>
+      <li><span style='font-weight: 700;'>Hyper-segmented neutrophils</span> (due to impaired DNA synthesis because of fewer nucleotides) </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Serum haematinics </span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Low B12 </span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Serum reticulocyte count</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Reduced</span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Serum homocysteine and methylmalonic acid </span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Raised  </span></li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Finding the cause</span></p>
+    <p><span style='font-weight: 700;'>Anti-intrinsic factor antibodies</span></p>
+    <ul>
+      <li>Positive in pernicious anaemia</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Anti-gastric parietal cell antibodies</span></p>
+    <ul>
+      <li>Positive in pernicious anaemia (unspecific) </li>
+    </ul>
+"
+6,Haematology,,Management,"    <p><span style='font-weight: 700;'>Parenteral replacement: IM vitamin B12</span>.</p>
+    <ul>
+      <li>Oral route avoided as a deficiency in intrinsic factor leads to reduced absorption. <span style='font-weight: 700;'> </span></li>
+    </ul>
+    <p>If <span style='font-weight: 700;'>co-existent</span> with folate deficiency, <span style='font-weight: 700;'>treat B12 deficiency first </span>and then give <span style='font-weight: 700;'>oral folic acid</span>.</p>
+    <p><span style='font-weight: 700;'>Red cell transfusion </span>in acute symptomatic anaemia with signs of cardiac compromise (e.g., heart failure).</p>
+"
+6,Haematology,,Complications,"    <p><span style='font-weight: 700; font-style: italic;'>Irreversible nerve damage</span></p>
+    <p>Subacute combined degeneration</p>
+    <p><span style='font-style: italic; font-weight: 700;'>Pancytopenia</span></p>
+    <p>High output cardiac failure</p>
+    <p>Severe and life-threatening infections </p>
+    <p>Increased bleeding tendency</p>
+    <p><span style='font-weight: 700; font-style: italic;'>Increased risk of</span><span style='font-style: italic; font-weight: 700;'> g</span><span style='font-weight: 700; font-style: italic;'>astric cancer (roughly 2 – 3-fold increase) </span></p>
+    <p>Mainly due to pernicious anaemia </p>
+"
+6,Haematology,,Prognosis,"    <p>Early detection and treatment before the onset of symptoms can halt and reverse disease.</p>
+    <p>Late symptoms, especially those of subacute combined degeneration, are irreversible. </p>
+    <ul>
+      <li>Progression may be halted with treatment<span style='font-weight: 700;'>.</span></li>
+    </ul>
+"
+7,Haematology,,Haematopoiesis,""
+7,Haematology,,Erythrocyte life cycle,"    <p><span style='font-weight: 700;'>Red blood cells</span> are created by the process of <span style='font-weight: 700;'>haematopoiesis</span> (<span style='font-style: italic;'>haemato</span>- referring to blood, and <span style='font-style: italic;'>poesis</span>- to the formation of). </p>
+    <p>The process starts at the <span style='font-weight: 700;'>kidney</span> with the production of <span style='font-weight: 700;'>erythropoietin </span>(<span style='font-weight: 700;'>EPO</span>). This <span style='font-weight: 700;'>stimulates </span>haematopoietic <span style='font-weight: 700;'>stem cells</span> in the <span style='font-weight: 700;'>bone marrow</span> to go down the <span style='font-weight: 700;'>myeloid lineage</span>.</p>
+    <p>There are various <span style='font-weight: 700;'>stages</span> and <span style='font-weight: 700;'>changes</span> a developing cell must go through to become a highly specialised erythrocyte from an unspecialised stem cell. Some of these changes include <span style='font-weight: 700;'>reduction in cell volume </span>and <span style='font-weight: 700;'>loss of their nuclei</span>. This process is called <span style='font-weight: 700;'>erythropoiesis</span>.</p>
+    <p>The developing cells are <span style='font-weight: 700;'>nurtured</span> by <span style='font-weight: 700;'>bone marrow stromal cells</span> such as <span style='font-weight: 700;'>macrophages</span>.</p>
+    <p>Once developed, the red blood cells are released into circulation as the <span style='font-weight: 700;'>characteristic biconcave</span> cells, packed with <span style='font-weight: 700;'>haemoglobin</span> capable of <span style='font-weight: 700;'>carrying oxygen extremely effectively</span>.</p>
+    <p>These cells circulate for <span style='font-weight: 700;'>120 days</span> before being <span style='font-weight: 700;'>broken down</span> by either the <span style='font-weight: 700;'>macrophages </span>in the<span style='font-weight: 700;'> spleen</span> or the <span style='font-weight: 700;'>Kupffer cells</span> in the <span style='font-weight: 700;'>liver</span>. Their components, such as <span style='font-weight: 700;'>haem</span>, can then be <span style='font-weight: 700;'>recycled</span> and <span style='font-weight: 700;'>reused</span>.</p>
+"
+7,Haematology,,Sites of haematopoiesis,"    <p>The site of haematopoiesis <span style='font-weight: 700;'>varies depending on the person’s age</span>, and are summarised in the table below:</p><a id='t.1fa90f99f10c6350231d655c223d8ad525956d7d'></a><a id='t.0'></a>
+    <table>
+      <tbody>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Age </span></p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p><span style='font-weight: 700;'>Site of Production</span></p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p>Foetus: 0-2 months</p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p>Yolk Sac</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p>Foetus: 2-6 months</p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p>Spleen, liver</p>
+            <p>Long bones, axial Skeleton</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p>Child</p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p>Primarily long bones and axial skeleton</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan='1' rowspan='1'>
+            <p>Adult</p>
+          </td>
+          <td colspan='1' rowspan='1'>
+            <p>Axial skeleton</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p class='title' id='h.gjdgxs'>Haemolytic Anaemia</p>
+"
+7,Haematology,,What is it?,"    <p><span style='font-weight: 700;'>Haemolytic anaemia</span> refers to the <span style='font-weight: 700;'>abnormal</span> and <span style='font-weight: 700;'>excessive breakdown</span> of <span style='font-weight: 700;'>erythrocytes</span>, either in the <span style='font-weight: 700;'>spleen or liver</span>, or the <span style='font-weight: 700;'>blood vessels</span>, <span style='font-weight: 700;'>before</span> their normal cycle of <span style='font-weight: 700;'>120 days</span>.</p>
+    <p>This breakdown may occur <span style='font-weight: 700;'>directly in the blood vessels </span>(<span style='font-weight: 700;'>intravascular haemolysis</span>) or in the <span style='font-weight: 700;'>reticuloendothelial system</span> such as in the <span style='font-weight: 700;'>liver </span>or <span style='font-weight: 700;'>spleen </span>(<span style='font-weight: 700;'>extravascular haemolysis</span>). </p>
+"
+7,Haematology,,Classic exam presentation,"    <p>A 28-year-old lady presents to the GP with <span style='font-weight: 700;'>fatigue</span> and<span style='font-weight: 700;'> tiredness</span>. She explains that she is <span style='font-weight: 700;'>unable to eat as much as she used to</span>, and is suffering from <span style='font-weight: 700;'>right upper quadrant pain</span> which <span style='font-weight: 700;'>comes and goes in waves</span>. </p>
+    <p>On examination, she is <span style='font-weight: 700;'>clearly jaundiced</span>, has <span style='font-weight: 700;'>scleral icterus</span>, <span style='font-weight: 700;'>subconjunctival pallor,</span> a<span style='font-weight: 700;'> palpable spleen</span> but a <span style='font-weight: 700;'>normal liver</span>. </p>
+    <p>Urine dipstick shows<span style='font-weight: 700;'> +++ for bilirubin</span>. Liver function tests show an <span style='font-weight: 700;'>isolated rise in bilirubin</span> with <span style='font-weight: 700;'>normal transaminases.</span></p>
+"
+7,Haematology,,Aetiology,"    <p><span style='font-weight: 700;'>Autoimmune destruction</span> </p>
+    <ul>
+      <li>Autoimmune haemolytic anaemia</li>
+      <li>ABO incompatibility</li>
+      <li>Rhesus disease</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemoglobinopathy </span></p>
+    <ul>
+      <li>Alpha- and beta-thalassaemia</li>
+      <li>Sickle cell disease</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Enzymopathy </span></p>
+    <ul>
+      <li>G6PD deficiency</li>
+      <li>Pyruvate kinase deficiency</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Membranopathy </span></p>
+    <ul>
+      <li>Hereditary spherocytosis</li>
+      <li>Paroxysmal nocturnal haemoglobinuria (PNH) </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Shearing of red blood cells</span> </p>
+    <ul>
+      <li>Prosthetic heart valves</li>
+      <li><span style='font-weight: 700;'>Microangiopathic haemolytic anaemias </span>(e.g., disseminated intravascular coagulation) </li>
+    </ul>
+    <p><span style='font-style: italic; font-weight: 700;'>*</span><span style='font-style: italic;'>Please note the suffix ‘-pathy’ refers to a pathology of, thus a “Membranopathy” is a defect of the erythrocyte membranes.</span></p>
+    <p><span style='font-style: italic;'>These lists are not exhaustive.</span></p>
+"
+7,Haematology,,Classification,"    <p>Haemolytic anaemias can be classified based on what triggers the haemolysis – an intrinsic fault of the erythrocytes, or normal erythrocytes being destroyed due to an extrinsic factor.</p>
+    <p><span style='font-weight: 700;'>Intrinsic causes include</span></p>
+    <ul>
+      <li>Haemoglobinopathy</li>
+      <li>Membranopathy</li>
+      <li>Enzymopathy </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Extrinsic causes include</span></p>
+    <ul>
+      <li>Autoimmune haemolytic anaemia</li>
+      <li>Mechanical and stress-mediated haemolysis</li>
+      <li>Microangiopathic haemolytic anaemia </li>
+    </ul>
+"
+7,Haematology,,Pathophysiology,"    <p><span style='font-weight: 700;'>Splenomegaly </span>occurs as a result of the <span style='font-weight: 700;'>increased demand</span> on the spleen during haemolysis. The spleen may press on the stomach due to its proximity, leading to <span style='font-weight: 700;'>early satiety</span>.</p>
+    <p><span style='font-weight: 700;'>Excessive breakdown</span> of erythrocytes leads to <span style='font-weight: 700;'>hyperbilirubinemia</span>, which can get deposited in the skin (leading to <span style='font-weight: 700;'>jaundice</span>)<span style='font-weight: 700;'> </span>or end up in the urine<span style='font-weight: 700;'> </span>(leading to<span style='font-weight: 700;'> dark urine</span>).</p>
+    <p>The <span style='font-weight: 700;'>excess bilirubin</span> may also accumulate as <span style='font-weight: 700;'>excess bile</span> in the <span style='font-weight: 700;'>gallbladder</span>,<span style='font-weight: 700;'> </span>leading to <span style='font-weight: 700;'>pigment gallstones</span>.</p>
+    <p><span style='font-weight: 700;'>Intravascular haemolysis </span>leads to the production of <span style='font-weight: 700;'>schistocytes</span>. This may cause <span style='font-weight: 700;'>haematuria</span>, but no red blood cells will be seen under the microscope due to their destruction.</p>
+    <ul>
+      <li>Intravascular haemolysis is where <span style='font-weight: 700;'>complement activation</span>, <span style='font-weight: 700;'>shearing </span>or <span style='font-weight: 700;'>mechanical stress</span> <span style='font-weight: 700;'>destroys </span>red blood cells.</li>
+      <li>Schistocytes are cut-up erythrocytes, also called ‘helmet cells’.</li>
+    </ul>
+    <p>To compensate for the excessive haemolysis, <span style='font-weight: 700;'>extramedullary haematopoiesis </span>(haematopoiesis outside the bone marrow) may occur in the <span style='font-weight: 700;'>liver</span> or <span style='font-weight: 700;'>spleen</span>. This may cause <span style='font-weight: 700;'>hepatomegaly</span> <span style='font-weight: 700;'>or splenomegaly</span>.</p>
+    <p><span style='font-style: italic;'>*for the pathophysiology of specific diseases, please look at the individual proformas.</span></p>
+"
+7,Haematology,,Clinical features,"    <p><span style='font-weight: 700;'>Features of anaemia</span></p>
+    <ul>
+      <li>Fatigue</li>
+      <li>Pallor </li>
+      <li>Exertional dyspnoea </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of haemolytic crisis (rare)</span></p>
+    <ul>
+      <li>Fever</li>
+      <li>Chills</li>
+      <li>Loin pain </li>
+      <li>Shock (hypotension, tachycardia, low urine output)</li>
+      <li>Red or brown urine </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of hyperbilirubinemia</span></p>
+    <ul>
+      <li>Jaundice </li>
+      <li>Scleral icterus </li>
+      <li>Dark urine</li>
+      <li>Right upper quadrant pain due to pigment gallstones </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of increased demand on the spleen</span></p>
+    <ul>
+      <li>Splenomegaly</li>
+      <li>Early satiety</li>
+    </ul>
+    <p><span style='font-weight: 700;'>In children </span></p>
+    <ul>
+      <li> Frontal bossing of the skull</li>
+    </ul>
+    <ul>
+      <li>Occurs due to bone marrow hyperplasia due to excessive haemolysis</li>
+    </ul>
+"
+7,Haematology,,Diagnostics,"    <p><span style='font-weight: 700;'>Full Blood Count</span></p>
+    <ul>
+      <li>Normocytic anaemia </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood film</span></p>
+    <ul>
+      <li>Intravascular haemolysis will show schistocytes.</li>
+      <li>Some common findings include Heinz bodies in G6PD deficiency, spherocytes in hereditary spherocytosis, and sickle cells in sickle cell disease. </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemolysis Screen</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Coombs’ test – </span>detects autoimmune haemolytic anaemia</li>
+      <li><span style='font-weight: 700;'>Serum </span><span style='font-weight: 700;'>b</span><span style='font-weight: 700;'>ilirubin </span>–<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>r</span><span style='font-weight: 700;'>aised</span> due to excessive erythrocyte breakdown</li>
+      <li><span style='font-weight: 700;'>Serum </span><span style='font-weight: 700;'>h</span><span style='font-weight: 700;'>aptoglobin</span> – <span style='font-weight: 700;'>r</span><span style='font-weight: 700;'>educed</span> due to increased erythrocyte breakdown increasing free-floating haemoglobin that binds to haptoglobin</li>
+      <li><span style='font-weight: 700;'>Reticulocyte count </span>–<span style='font-weight: 700;'> </span>erythrocyte precursors which are <span style='font-weight: 700;'>raised </span>as a compensatory mechanism to replace haemolysed cells</li>
+      <li><span style='font-weight: 700;'>Lactate </span><span style='font-weight: 700;'>d</span><span style='font-weight: 700;'>ehydrogenase </span>– <span style='font-weight: 700;'>r</span><span style='font-weight: 700;'>aised</span> in cellular breakdown</li>
+      <li><span style='font-weight: 700;'>Urine </span><span style='font-weight: 700;'>hemosiderin</span><span style='font-weight: 700;'> </span>– <span style='font-weight: 700;'>r</span><span style='font-weight: 700;'>aised</span> in intravascular haemolysis </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemoglobin electrophoresis  </span></p>
+    <ul>
+      <li>HbA2 raised in beta thalassaemia</li>
+      <li>HbS raised in sickle cell disease </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Erythrocyte enzyme assays</span></p>
+    <ul>
+      <li>Rule out enzymopathies <span style='font-weight: 700;'>  </span></li>
+    </ul>
+"
+7,Haematology,,Management,"    <p>Management involves treating the<span style='font-weight: 700;'> underlying cause</span> and <span style='font-weight: 700;'>complications</span>.</p>
+    <p>Supportive measures, such as<span style='font-weight: 700;'> folate supplementation</span> or <span style='font-weight: 700;'>transfusions</span> for <span style='font-weight: 700;'>symptomatic anaemia</span>, may be required.</p>
+    <p>In <span style='font-weight: 700;'>autoimmune haemolytic anaemia</span>, <span style='font-weight: 700;'>corticosteroids </span>are the <span style='font-weight: 700;'>first-line </span>treatment.</p>
+    <p>A <span style='font-weight: 700;'>splenectomy</span> may be offered for <span style='font-weight: 700;'>chronic haemolytic anaemia.</span></p>
+    <ul>
+      <li>Those with no spleen are at<span style='font-weight: 700;'> higher risk</span> of <span style='font-weight: 700;'>biofilm</span><span style='font-weight: 700;'>-</span><span style='font-weight: 700;'>forming bacteria</span> (e.g., <span style='font-style: italic; font-weight: 700;'>P</span><span style='font-weight: 700; font-style: italic;'>neumococcus</span>, <span style='font-style: italic; font-weight: 700;'>M</span><span style='font-weight: 700; font-style: italic;'>eningococcus</span>, and <span style='font-style: italic; font-weight: 700;'>H</span><span style='font-weight: 700; font-style: italic;'>aemophilus influenzae</span>) so should receive these <span style='font-weight: 700;'>vaccinations prior to splenectomy</span>.</li>
+      <li><span style='font-weight: 700;'>NICE guidelines</span> recommend: </li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>Pneumococcal Polysaccharide Vaccine </span>(PPV) every <span style='font-weight: 700;'>5 years</span></li>
+      <li><span style='font-weight: 700;'>Annual influenza </span>vaccine </li>
+      <li>Oral <span style='font-weight: 700;'>antibiotic</span> prophylaxis </li>
+    </ul>
+"
+8,Haematology,,Hereditary Spherocytosis (HS),""
+8,Haematology,,What is it?,"    <p><span style='font-weight: 700;'>Autosomal dominant</span> congenital <span style='font-weight: 700;'>haemolytic anaemia</span> occurring due to abnormalities in the <span style='font-weight: 700;'>membrane</span> composition of erythrocytes.</p>
+"
+8,Haematology,,Definitions,"    <p>HS<span style='font-weight: 700;'> </span>falls into a group of conditions known as <span style='font-weight: 700;'>membraneopathies</span> and is the<span style='font-weight: 700;'> most </span>common haemolytic anaemia in the Northern<span style='font-weight: 700;'> European population</span>.</p>
+    <p>A rarer membranopathy is <span style='font-weight: 700;'>hereditary elliptocytosis</span> (or <span style='font-weight: 700;'>ovalocytosis</span>), which is also autosomal dominant in inheritance.</p>
+    <ul>
+      <li>Since they all <span style='font-weight: 700;'>present</span> and are<span style='font-weight: 700;'> treated in the same way</span>, there is not much point in distinguishing between them.</li>
+    </ul>
+"
+8,Haematology,,Classical exam presentation,"    <p>A<span style='font-weight: 700;'> 25-year-old lady</span> presents to the GP complaining of <span style='font-weight: 700;'>feeling tired all the time</span>. She states that she <span style='font-weight: 700;'>cannot run as far as she used to without becoming breathless</span>. She says her <span style='font-weight: 700;'>mother</span> had some <span style='font-weight: 700;'>kind of a problem with her blood</span>. </p>
+    <p>On inspection, she is <span style='font-weight: 700;'>mildly icteric with pale conjunctiva</span>. Abdominal examination reveals a <span style='font-weight: 700;'>painless</span>,<span style='font-weight: 700;'> palpable mass in the left upper quadrant</span>. </p>
+    <p>Investigations show a <span style='font-weight: 700;'>raised bilirubin</span>,<span style='font-weight: 700;'> raised LDH</span>,<span style='font-weight: 700;'> negative DAT test</span>,<span style='font-weight: 700;'> </span>and<span style='font-weight: 700;'> low levels of serum haptoglobin.</span></p>
+"
+8,Haematology,,Epidemiology,"    <p>Men and women are <span style='font-weight: 700;'>equally </span>affected.</p>
+    <p>Prevalence of <span style='font-weight: 700;'>1/5000</span>.</p>
+    <p><span style='font-weight: 700;'>Most</span> <span style='font-weight: 700;'>common</span> in those of <span style='font-weight: 700;'>Northern European descent</span>.</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Most common</span> congenital haemolytic anaemia in this ethnic group.</li>
+      <li><span style='font-weight: 700;'>Rarely</span> seen in black people.</li>
+    </ul>
+"
+8,Haematology,,Aetiology,"    <p><span style='font-weight: 700;'>Genetic mutations </span>to proteins found in the <span style='font-weight: 700;'>cell membrane</span> of <span style='font-weight: 700;'>erythrocytes</span> lead to a <span style='font-weight: 700;'>defect</span> in the <span style='font-weight: 700;'>cell morphology</span>.<span style='font-weight: 700;'> </span></p>
+    <p>In HS, this leads to the production of <span style='font-weight: 700;'>spherocytes</span> rather than the usual biconcave erythrocytes. This can be visualised on a <span style='font-weight: 700;'>blood film</span>.</p>
+    <p>These cells are much more <span style='font-weight: 700;'>rigid </span>and <span style='font-weight: 700;'>less flexible</span>. As they pass through the<span style='font-weight: 700;'> splenic vessels</span>, they are <span style='font-weight: 700;'>less </span>able to bend and conform to the small size of the vessels, leading to <span style='font-weight: 700;'>splenomegaly</span> and <span style='font-weight: 700;'>extravascular haemolysis </span>in the <span style='font-weight: 700;'>spleen</span>.</p>
+    <p>Some of the commonly affected proteins include:</p>
+    <ul>
+      <li>Alpha-spectrin</li>
+      <li>Beta-spectrin</li>
+      <li>Ankyrin </li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Risk Factors</span></p>
+    <p>Family history </p>
+    <p>Ethnicity </p>
+    <ul>
+      <li><span style='font-weight: 700;'>Northern European</span></li>
+    </ul>
+"
+8,Haematology,,Pathophysiology,"    <p>Excessive breakdown of erythrocytes leads to <span style='font-weight: 700;'>hyperbilirubinemia</span>, which can get deposited in the skin (leading to <span style='font-weight: 700;'>jaundice</span>)<span style='font-weight: 700;'> </span>or end up in the urine<span style='font-weight: 700;'> </span>(leading to<span style='font-weight: 700;'> dark urine</span>).</p>
+    <p>The <span style='font-weight: 700;'>excessive bilirubin</span> may also <span style='font-weight: 700;'>accumulate as excessive bile</span> in the <span style='font-weight: 700;'>gallbladder</span>,<span style='font-weight: 700;'> </span>leading to <span style='font-weight: 700;'>pigment gallstones</span>.</p>
+    <p>The <span style='font-weight: 700;'>increased demand to haemolyse</span> may lead to <span style='font-weight: 700;'>splenomegaly</span>.</p>
+    <p>The body will try to <span style='font-weight: 700;'>compensate </span>for <span style='font-weight: 700;'>haemolysed cells</span> by <span style='font-weight: 700;'>increasing </span>erythrocyte production, leading to <span style='font-weight: 700;'>reticulocytosis </span>in the blood.</p>
+"
+8,Haematology,,Clinical Features,"    <p>Can be asymptomatic, especially in mild disease.</p>
+    <p><span style='font-weight: 700;'>Features of anaemia</span></p>
+    <ul>
+      <li>Fatigue</li>
+      <li>Pallor </li>
+      <li>Exertional dyspnoea </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of hyperbilirubinemia</span></p>
+    <ul>
+      <li>Jaundice (especially neonatal) </li>
+      <li>Scleral icterus </li>
+      <li>Dark urine</li>
+      <li>Right upper quadrant pain due to pigment gallstones </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Splenomegaly</span></p>
+    <ul>
+      <li>Abdominal distention</li>
+      <li>Abdominal pain</li>
+      <li>Palpable mass in the left upper quadrant</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemolytic crisis </span></p>
+    <p>The most common crisis that occurs in HS.</p>
+    <ul>
+      <li>Typically follows a viral infection that suddenly increases red cell destruction.</li>
+      <li>Signs and symptoms are those of acute haemolytic anaemia.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Aplastic crisis </span></p>
+    <p>Failure of the bone marrow to produce blood cells (red cells, white cells, platelets).</p>
+    <ul>
+      <li>Typically occurs following an infection with parvovirus b19 causing bone marrow suppression.</li>
+      <li>Signs and symptoms are related to the pancytopenia that develops.</li>
+    </ul>
+"
+8,Haematology,,Diagnostics,"    <p><span style='font-weight: 700;'>Full blood count</span></p>
+    <ul>
+      <li>Normocytic anaemia </li>
+      <li>Reticulocytosis </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood film</span></p>
+    <ul>
+      <li>Spherocytes</li>
+      <li>Elliptocytes, stomatocytes or ovalocytes </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemolysis Screen</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Coombs’s </span><span style='font-weight: 700;'>test– </span>negative</li>
+      <li><span style='font-weight: 700;'>Serum </span><span style='font-weight: 700;'>b</span><span style='font-weight: 700;'>ilirubin </span>–<span style='font-weight: 700;'> </span><span style='font-weight: 700;'>r</span><span style='font-weight: 700;'>aised</span> due to excessive erythrocyte breakdown</li>
+      <li><span style='font-weight: 700;'>Serum </span><span style='font-weight: 700;'>h</span><span style='font-weight: 700;'>aptoglobin </span>– <span style='font-weight: 700;'>reduced</span> due to increased erythrocyte breakdown increasing free-floating haemoglobin that binds to haptoglobin</li>
+      <li><span style='font-weight: 700;'>Reticulocyte count </span>–<span style='font-weight: 700;'> </span>erythrocyte precursors which are <span style='font-weight: 700;'>raised </span>as a compensatory mechanism to replace haemolysed cells</li>
+      <li><span style='font-weight: 700;'>Lactate </span><span style='font-weight: 700;'>d</span><span style='font-weight: 700;'>ehydrogenase </span>– <span style='font-weight: 700;'>r</span><span style='font-weight: 700;'>aised</span> in cellular breakdown</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Liver function tests</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Normal transaminases </span>(rules our other causes of jaundice)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>EMA binding test (only if diagnosis in doubt)</span>* – positive</p>
+    <p><span style='font-style: italic;'>*Please note, patients with a family history, typical features of haemolysis, as well as confirmed blood film, FBC or haemolysis screen findings do not need any further tests. EMA should be used if there is doubt.</span></p>
+"
+8,Haematology,,Management,"    <p><span style='font-weight: 700;'>Acute haemolytic crisis</span> may be <span style='font-weight: 700;'>treated</span> with <span style='font-weight: 700;'>supportive care</span> and <span style='font-weight: 700;'>packed red cell transfusion</span>.</p>
+    <p>Long-term, patients who are <span style='font-weight: 700;'>asymptomatic</span> <span style='font-weight: 700;'>do not </span>need treatment.</p>
+    <p>Long-term,<span style='font-weight: 700;'> symptomatic</span> patients may require <span style='font-weight: 700;'>folate supplementation</span>. </p>
+    <p><span style='font-weight: 700;'>Severe symptomatic</span> anaemia may require <span style='font-weight: 700;'>splenectomy</span>.<span style='font-weight: 700;'> </span></p>
+"
+8,Haematology,,Complications,"    <p>Pigment gallstones</p>
+    <p>Aplastic crisis</p>
+    <p>Post-splenectomy infections</p>
+    <p>Neonatal jaundice, and risk of <span style='font-weight: 700;'>kernicterus </span>(bilirubin deposit in the basal ganglia leading to brain damage)</p>
+"
+8,Haematology,,Prognosis,"    <p>Most patients live a normal life</p>
+"
+9,Haematology,,Beta Thalassaemia,""
+9,Haematology,,What is it?,"    <p><span style='font-weight: 700;'>Autosomal recessive haemolytic anaemia</span> which occurs due to a <span style='font-weight: 700;'>point mutation</span> of the gene that codes for <span style='font-weight: 700;'>beta-subunits </span>of haemoglobin on <span style='font-weight: 700;'>chromosome 11</span>, leading to the <span style='font-weight: 700;'>underproduction</span> or <span style='font-weight: 700;'>non-production </span>of <span style='font-weight: 700;'>beta subunits</span>. </p>
+"
+9,Haematology,,Definitions,"    <p><span style='font-weight: 700;'>Beta thalassaemia minor</span>: only 1 version of the mutated gene is present.</p>
+    <ul>
+      <li>The <span style='font-weight: 700;'>functional version</span> will<span style='font-weight: 700;'> continue </span>to produce <span style='font-weight: 700;'>effective </span>haemoglobin, thus the patient may be <span style='font-weight: 700;'>mildly </span><span style='font-weight: 700;'>affected </span>or <span style='font-weight: 700;'>asymptomatic</span>.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Beta thalassaemia major</span>: both mutated versions of the gene are present.</p>
+    <ul>
+      <li>Total inability to produce <span style='font-weight: 700;'>beta subunits</span>.</li>
+      <li>Patients are <span style='font-weight: 700;'>severely </span>symptomatic from <span style='font-weight: 700;'>very early</span> on in life.</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Beta thalassaemia intermedia</span></p>
+    <ul>
+      <li>Somewhere between major and minor, where <span style='font-weight: 700;'>some </span>haemoglobin <span style='font-weight: 700;'>A </span>will be present, however, <span style='font-weight: 700;'>not enough </span>to prevent symptoms.</li>
+    </ul>
+"
+9,Haematology,,Classical exam presentation,"    <p>A <span style='font-weight: 700;'>7-month-old Mediterranean girl </span>is brought into the <span style='font-weight: 700;'>doctors for failure to thrive</span>. </p>
+    <p>On examination, the child<span style='font-weight: 700;'> </span>is<span style='font-weight: 700;'> visibly jaundiced</span>, with<span style='font-weight: 700;'> frontal bossing of the skull</span> and <span style='font-weight: 700;'>large cheekbones.</span> Abdominal examination reveals<span style='font-weight: 700;'> hepatosplenomegaly</span>. </p>
+    <p>A full blood count shows a <span style='font-weight: 700;'>microcytic anaemia</span> with <span style='font-weight: 700;'>disproportionately low MCV</span> and <span style='font-weight: 700;'>reticulocytosis</span>. A <span style='font-weight: 700;'>serum haemoglobin electrophoresis</span> is conducted and shows a <span style='font-weight: 700;'>raised HbA2</span>. </p>
+"
+9,Haematology,,Epidemiology,"    <p>Ethnicities where it is most common include <span style='font-weight: 700;'>Mediterranean</span>, <span style='font-weight: 700;'>North African</span>,<span style='font-weight: 700;'> Middle eastern,</span> <span style='font-weight: 700;'>Indian</span> and <span style='font-weight: 700;'>Southeast Asian.</span> </p>
+"
+9,Haematology,,Aetiology,"    <p>A <span style='font-weight: 700;'>point mutation</span> on <span style='font-weight: 700;'>beta globin</span> <span style='font-weight: 700;'>gene</span> located on <span style='font-weight: 700;'>chromosome 11</span> leads to <span style='font-weight: 700;'>absent</span> or<span style='font-weight: 700;'> low beta subunit production</span>.</p>
+    <p><span style='font-style: italic; font-weight: 700;'>Risk Factors</span></p>
+    <p><span style='font-weight: 700;'>Family history </span></p>
+    <p><span style='font-weight: 700;'>Ethnicity </span></p>
+    <ul>
+      <li>North African</li>
+      <li>Mediterranean</li>
+      <li>Middle eastern</li>
+      <li>Indian and Southeast asian </li>
+    </ul>
+    <p></p>
+"
+9,Haematology,,Pathophysiology,"    <p>Clinical features of <span style='font-weight: 700;'>beta thalassaemia major </span>start around <span style='font-weight: 700;'>6 months </span>of life,<span style='font-weight: 700;'> </span>when levels of <span style='font-weight: 700;'>foetal </span>haemoglobin (HbF) start to <span style='font-weight: 700;'>drop</span>. </p>
+    <ul>
+      <li><span style='font-weight: 700;'>HbF </span>is<span style='font-weight: 700;'> </span>composed of<span style='font-weight: 700;'> 2 alpha </span>and <span style='font-weight: 700;'>2 gamma</span> subunits. </li>
+    </ul>
+    <p>The <span style='font-weight: 700;'>absence</span> of the <span style='font-weight: 700;'>beta-subunits </span>leads to an <span style='font-weight: 700;'>inability to produce normal adult haemoglobin</span>.</p>
+    <ul>
+      <li><span style='font-weight: 700;'>HbA</span> is composed of <span style='font-weight: 700;'>2 alpha </span>and<span style='font-weight: 700;'> 2 beta </span>subunits.</li>
+    </ul>
+    <p>To compensate, the body <span style='font-weight: 700;'>substitutes</span> in other subunits such as<span style='font-weight: 700;'> delta </span>subunits, which leads to <span style='font-weight: 700;'>abnormal haemoglobin</span> (<span style='font-weight: 700;'>HbA2</span>). </p>
+    <p><span style='font-weight: 700;'>Precipitation</span> of the <span style='font-weight: 700;'>mutated </span>haemoglobin chains and subsequent <span style='font-weight: 700;'>membrane damage</span> to the <span style='font-weight: 700;'>erythrocytes</span> leads to <span style='font-weight: 700;'>extravascular haemolysis</span> either in the<span style='font-weight: 700;'> bone marrow</span> or <span style='font-weight: 700;'>spleen</span>. This leads to <span style='font-weight: 700;'>jaundice</span> and <span style='font-weight: 700;'>splenomegaly</span>. </p>
+    <p>The defective haemoglobin <span style='font-weight: 700;'>impairs the oxygen carrying</span> <span style='font-weight: 700;'>capacity</span> in the blood, leading to <span style='font-weight: 700;'>failure to thrive </span>and <span style='font-weight: 700;'>stunted growth</span>.</p>
+    <p>To compensate, the <span style='font-weight: 700;'>kidneys </span>secrete more <span style='font-weight: 700;'>erythropoietin </span>(<span style='font-weight: 700;'>EPO</span>) which can cause <span style='font-weight: 700;'>bone marrow hyperplasia</span>. This can lead to <span style='font-weight: 700;'>frontal bossing </span>of the <span style='font-weight: 700;'>skull</span> as well as<span style='font-weight: 700;'> </span>thickened <span style='font-weight: 700;'>cheek bones</span>. </p>
+    <ul>
+      <li>On a <span style='font-weight: 700;'>plain radiograph</span>, this may <span style='font-weight: 700;'>look like little hairs on the skull</span> (‘<span style='font-weight: 700;'>crew cut appearance</span>’).</li>
+    </ul>
+    <p>The <span style='font-weight: 700;'>increase</span> in EPO production may also trigger <span style='font-weight: 700;'>extramedullary haematopoiesis</span>, leading to <span style='font-weight: 700;'>hepatosplenomegaly</span>.</p>
+"
+9,Haematology,,Clinical Features,"    <p><span style='font-weight: 700; font-style: italic;'>Beta-thalassemia minor</span></p>
+    <ul>
+      <li>Asymptomatic (common)</li>
+      <li>Mild anaemia features (common)</li>
+    </ul>
+    <p><span style='font-weight: 700; font-style: italic;'>Beta-thalassaemia major</span></p>
+    <ul>
+      <li>Presentation around 4-6 months of life</li>
+    </ul>
+    <p></p>
+    <p><span style='font-weight: 700;'>Features of haemolysis</span></p>
+    <ul>
+      <li>Jaundice (common)</li>
+      <li>Scleral icterus (common)</li>
+      <li>Dark urine (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of anaemia</span></p>
+    <ul>
+      <li>Failure to thrive (common)</li>
+      <li>Lethargy (common)</li>
+      <li>Pallor (common) </li>
+      <li>Failure to put on weight (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features of extramedullary haematopoiesis</span></p>
+    <ul>
+      <li>Abdominal distention (common)</li>
+      <li>Hepatosplenomegaly (common)</li>
+    </ul>
+    <p><span style='font-weight: 700;'>Features</span> <span style='font-weight: 700;'>of bone marrow hyperplasia</span></p>
+    <ul>
+      <li>Frontal bossing (common)</li>
+      <li>Chipmunk facies - large forehead and cheekbones (common)</li>
+      <li>Misaligned teeth (common)</li>
+    </ul>
+"
+9,Haematology,,Diagnostics,"    <p><span style='font-weight: 700;'>Full Blood Count </span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Microcytic anaemia </span></li>
+      <li>Disproportionately<span style='font-weight: 700;'> low MCV</span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Blood film</span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Microcytic hypochromic </span>cells</li>
+      <li><span style='font-weight: 700;'>Target</span> cells</li>
+      <li><span style='font-weight: 700;'>Teardrop</span> cells</li>
+      <li><span style='font-weight: 700;'>Nucleated red blood cells</span></li>
+    </ul>
+    <ul>
+      <li>Immature red blood cells formed to compensate for the anaemia </li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemolysis screen</span> (please see haemolytic anaemia section)</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Positive</span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Haemoglobin electrophoresis </span></p>
+    <ul>
+      <li><span style='font-weight: 700;'>Absent HbA </span>(beta-thalassaemia major) or <span style='font-weight: 700;'>reduced</span></li>
+      <li><span style='font-weight: 700;'>Raised HbA2</span></li>
+      <li><span style='font-weight: 700;'>Raised HbF </span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Genetic Testing </span></p>
+    <p><span style='font-weight: 700;'>Plain x-ray of the skull</span></p>
+    <ul>
+      <li>‘Crew cut’/‘hair on end’ appearance</li>
+    </ul>
+    <p></p>
+    <p><span style='font-weight: 700;'>Abdominal ultrasound </span></p>
+    <ul>
+      <li>Hepatosplenomegaly </li>
+    </ul>
+"
+9,Haematology,,Management,"    <p><span style='font-weight: 700;'>Beta thalassaemia trait</span></p>
+    <p>Genetic counselling and iron advice </p>
+    <p><span style='font-weight: 700;'>Beta thalassaemia major</span></p>
+    <p>Lifelong blood transfusions</p>
+    <p>Splenectomy</p>
+    <ul>
+      <li>Patients should be offered vaccinations against biofilm-forming bacteria such as <span style='font-style: italic; font-weight: 700;'>p</span><span style='font-weight: 700; font-style: italic;'>neumococcus</span><span style='font-weight: 700;'>,</span> <span style='font-style: italic; font-weight: 700;'>m</span><span style='font-weight: 700; font-style: italic;'>eningococcus</span> and <span style='font-weight: 700; font-style: italic;'>Haemophilus influenzae</span></li>
+      <li><span style='font-weight: 700;'>NICE guidelines</span> recommend: </li>
+    </ul>
+    <ul>
+      <li><span style='font-weight: 700;'>Pneumococcal Polysaccharide Vaccine </span>(PPV) every <span style='font-weight: 700;'>5 years</span></li>
+      <li><span style='font-weight: 700;'>Annual influenza </span>vaccine </li>
+      <li>Oral <span style='font-weight: 700;'>antibiotic</span> prophylaxis </li>
+    </ul>
+    <p>Iron chelation to prevent secondary haemochromatosis</p>
+    <p>Genetic counselling </p>
+"
+9,Haematology,,Complications,"    <p id='h.gjdgxs'><span style='font-weight: 700;'>Stunted growth </span>and<span style='font-weight: 700;'> failure to thrive</span></p>
+    <p><span style='font-weight: 700;'>Secondary haemochromatosis</span> (iron overload from repeated transfusions)</p>
+    <ul>
+      <li><span style='font-weight: 700;'>Endocrine</span> complications: delayed puberty, infertility and hypothyroidism (due to iron deposition in the pituitary or end organs)</li>
+      <li>Iron deposition in the <span style='font-weight: 700;'>heart</span>,<span style='font-weight: 700;'> </span>leading to congestive cardiac failure and arrhythmias </li>
+      <li>Diabetes due to deposition of iron in the<span style='font-weight: 700;'> pancreas</span></li>
+    </ul>
+    <p><span style='font-weight: 700;'>Pigmented </span>gallstones</p>
+    <p>Increased risk of<span style='font-weight: 700;'> bacterial </span>infection due to <span style='font-weight: 700;'>splenectomy</span></p>
+    <p>Gout (due to <span style='font-weight: 700;'>excessive </span>cell breakdown) </p>
+"
+9,Haematology,,Prognosis,"    <p><span style='font-weight: 700; font-style: italic;'>Beta-thalassaemia minor </span></p>
+    <p>Normal life expectancy </p>
+    <p><span style='font-weight: 700; font-style: italic;'>Beta-Thalassaemia major </span></p>
+    <p>If untreated – death within the first few years of life</p>
+    <p>If treated – near-normal life expectancy </p>
+"

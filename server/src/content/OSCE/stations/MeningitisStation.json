@@ -1,0 +1,133 @@
+{
+    "id": "MeningitisStation",
+    "thumbnail": "meningitisThumbnail.png",
+    "category": "Emergency",
+    "isDemoStation": true,
+    "title": "Neurology: Acute Emergency",
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div><p>Candidate instructions: You will be presented with two different cases and some investigations. Your task is to:</p><p><div>1. Interpret the data presented to you</div><div>2. Answer the examiners questions</div></p><p>You are the acute medicine SHO on call. You are asked to review Mr James Tristan who is complaining of a headache and neck stiffness.</p></div>"
+    },
+    "questions": [
+        {
+            "question": "Please interpret this news chart",
+            "questionAudio": "newsChartQuestion.mp3",
+            "img": "newsChartImage.png",
+            "responseAudio": "",
+            "exemplarAudio": "newsChart.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirm patient details and date + time ",
+                            "selected": false,
+                            "pointId": 0
+                        },
+                        {
+                            "point": "Tachypnoea, hypotensive, tachycardic, confused and febrile ",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        { "point": "NEWS score 11 ", "selected": false, "pointId": 2 }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Please describe what you see in this image",
+            "questionAudio": "clinicalImageQuestion.mp3",
+            "img": "rashImage.png",
+            "responseAudio": "",
+            "exemplarAudio": "clinicalImage.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        { "point": "Confirm patient details ", "selected": false, "pointId": 0 },
+                        {
+                            "point": "Petechial/Purpuric rash. (One other from: macular, non-confluence, asymmetrical, widespread) ",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What is the current working diagnosis",
+            "questionAudio": "workingDiagnosisQuestion.mp3",
+            "img": "rashImage.png",
+            "responseAudio": "",
+            "exemplarAudio": "workingDiagnosis.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        { "point": "Meningicoccal", "selected": false, "pointId": 0 },
+                        { "point": "Septicaemia", "selected": false, "pointId": 1 }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "State the initial management plan",
+            "questionAudio": "managementQuestion.mp3",
+            "img": "rashImage.png",
+            "responseAudio": "",
+            "exemplarAudio": "management.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Sepsis 6: High flow oxygen; IV NaCl 500ml bolus; IV Ceftriaxone/Cefotaxime; VBG/Lactate; Blood cultures; Catheterisation and Urine Output",
+                            "selected": false,
+                            "pointId": 0
+                        },
+                        { "point": "Inform Senior", "selected": false, "pointId": 1 }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Please interpret this CSF analysis",
+            "questionAudio": "csfAnalysisQuestion.mp3",
+            "img": "csfImage.png",
+            "responseAudio": "",
+            "exemplarAudio": "csfAnalysis.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        { "point": "Confirm patient details", "selected": false, "pointId": 0 },
+                        {
+                            "point": "High opening pressure. Turbid appearance. Rasied white cells, mainly polymorphonuclear cells. Low protein. Low glucose.",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What is the unifying diagnosis?",
+            "questionAudio": "unifyingDiagnosisQuestion.mp3",
+            "img": "csfImage.png",
+            "responseAudio": "",
+            "exemplarAudio": "unifyingDiagnosis.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        { "point": "Bacterial", "selected": false, "pointId": 0 },
+                        { "point": "Meningitis", "selected": false, "pointId": 1 }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "Pneumothorax",
+    "title": "Pneumothorax",
+    "task": "Please intepret the CXR",
+    "category": "Chest X-rays",
+    "finding": "Tracheal Deviation",
+    "description": "Some description of pneumothorax",
+    "image": "Pneumothorax.png",
+    "sections": [
+      {
+        "title": "Deviated Trachea",
+        "tab_label": "A",
+        "image": "CXR_trachea.jpeg",
+        "descirption": "A deviated trachea can indicate .... etc"
+      }
+    ]
+  }

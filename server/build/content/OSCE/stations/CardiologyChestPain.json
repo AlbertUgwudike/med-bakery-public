@@ -1,0 +1,177 @@
+{
+    "id": "CardiologyChestPain",
+    "thumbnail": "heart.png",
+    "title": "Cardiology: ECG Acute Unwell",
+    "category": "Cardiology",
+    "isDemoStation": true,
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div><p>Candidate instructions: You will be presented with two different cases and some investigations. Your task is to:</p><p><div>1. Interpret the data presented to you</div><div>2. Answer the examiners questions</div><p>You are the acute medicine SHO on call. You are asked to review Mr Ravi Singh who is complaining of chest pain.</p></div>"
+    },
+    "questions": [
+        {
+            "question": "Please interpret the following ECG",
+            "questionAudio": "A1.mp3",
+            "img": "C1Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A1.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirm patient details",
+                            "selected": false,
+                            "pointId": 2
+                        },
+                        {
+                            "point": "Rate: 75-80bpm, Rhythm: Regular, Axis: left axis deviation ",
+                            "selected": false,
+                            "pointId": 3
+                        },
+
+                        {
+                            "point": "P waves: Present and sinus rhythm ",
+                            "selected": false,
+                            "pointId": 4
+                        },
+
+                        {
+                            "point": "PR interval: 3 small squares/ normal/ 0.12ms",
+                            "selected": false,
+                            "pointId": 5
+                        },
+
+                        {
+                            "point": "QRS complexes: narrow complex, Poor R wave progression across v1-3 ",
+                            "selected": false,
+                            "pointId": 6
+                        },
+
+                        {
+                            "point": "ST segment: ST elevation in v2, v3, v4, in the anterior leads, T waves: High amplitude/ large t-waves anteriorly",
+                            "selected": false,
+                            "pointId": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Please interpret the following blood tests and give a unifyiing diagnosis",
+            "questionAudio": "A2.mp3",
+            "img": "C1Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A2Cardio.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Elevated Troponin",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        {
+                            "point": "Normal D-Dimer",
+                            "selected": false,
+                            "pointId": 2
+                        },
+
+                        {
+                            "point": "Anterior, ST-Elevation, Myocardial Infarction",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Which coronary artery is involved?",
+            "questionAudio": "A3.mp3",
+            "img": "C1Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A3ArteryInvolved.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Left anterior descending",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "What is the immediate pharmacological management?",
+            "questionAudio": "A4.mp3",
+            "img": "C1Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A4PharmacologicalTherapies.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Aspirin + 300mg ",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        {
+                            "point": "Ticagrelor 180mg or Clopidogrel (300mg) ",
+                            "selected": false,
+                            "pointId": 2
+                        },
+
+                        {
+                            "point": "Consider oxygen if SpO2<94%",
+                            "selected": false,
+                            "pointId": 3
+                        },
+
+                        {
+                            "point": "Morphine + Nitrates",
+                            "selected": false,
+                            "pointId": 4
+                        },
+
+                        {
+                            "point": "Give point if mentions Fondaparinux/ Accept unfractionated heparin",
+                            "selected": false,
+                            "pointId": 5
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "What is the definitive management?",
+            "questionAudio": "A5.mp3",
+            "img": "C1Q2.png",
+            "responseAudio": "",
+            "exemplarAudio": "1.9.22C1A5PCI.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Percutaneous Coronary Intervention",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

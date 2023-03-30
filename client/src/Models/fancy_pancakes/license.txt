@@ -1,0 +1,8 @@
+Model Information:
+* title:	Fancy Pancakes
+* source:	https://sketchfab.com/3d-models/fancy-pancakes-702ab5ece304480ca8980d98d3cb3196
+* author:	Aender Lara (https://sketchfab.com/aenderlara)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

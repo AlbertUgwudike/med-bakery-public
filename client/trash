@@ -1,0 +1,5 @@
+URI="mongodb+srv://myComputer:twentyeleven@cluster0.ltz14.mongodb.net/MedBakery?retryWrites=true&w=majority"
+SECRET="idontenjoychocolate"
+SERVER_URL="http://localhost:3001"
+GOOGlE_CLIENT_ID="439563851182-mo2cj9djg7f0u19ctnjp1864tdaredkc.apps.googleusercontent.com"
+GENERATE_SOURCEMAP=false

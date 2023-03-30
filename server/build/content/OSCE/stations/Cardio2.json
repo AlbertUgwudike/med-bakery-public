@@ -1,0 +1,116 @@
+{
+    "id": "Monomorphic VT ECG",
+    "thumbnail": "Heart.png",
+    "category": "Cardiology",
+    "title": "Cardiology: Acutely unwell patient",
+    "isDemoStation": true,
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div><p>Candidate instructions: An 84 year old man suffers a STEMI. As he is being transported for PCI he starts to feel unwell. His ECG is shown. Your task is to:</p><p><div>1. Interpret the data presented to you</div><div>2. Answer the examiners questions</div></div>"
+    },
+    "questions": [
+        {
+            "question": "What is the most obvious abnormality on the ECG?",
+            "questionAudio": "4.9.22CardioC2Q1.mp3",
+            "img": "4.9.22CardioC2Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22CardioC2A1.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Confirms patient details and date",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        {
+                            "point": "Regular",
+                            "selected": false,
+                            "pointId": 2
+                        },
+
+                        {
+                            "point": "Broad complex",
+                            "selected": false,
+                            "pointId": 3
+                        },
+
+                        {
+                            "point": "Tachycardia",
+                            "selected": false,
+                            "pointId": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "What is the diagnosis?",
+            "questionAudio": "4.9.22CardioC2Q2.mp3",
+            "img": "4.9.22CardioC2Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22CardioC2A2.mp3",
+            "markScheme": [
+                {
+                    "title": "",
+                    "points": [
+                        {
+                            "point": "Monomorphic",
+                            "selected": false,
+                            "pointId": 1
+                        },
+                        {
+                            "point": "Ventricular tachycardia",
+                            "selected": false,
+                            "pointId": 2
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Which two factors indicate the need for urgent DC cardioversion?",
+            "questionAudio": "4.9.22CardioC2Q3.mp3",
+            "img": "4.9.22CardioC2Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22CardioC2A3.mp3",
+            "markScheme": [
+                {
+                    "title": "Any two of the following:",
+                    "points": [
+                        {
+                            "point": "Shock/haemodynamic instability, congestive cardiac failure, signs of myocardial ischaemia, syncope",
+                            "selected": false,
+                            "pointId": 2
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "question": "Name three complications of a myocardial infarction.",
+            "questionAudio": "4.9.22CardioC2Q4.mp3",
+            "img": "4.9.22CardioC2Q1.png",
+            "responseAudio": "",
+            "exemplarAudio": "4.9.22CardioC2A4.mp3",
+            "markScheme": [
+                {
+                    "title": "Any three of the following:",
+                    "points": [
+                        {
+                            "point": "Ventricular fibrillation, ventricular free wall rupture, acute mitral regurgitation, acute pericarditis, Dressler's syndrome, cardiogenic shock, ventricular aneurysm",
+                            "selected": false,
+                            "pointId": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

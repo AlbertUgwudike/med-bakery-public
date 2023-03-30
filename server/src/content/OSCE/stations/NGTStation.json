@@ -1,0 +1,91 @@
+{
+    "id": "NGTStation",
+    "thumbnail": "NGtubeThumbnail.jpeg",
+    "category": "Gastrointestinal",
+    "isDemoStation": true,
+    "title": "Gastroenterology: X-ray's",
+    "timePermitted": 1000,
+    "timeRemaining": 1000,
+    "brief": {
+        "timePermitted": 60,
+        "timeRemaining": 60,
+        "prompt": "<div>\n                <p>Welcome to the Chest X-Ray interpretation demo!</p>\n\n                <p>Your task is to:</p>\n\n                <p>\n                    <div>1. Interpret the data presented to you</div>\n                    <div>2. Formulate a working diagnosis</div>\n                    <div>3. Answer the associated questions</div>\n                </p>\n            </div>"
+    },
+    "questions": [
+        {
+            "question": "Comment on the position of the nasogastric tube.",
+            "questionAudio": "ngPositionQuestion.mp3",
+            "img": "NGtube.jpeg",
+            "responseAudio": "",
+            "exemplarAudio": "ngPosition.mp3",
+            "markScheme": [
+                {
+                    "title": "NG tube position",
+                    "points": [
+                        {
+                            "point": "Identifies that NG tube is incorrectly placed",
+                            "selected": false,
+                            "pointId": 0
+                        },
+                        {
+                            "point": "NG tube follows the course of the right main bronchus",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "How can you tell if an NG tube is correctly placed on a CXR?",
+            "questionAudio": "tellCorrectPlaceQuestion.mp3",
+            "img": "NGtube.jpeg",
+            "responseAudio": "",
+            "exemplarAudio": "tellCorrectPlace.mp3",
+            "markScheme": [
+                {
+                    "title": "Indicators of correct placement",
+                    "points": [
+                        {
+                            "point": "The NG tube should remain in the midline and bisect the carina",
+                            "selected": false,
+                            "pointId": 0
+                        },
+                        {
+                            "point": "The tip of the tube should lie under the left hemidiaphragm",
+                            "selected": false,
+                            "pointId": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "Indicators of incorrect placement",
+                    "points": [
+                        {
+                            "point": "The NG tube should not follow the course of a main bronchus",
+                            "selected": false,
+                            "pointId": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "As the F1, how will you manage this patient with regards to their NG tube?",
+            "questionAudio": "ngManagementQuestion.mp3",
+            "img": "NGtube.jpeg",
+            "responseAudio": "",
+            "exemplarAudio": "ngManagement.mp3",
+            "markScheme": [
+                {
+                    "title": "Management steps",
+                    "points": [
+                        { "point": "Stop feeds", "selected": false, "pointId": 0 },
+                        { "point": "Remove the NG tube ASAP", "selected": false, "pointId": 1 },
+                        { "point": "Inform senior immediately", "selected": false, "pointId": 2 }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+learningPointNumber,dateModified,categories,learningPoint
+1,28/12/21,Example,Just an example learning point
+2,28/12/21,Haematology,"Vitamin B12 is an essential vitamin occurring mainly in animal products such as meat, dairy, eggs, and fish but may also be found in fortified bread."
+3,28/12/21,Haematology,Vitamin B12 is also called cobalamin.
+4,28/12/21,Haematology,"Vitamin B12 has essential roles in the body such as nucleotide and amino acid production, and removal of toxic substances such as homocysteine and methylmalonic acid."
+5,28/12/21,Haematology,Accumulation of excess methylmalonic acid leads to irreversible nerve damage.
+6,28/12/21,Haematology,Vitamin B12 absorption summarised: protein bound in nature → binds to R binder protein (secreted by salivary glands) in stomach → binds to intrinsic factor (made by gastric parietal cells) in the duodenum → absorbed at terminal ileum.
+7,28/12/21,Haematology,Pernicious anaemia is the most common cause of B12 deficiency.
+8,28/12/21,Haematology,"Symptoms range from asymptomatic and mild neuropsychiatric symptoms such as paraesthesia and cognitive decline, to more severe and irreversible features such as pancytopenia and subacute combined degeneration."
+9,28/12/21,Haematology,Investigations primarily show a macrocytic anaemia with hyper-segmented neutrophils on a blood film.
+10,28/12/21,Haematology,Anti-intrinsic factor antibodies are used to diagnose pernicious anaemia.
+11,28/12/21,Haematology,Treatment includes parenteral vitamin B12 replacement.
+12,28/12/21,Haematology,Pernicious anaemia is associated with a 2-3 fold increase in gastric adenocarcinoma.
+13,28/12/21,Haematology,Sickle cell anaemia is an autosomal recessive disease characterised by progressive sickling of cells.
+14,28/12/21,Haematology,"Occurs due to a substitution mutation of the 6th amino acid of the beta-globin gene on chromosome 11, where glutamic acid is replaced by valine."
+15,28/12/21,Haematology,"Most commonly seen in sub-Saharan Africa – potentially due to the protection it offers against malaria. Other areas include South-East Asia, Middle East, and Indian subcontinent."
+16,28/12/21,Haematology,"Features can range from those resulting from occlusion of blood vessels (e.g.,  vaso-occlusive crisis, splenic sequestration, and ischemic events such as strokes) to those due to the inflammatory response to the cells (e.g., acute chest syndrome)."
+17,28/12/21,Haematology,"Patients often have features of hyposplenism due to recurrent splenic infarcts and splenic atrophy, leading to recurrent infection. As such, NICE recommends pneumococcal vaccine every 5 years. Prophylactic antibiotics (e.g., penicillin) may also be given."
+18,28/12/21,Haematology,Diagnosis in the UK can be picked up antenatally or during the newborn heel prick test if the mother declined screening.
+19,28/12/21,Haematology,"Diagnosis later in life involves the absence of HbA during electrophoresis, visualisation of sickle cells on blood film, or genetic testing."
+20,28/12/21,Haematology,"Acute management should be treated as a medical emergency, and generally include supportive measures such as analgesia, antibiotics, fluid replacement, folic acid supplementation, and blood transfusions."
+21,28/12/21,Haematology,"Long-term management could include patient education and avoidance of triggers, hydroxyurea to reduce painful episodes, bone marrow transplantation, folic acid supplementation, and in severe cases, bone marrow transplant."
+22,28/12/21,Ophthalmology,"Cataracts are a gradual clouding of the lens, with associated pigmentation and reduced visual acuity."
+23,28/12/21,Ophthalmology,"Symptoms are usually gradual and may include reduced visual acuity, photophobia, and glare/halos which are worse at night."
+24,28/12/21,Ophthalmology,"Risk factors can include patient factors (such as age or being female) and medical history (further divided into local, systemic, and iatrogenic causes)."
+25,28/12/21,Ophthalmology,Pathophysiology involves gradual crosslinking of proteins secondary to oxidative stress.
+26,28/12/21,Ophthalmology,"Cataracts can be of different types, including nuclear sclerotic, cortical or subcapsular."
+27,28/12/21,Ophthalmology,"Cataracts are the most common cause of reversible blindness worldwide, and prevalence increases dramatically with age."
+28,28/12/21,Ophthalmology,"Cataracts is a clinical diagnosis although other investigations can be helpful to consider other causes, especially diabetes."
+29,28/12/21,Ophthalmology,"Management is conservative in the early stages, but definitive management is surgical, which should not only be considered based on visual acuity but also on the quality of the patient’s life."
+30,28/12/21,Ophthalmology,Certain drugs such as tamsulosin and anticoagulants should be avoided prior to surgery for cataracts to reduce the risk of complications.
+31,28/12/21,Ophthalmology,"Complications of cataract surgery can include cystoid macular oedema, retinal detachment, and most commonly, posterior capsular opacification."
+32,28/12/21,Ophthalmology,"Glares and halos are a useful symptom to explore in cataract, and may be more commonly seen in PSC."
+33,28/12/21,Ophthalmology,"Paediatric cases of cataracts may be secondary to rubella, which is important to detect early."
+34,28/12/21,Ophthalmology,Children must be treated surgically as soon as possible to prevent deprivation amblyopia and squint.
+35,28/12/21,Ophthalmology,Blepharitis is a common condition and can affect any age group (but is more common in those >50).
+36,28/12/21,Ophthalmology,"Symptoms typically include burning or itchiness, crusting, eyelids sticking together and having a foreign body sensation."
+37,28/12/21,Ophthalmology,"Staphylococcus blepharitis is more common in women than men, unlike other forms of blepharitis which are equally as prevalent in either gender."
+38,28/12/21,Ophthalmology,"Anterior blepharitis is typically due to infection, as opposed to posterior blepharitis which is secondary to meibomian gland dysfunction."
+39,28/12/21,Ophthalmology,"Risk factors may be split up into those affecting the patient, their medical history, iatrogenic and environmental factors."
+40,28/12/21,Ophthalmology,Visual impairment is not typically a feature of blepharitis but other examination findings such as erythematous eyelids may suggest the diagnosis.
+41,28/12/21,Neurology,Epidural haematomas most commonly affect young adults and adolescents involved in blunt/penetrating trauma and/or acceleration-deceleration injuries.
+42,28/12/21,Neurology,"The presentation of EDH is acute and occurs in 3 phases. In phase 1, there is a loss of consciousness following injury (usually to the side of the head). In phase 2, there is a lucid interval where consciousness returns (close) to baseline temporarily (~30 minutes). In phase 3, there is clinical deterioration (e.g., signs of raised ICP, possible herniation symptoms, neurological deficits, loss of consciousness again)."
+43,28/12/21,Neurology,An epidural haematoma is a collection of blood that occurs between the inner skull and the periosteal dura mater.
+44,28/12/21,Neurology,"An EDH forms due to damage to the middle meningeal artery. However, other structures (anterior ethmoidal artery and venous sinuses) can also cause an EDH."
+45,28/12/21,Neurology,EDH is very commonly associated with skull fractures - the most common site of fracture being the pterion (a region where suture lines join) which lies near the temples of the head.
+46,28/12/21,Neurology,The most important approach to a patient presenting to A&E acutely with trauma is an ABCDE primary survey.
+47,28/12/21,Neurology,"Raised ICP and brain herniation can result in the following red flag symptoms/signs: headache, altered consciousness, progressive drowsiness, oculomotor palsy with dilated pupils, decorticate/decerebrate posturing and Cushing’s triad (bradycardia, hypertension, respiratory depression)."
+48,28/12/21,Neurology,"Complications in EDH occur due to the large risk of brain herniation. EDH is usually caused by arterial bleeds which expand quickly, as well as generally causing more compression due to its site of bleeding. Brain herniation increases the risk of long term neurological deficit, vegetative state and death."
+49,28/12/21,Neurology,Check airway for obstructions and perform tracheal intubation early in patients with a rapidly dropping GCS or GCS lower than 8. “GCS 8 to Intubate”
+50,28/12/21,Neurology,"Blood tests on initial investigations are used to identify underlying causes of EDH and aid management, these include: FBCs, LFTs, U&Es, Clotting studies, blood grouping and cross-match."
+51,28/12/21,Neurology,"Urgent management of raised ICP involves: SHHOP: Sedation +/- Analgesics, Hyperosmolar fluid therapy (Hypertonic saline), Hyperventilation / mechanical ventilation until PaCO2 is lowered to 25-35mmHg, Osmotic diuretics (IV mannitol), Position - elevating the head to 30 degrees"
+52,28/12/21,Ophthalmology,"Investigations are not usually required in cases of blepharitis, but it may be helpful to order swabs in recurrent cases and check for systemic disease if other symptoms are suggestive of this."
+53,28/12/21,Ophthalmology,Management revolves around conservative approaches and medical therapy where appropriate
+54,28/12/21,Ophthalmology,"Prognosis is generally good, but it is important to assess for complications such as recurrent blepharitis and corneal ulceration."
+55,28/12/21,Ophthalmology,"Patients may present with a new onset sudden visual loss, flashes, floaters and reduced visual acuity."
+56,28/12/21,Ophthalmology,"Retinal detachments are one of the most common eye emergencies, typically presenting around the age of 60 years."
+57,28/12/21,Ophthalmology,"Clinical examination may identify RAPD, absence of red reflex and fundoscopic changes."
+58,28/12/21,Ophthalmology,"Retinal detachments are characterised by the separation of the retina and RPE, allowing fluid to enter the subretinal space."
+59,28/12/21,Ophthalmology,Detachments may be rhegmatogenous (involving a tear) or non-rhegmatogenous (no tear involved and is further classified into tractional or exudative).
+60,28/12/21,Ophthalmology,"Risk factors may relate to the patient (such as myopia, family history or age) or their medical history (previous detachment, diabetic retinopathy, and eye trauma)."
+61,28/12/21,Ophthalmology,"In cases of suspected retinal detachemnt, refer for same day assessment if there are visual changes or features on fundoscopy."
+62,28/12/21,Ophthalmology,Location of the detachment is upside-down and left-right of the area of sight loss.
+63,28/12/21,Ophthalmology,Investigations such as CT/MRI orbit and B-scan ultrasonography may be useful in cases of trauma.
+64,28/12/21,Ophthalmology,"Where possible, aim to prevent detachments via prophylactic measures such as retinopexy/cryopexy and good management of underlying disease."
+65,28/12/21,Ophthalmology,"Definitive management is largely through surgical interventions including gas tamponade, retinopexy, scleral buckle, retinotomy or vitrectomy."
+66,28/12/21,Ophthalmology,"Endophthalmitis is an important complication of surgical interventions, which requires urgent treatment."
+67,28/12/21,Ophthalmology,Complications of detachment can include higher risk of future detachments in the same or contralateral eye and permanent sight loss.
+68,28/12/21,Ophthalmology,"Conjunctivitis is described as inflammation of the conjunctiva, which is the transparent lining covering the front surface of the eye."
+69,28/12/21,Ophthalmology,"Conjunctivitis typically presents as a red, sore eye with discharge present in the case of bacterial disease"
+70,28/12/21,Ophthalmology,Bacterial and allergic conjunctivitis present with ‘papillae’ as opposed to follicles seen in viral cases.
+71,28/12/21,Ophthalmology,"Common bacterial causes include streptococcus pneumoniae, staphylococcus aureus and H influenzae"
+72,28/12/21,Ophthalmology,Common causes of ophthalmia neonatorum include chlamydia (most common) and Neisseria gonorrhoea.
+73,28/12/21,Ophthalmology,Infective conjunctivitis involves an inflammatory response via interleukins and lymphocytes as part of any normal infective pathophysiology.
+74,28/12/21,Ophthalmology,Allergic conjunctivitis involves IgE crosslinking and degranulation of mast cells and presents as ‘allergic facies’.
+75,28/12/21,Ophthalmology,It is important to assess for regional lymph nodes in the case of URTI associated conjunctivitis.
+76,28/12/21,Ophthalmology,Investigations are not always offered although corneal staining and PCR testing may be useful for diagnosis and further management.
+77,28/12/21,Ophthalmology,"Referral to ophthalmology should be considered after 7-10 days of first-line treatment not working, suspected herpetic infection or ophthalmia neonatorum."
+78,28/12/21,Ophthalmology,Most cases of infective conjunctivitis are self-limiting and do not warrant further treatment
+79,28/12/21,Ophthalmology,"Severe bacterial conjunctivitis may require antibiotics, typically chloramphenicol or fusidic acid where the patient is pregnant."
+80,28/12/21,Ophthalmology,Neisseria gonorrhoea causes hyperacute conjunctivitis (12-24 hours) and may present with preauricular lymphadenopathy as well as corneal ulcers
+81,28/12/21,Ophthalmology,Neisserial conjunctivitis in adults is treated with a single dose of oral ceftriaxone
+82,28/12/21,Ophthalmology,If a child has chlamydial/neisserial conjunctivitis then sexual abuse must be ruled out!
+83,28/12/21,Ophthalmology,"Viral and allergic conjunctivitis can be difficult to distinguish. In viral conjunctivitis there is often a history of recent URTI and conjunctival follicles are seen on examination. In allergic conjunctivitis, you can expect a background of atopy alongside a history of seasonal symptoms, severe itching and chemosis (conjunctival swelling)."
+84,28/12/21,Ophthalmology,Adenovirus is the most common causative organism in viral conjunctivitis
+85,28/12/21,Ophthalmology,"Risk factors for infective conjunctivitis include contact with infected individuals, one eye affected, immunocompromised, and contact lens use."
+86,28/12/21,Ophthalmology,Contact lenses wearers can develop acanthamoeba keratitis.
+87,28/12/21,Ophthalmology,"Viral conjunctivitis is the most common infective cause, followed by bacteria except in the case of neonatal conjunctivitis where the reverse is true."
+88,28/12/21,Ophthalmology,"Risk factors for allergic include having other atopic diseases (e.g. rhinitis) and may be triggered by pollen, dust or animal dander."
+89,28/12/21,Ophthalmology,"Common viral causes include adenovirus, EBV and herpes zoster."
+90,28/12/21,Neurology ,"Trigeminal neuralgia is a facial pain syndrome that is paroxysmal (up to 2 minutes before remission), lancinating, excruciating and sometimes incapacitating pain that occurs across 1 or more of the branches of the trigeminal nerve"
+91,28/12/21,Neurology,It is more commonly seen in females of the age 50-60 and incidence increases with age
+92,28/12/21,Neurology ,Trigeminal neuralgia is caused by the compression of the trigeminal nerve root by an intracranial artery causing local demyelination and consequent aberrant conduction
+93,28/12/21,Neurology ,The most commonly affected branch of the trigeminal nerve is the Maxillary (CNV2)
+94,28/12/21,Neurology ,Primary trigeminal neuralgia is a clinical diagnosis (History and through examination)
+95,28/12/21,Neurology ,First line treatment for Trigeminal Neuralgia is Carbamazepine
+96,28/12/21,Neurology ,"If carbamazepine is not tolerated or does not work for the patient - refer to specialist services for either alternative medication, microvascular decompression or neuroablative treatments"
+97,28/12/21,Neurology ,"In the presence of red flag symptoms i.e. sensory changes, deafness, optic neuritis, bilateral trigeminal neuralgia and trigeminal neuralgia affecting the ophthalmic branch (CNV1) - urgent referral to specialist services for further investigation and care."
+98,28/12/21,Neurology ,Secondary trigeminal neuralgia needs further investigation with electrophysiology testing and relevant imaging i.e. MRI brain and/or intra-oral x-ray
+99,28/12/21,Neurology ,"Key features of meningitis include: Headache, neck-stiffness, fever, altered mental status, photophobia, nausea / vomiting, lethargy and malaise."
+100,28/12/21,Neurology ,Management in the community if meningitis is suspected is to call 999 for an emergency ambulance.
+101,28/12/21,Neurology ,"Management in the community if there is a non-blanching petechial rash and meningitis is suspected, IV/IM Benzylpenicillin is given."
+102,28/12/21,Neurology ,"Initial investigations to be performed on all patients with suspected meningitis include: blood cultures, throat swab for pneumococcus and enteroviruses, blood for PCR of pneumococcus and meningococcus, serum glucose, FBC, U&Es, VBG, CRP, LFT, Coagulation screen and HIV screen"
+103,28/12/21,Neurology ,"Meningitis often features with signs of sepsis / septic shock (emergency), including: tachycardia, hypotension, dyspnea, leg pain, mottled appearance, capillary refill time of >2s, cold peripheries and poor urine output."
+104,28/12/21,Neurology ,"Meningococcal disease (N.meningitidis) is an emergency as it can cause DIC, seen on the patient as a non-blanching purpuric/petechial rash. It can also cause hypotension and an altered mental state."
+105,28/12/21,Neurology ,N. meningitidis is most common in young adults
+106,28/12/21,Neurology ,"Delay lumbar puncture without CT if there are signs of respiratory / cardiac compromise, severe sepsis, evolving petechial rash (coagulopathy). Avoid lumbar puncture if there is an infection at the site of lumbar puncture"
+107,28/12/21,Neurology ,"Provide empirical antibiotics after LP if LP is done within 1 hour, otherwise immediately after blood cultures."
+108,28/12/21,Neurology ,"Antibiotic therapy differs by the bacteria isolated: meningococcal disease = IV cefotaxime / ceftriaxone / benzylpenicillin, listeria monocytogenes = IV amoxicillin, pneumococcal disease = IV cefotaxime"
+109,28/12/21,Neurology ,Meningococcal disease can result in Waterhouse-friderichsen syndrome which is acute bilateral hemorrhagic necrosis of the adrenal glands. It occurs alongside DIC usually and presents with non-specific systemic symptoms that can be difficult to differentiate with sepsis.
+110,28/12/21,Neurology ,"Meningitis can feature with signs of raised ICP further in its course of progression (or sooner in fungal meningitis). These include: bulging fontanelle in infants, focal neurological signs, papilloedema, dropping GCS count."
+111,28/12/21,Neurology ,Bacterial meningitis is most seen in those aged <3 months and >60 years
+112,28/12/21,Neurology ,"In neonates and infants <3 months, the most common cause of bacterial meningitis is Group B streptococcus. Two other common causes are E.coli and L. monocytogenes."
+113,28/12/21,Neurology ,"Empirical antibiotics differ by age: <3 months = IV cefotaxime + amoxicillin, 3months - 50 years = IV cefotaxime, >50 years = IV cefotaxime + amoxicillin."
+114,28/12/21,Neurology ,"Key features of meningitis include: Headache, neck-stiffness, fever, altered mental status, photophobia, nausea / vomiting, lethargy and malaise."
+115,28/12/21,Neurology ,The diagnostic investigation for meningitis is a Lumbar puncture for CSF analysis
+116,28/12/21,Neurology ,"CSF is analysed for opening pressure, white cell count, CSF protein, CSF glucose and CSF-blood glucose ration. It is also sent for microscopy, gram stain, culture and sensitivities. CSF PCR for bacteria (pneumococci & meningococci), or viral (enterovirus, HSV-1 & 2, varicella zoster), or fungal (cryptococcus antigen)."
+117,28/12/21,Neurology ,Viral meningitis is the most common cause of meningitis in the UK
+118,28/12/21,Neurology ,"CSF analysis for viral meningitis shows a normal opening pressure with a clear appearance, a highly raised white cell count, lymphocytes in microscopy, mildly raised CSF protein, normal CSF glucose, and normal CSF-blood glucose ratio."
+119,28/12/21,Neurology ,"Viral meningitis is diagnosed with CSF PCR for enteroviruses, HSV-1&2 and varicella zoster."
+120,28/12/21,Neurology ,Human enteroviruses are the most common cause of viral meningitis. They are spread through faecal-oral transmission.
+121,28/12/21,Neurology ,"If viral meningitis is confirmed with a CSF PCR, stop steroid and antibiotic therapy, treat with paracetamol, ondansetron and fluid management."
+122,28/12/21,Neurology ,"Risk factors for viral meningitis include: young, elderly, immunocompromised, living in crowded places, exposure to mosquito or tick vectors, unvaccinated for mumps, swimming pool use."
+123,28/12/21,Neurology ,"Delay lumbar puncture and perform CT scan IF there are signs of raised ICP, seizures, GCS<=12 or suspected fungal meningitis"
+124,28/12/21,Neurology ,"CSF analysis for fungal meningitis shows a raised opening pressure with a cloudy appearance, a raised white cell count, lymphocytes on microscopy, a raised CSF protein, and a slightly low CSF glucose, thus a slightly low CSF-blood glucose ratio."
+125,28/12/21,Neurology ,"Risk factors for fungal meningitis include: HIV/AIDS, other causes of immunosuppression, recent neurosurgical procedures."
+126,28/12/21,Neurology ,The most common cause of a fungal meningitis is Cryptococcus neoformans
+127,28/12/21,Neurology ,"If fungal meningitis is confirmed with CSF PCR, treat with IV amphotericin B and IV fluconazole. Eventually stop the amphotericin B and continue with fluconazole"
+128,28/12/21,Neurology ,"Important complications of fungal meningitis includes the complications of amphotericin B therapy (anaemia, nephrotoxicity, hypokalemia and hypomagnesemia), raised ICP, stroke due to vasculitis, and hydrocephalus."
+129,30/12/21,Neurology ,Perform an ABCDE assessment with a GCS and NEWS score calculation.
+130,30/12/21,Neurology ,Sepsis and septic shock and resulting end-organ damage is often the cause of mortality in patients with meningitis.
+131,30/12/21,Neurology ,"Manage sepsis with the Sepsis 6: TAKE blood cultures, serum LDH and urine output. GIVE oxygen, broad spectrum antibiotics and fluid resuscitation."
+132,30/12/21,Neurology ,"Insensitive but important signs of meningeal irritation include Kernig’s sign (pain in lower back on knee extension), and Brudzinski’s sign (passive flexion of neck elicits flexion of the knees and/or hips, or passive flexion of one leg causes flexion of the opposite leg)."
+133,30/12/21,Neurology ,"Important complications of bacterial meningitis include shock, raised ICP, hydrocephalus, seizures, hearing loss, waterhouse-friderichsen syndrome (meningococcal) and long term cognitive defects"
+134,30/12/21,Neurology ,Provide adjunct IV dexamethasone (alongside the antibiotics).
+135,30/12/21,Neurology ,"Patients with cardiorespiratory arrest, sepsis, meningococcal disease or shock will need urgent senior input and will take priority over uncomplicated meningitis patients."
+136,30/12/21,Neurology ,Patients with any need to delay lumbar puncture will need to be sent to critical care for ICU input
+137,30/12/21,Neurology ,"CSF analysis for bacterial meningitis shows a raised opening pressure, purulent appearance, raised white cell count, neutrophils in microscopy, raised CSF protein ,and very low CSF glucose, thus a very low CSF-blood glucose ratio."
+138,30/12/21,Neurology ,Men are most commonly affected between the ages of 60-70
+139,30/12/21,Neurology ,A myasthenic crisis refers to a life-threatening exacerbation of MG which often presents with dyspnea and may progress to respiratory failure
+140,30/12/21,Neurology ,Serial FVCs via spirometry should be recorded to detect the need for ventilation. (Ventilation is often considered at an FVC of <15ml/Kg)
+141,30/12/21,Neurology ,"Triggers for a myasthenic crisis include respiratory infection, recent surgery, drugs (aspirin, antimuscarinic drugs, cancer checkpoint inhibitors, some antibiotics and some neuromuscular blocks such as atracurium)"
+142,30/12/21,Neurology ,"Management of myasthenic crisis includes treatment with high dose corticosteroids, plasma exchange, IV immunoglobulins and mechanical ventilation"
+143,31/12/21,Neurology ,"As the disease progresses other muscle groups can become involved. These include bulbar muscles (leading to dysarthria, dysphagia and difficulty chewing) and proximal limb weakness (leading to difficulty getting up from a seating position)"
+144,31/12/21,Neurology ,Seronegative MG refers to patients who are negative for AChR antibodies. These patients commonly have anti MuSK antibodies present and most commonly occur in women aged <40 years
+145,31/12/21,Neurology ,Electrophysiological testing in MG include repeated nerve stimulation (decrease in muscle action potentials following repeated impulses) and single fibre electromyography (decreased response to repeated stimulation)
+146,31/12/21,Neurology ,"Myasthenia gravis most commonly presents with ocular symptoms in almost all patients which elicit fatigability (worsens at the end of the day). These include: ptosis, diplopia or blurry vision"
+147,31/12/21,Neurology ,"Women are more commonly affected than men, with incidence parking around 20-40 years of age"
+148,31/12/21,Neurology ,"Risk factors of developing MG include: family history, presence of other autoimmune diseases (e.g. hashimoto’s disease, SLE, rheumatoid arthritis, sarcoidosis) presence of a thymoma or thymic hyperplasia as well as presence of HLA B8 and DR3"
+149,31/12/21,Neurology ,"The weakness in MG is associated with an otherwise normal neurological examination (i.e. normal tone, sensation, coordination and reflexes)"
+150,31/12/21,Neurology ,Clinical tests for MG include the ice pack test (Improvement of ptosis following application of ice filled glove to eyelid) and Simpsons test (failure to maintain upgaze towards a finger held high)
+151,31/12/21,Neurology ,Myasthenia gravis is characterised by autoantibody formation against acetylcholine receptors on the postsynaptic membrane at the neuromuscular junction of skeletal muscle
+152,31/12/21,Neurology ,Diagnostic investigations for MG include antibody testing (80-90% of patients have AChR antibodies).
+153,31/12/21,Neurology ,"First line management of MG include acetylcholinesterase inhibitors (Pyridostigmine), immunosuppression (prednisolone or azathioprine) as well as thymectomy"
+154,31/12/21,Neurology ,Specialised immunotherapy include rituximab in severe MG as well as eculizumab immunotherapy
+155,31/12/21,Neurology ,Supporting investigations for MG include CT/MRI chest to detect thymomas as well as TFTs
+156,31/12/21,Haematology,"Factors that increase the risks of DVT usually cause venous stasis, hypercoagulability, and/or endothelial damage (‘Virchow’s triad’). Common causes include pregnancy, active cancer, major trauma/surgery, recent hospital admission or hormonal medications."
+157,31/12/21,Haematology,"Clinical features of DVT include unilateral: leg pain, erythema, pitting oedema, swelling of the leg, and distension of the superficial veins.
+"
+158,31/12/21,Haematology,Well’s score is calculated to stratify the likelihood of a DVT. 
+159,31/12/21,Haematology,"D-dimer has a strong negative predictive value. If it is not elevated, a DVT is highly unlikely and a different diagnosis should be considered. However, it can be falsely elevated e.g., post-surgery, trauma, infection or pregnancy, so has low specificity."
+160,31/12/21,Haematology,"A Well’s score of 2 or more is considered likely to be a DVT. These patients should be offered a duplex ultrasound of the leg with results within 4 hours. If unavailable, interim treatment-dose anticoagulation and D-dimer should be offered with a duplex ultrasound scan within 24 hours."
+161,31/12/21,Haematology,"The mainstay of treatment for confirmed DVT is anticoagulation. NICE recommend DOACs (rivaroxaban, apixaban) first-line. If these are contraindicated (e.g., pregnancy, eGFR <15, metallic heart valve), LMWH can be used alone in pregnancy or warfarin (bridged by heparin until INR is stable) can be used second-line."
+162,31/12/21,Haematology,Patients with a provoked DVT should be anticoagulated for 3 months whereas those with an unprovoked DVT should receive 6 months of anticoagulation.
+163,31/12/21,Haematology,"DVT can lead to chronic venous hypertension and valvular damage, resulting in post-thrombotic syndrome. This is characterised by chronic leg pain, pruritus, dragging sensation/heaviness and venous ulceration, and is treated with compression stockings, exercise, weight-loss, and elevation of legs while sitting."
+164,31/12/21,Haematology,"A Well’s score of 0-1 is considered unlikely to be a DVT. These patients should be offered a D-dimer - if positive, an ultrasound duplex scan of the leg should be done. "
+165,31/12/21,Haematology,"Those with an unprovoked DVT should be investigated for an underlying cause. This includes investigations for underlying thrombophilias, and baseline bloods and clotting investigations to assess for underlying malignancy."
+166,31/12/21,Haematology,A life-threatening complication of DVT is a pulmonary embolism.
+167,31/12/21,Haematology,Patients who experience a second thrombotic event while being anticoagulated may require lifelong anticoagulation.
+168,01/01/22,Haematology,"Factors that increase the risks of PE usually cause venous stasis, hypercoagulability, and/or endothelial damage (‘Virchow’s triad’). Common causes include pregnancy, active cancer, major trauma/surgery, recent hospital admission or hormonal medications."
+169,01/01/22,Haematology,"Clinical features are acute-onset and include: pleuritic chest pain, dyspnoea and haemoptysis, accompanied by tachypnoea and tachycardia. Often, the chest is clear with bilateral vesicular breathing on auscultation. Rarely, pleural rubs may be auscultated."
+170,01/01/22,Haematology,The vast majority of PEs are accompanied by a concurrent DVT.
+171,01/01/22,Haematology,"Well’s score for PE can be calculated to stratify the likelihood of PE. 
+"
+172,01/01/22,Haematology,"A Well’s score of greater than 4 is considered likely to be a PE. These patients should be admitted to hospital with an immediate CTPA to confirm the diagnosis. If this is not possible, interim therapeutic anticoagulation should be offered while waiting."
+173,01/01/22,Haematology,"Haemodynamically stable patients confirmed to have a PE should receive anticoagulation. NICE recommend DOACs (rivoraxaban, apixaban) first-line. If these are contraindicated (e.g., pregnancy, eGFR <15, metallic heart valve), LMWH can be used alone in pregnancy or warfarin (bridged by heparin until INR is stable) can be used second-line."
+174,01/01/22,Haematology,"General investigations and findings include a normal chest x-ray, ABG demonstrating a respiratory alkalosis with hypoxaemia, ECG demonstrating sinus tachycardia (common), S1Q3T3 (rare) or signs of right heart strain, and raised troponin and BNP."
+175,01/01/22,Haematology,"The disruption to pulmonary circulation leads to hypoxia, hypoxaemia, right heart strain and finally cardiac arrest."
+176,01/01/22,Haematology,"Haemodynamically unstable patients with a suspected PE should be managed with an A-E approach. They may also have a bedside echocardiography followed by rapid thrombolysis. If thrombolysis is contraindicated, an embolectomy can be performed."
+177,01/01/22,Haematology,"A saddle embolus may lead to haemodynamic instability, characterised by hypotension and syncope."
+178,01/01/22,Haematology,Patients with a provoked PE should be anticoagulated for 3 months whereas those with an unprovoked PE should receive 6 months of anticoagulation.
+179,01/01/22,Haematology,Those with an unprovoked PE are investigated for underlying thrombophilia
+180,01/01/22,Haematology,"A Well’s score of 0-4 is considered unlikely to be a PE. These patients should be offered a D-dimer test with results within 4 hours - if positive, an immediate CTPA should be done. If either tests are not available with results within the appropriate time frame, interim therapeutic anticoagulation should be offered while waiting.
+"
+181,01/01/22,Haematology,"D-dimer has a strong negative predictive value. If it is not elevated, a PE is highly unlikely and a different diagnosis should be considered. However, it can be falsely elevated e.g., post-surgery, trauma, infection or pregnancy, so has low specificity.
+"
+182,01/01/22,Haematology,"In patients who cannot have a CTPA (contraindications include eGFR < 30, contrast allergy), consider a V/Q scan."
+183,02/01/22,Neurology ,Diagnosis of EDH is made with a CT head scan.
+184,02/01/22,Neurology ,CT scan will show a hyperdense lenticular/biconvex lesion that does not cross suture lines. It is often associated with a skull fracture and can commonly cause significant midline shift and brain herniation.
+185,02/01/22,Neurology ,Identify use of anticoagulation (especially warfarin) and reverse anticoagulation where it is not contraindicated.
+186,02/01/22,Neurology ,"Indications for craniotomy and clot evacuation include: coma, GCS<9 and pupillary abnormalities, symptoms of raised ICP and brain herniation, and large haematoma and significant midline shift on CT."
+187,02/01/22,Neurology ,"Perform a CT if there is a drop of >=2 in GCS, new pupillary abnormalities, new cranial nerve palsies or new limb weakness."
+188,02/01/22,Neurology ,"Secondary causes of EDH include mastoiditis, coagulopathy, dural metastases and arterio-venous malformations."
+189,02/01/22,Neurology ,"Poor prognostic factors include older age, low GCS (<8) on admission, signs of raised ICP, delayed surgery, large haematoma/significant midline shift on CT, and presence of other intracranial lesions."
+190,02/01/22,Neurology ,For those who are not indicated for surgery - monitor with serial examinations. Do a CT scan 6 hours after the initial scan.
+191,03/01/22,Ophthalmology,Cytomegalovirus is an AIDS defining disease which may lead to chorioretinitis.
+192,03/01/22,Ophthalmology,Immunosuppression is an important risk factor for developing severe infection.
+193,03/01/22,Ophthalmology,"Key symptoms include blurred vision, new onset floaters and uncommonly, eye pain."
+194,03/01/22,Ophthalmology,"Fundoscopy findings include flame haemorrhages, yellow cloudy retinal lesions (which may resemble cotton wool spots) and retinal necrosis."
+195,03/01/22,Ophthalmology,Retinitis may develop in over 70% of cases of AIDS associated with CMV.
+196,03/01/22,Ophthalmology,The virus initially causes retinitis though haematogenous spread and once targeted by the immune system becomes latent in the lungs/salivary glands.
+197,03/01/22,Ophthalmology,"Disease may be classed as fulminant, granular, or perivascular."
+198,03/01/22,Ophthalmology,"Though CMV retinitis is a clinical diagnosis, investigations can be helpful for confirming diagnosis, with PCR being the most sensitive."
+199,03/01/22,Ophthalmology,"Treatment may not be required or is supportive in most cases involving immunocompetent patients, but immunocompromised patients may require antiviral/immunoglobulin therapy."
+200,03/01/22,Ophthalmology,Blindness and treatment related complications such as thrombocytopenia are important to assess for.
+201,03/01/22,Ophthalmology,"The most serious complication of CMV retinitis is immune recovery uveitis, which may involve further uveitis and cataract."
+202,03/01/22,Ophthalmology,"Key symptoms of acute glaucoma include redness, pain and reduced visual acuity"
+203,03/01/22,Ophthalmology,"On examination, key aspects to look for include a semi dilated pupil, corneal oedema, corneal haze and the eyeball may be firm to touch."
+204,03/01/22,Ophthalmology,"Acute angle glaucoma describes a rapid increase in intraocular pressure due to obstruction of aqueous outflow, leading to damage to the optic nerve."
+205,03/01/22,Ophthalmology,"Key risk factors include being female, age, ethnicity, and previous episodes of disease."
+206,03/01/22,Ophthalmology,"Angle closure involves the iris meeting the trabecular meshwork, preventing drainage, and leading to acute increases in pressure and resultant damage."
+207,03/01/22,Ophthalmology,"Clinical suspicion plus evidence of any of the following: raised intraocular pressure, a closed iridocorneal angle, corneal oedema/haze or a shallow anterior chamber confirm the diagnosis. "
+208,03/01/22,Ophthalmology,"Management is largely pharmacological initially, aiming to reduce the pressure by improving drainage and opening the angle."
+209,03/01/22,Ophthalmology,Definitive management is with a peripheral laser iridotomy.
+210,03/01/22,Ophthalmology,"Acute attack in the other eye, retinal vein occlusion and blindness are all important complications of acute glaucoma."
+211,03/01/22,Ophthalmology,Gonioscopy and perimetry can be helpful to identify the severity of the acute glaucoma and gonioscopy can be used to suggest further prophylactic therapies for the fellow eye.
+212,02/01/22,Neurology ,Bell’s palsy is most commonly seen in women aged between 15-45.
+213,02/01/22,Neurology ,"Bell’s palsy is caused by damage to the facial nerve (CN7) at the meatal section, causing demyelination at the site and compression against a narrow canal due to oedema."
+214,02/01/22,Neurology ,"Due to the region of damage having all the motor, sensory and parasympathetic fibres of CN7, the symptoms seen in Bell’s palsy include loss of motor, sensory and parasympathetic function of CN7."
+215,02/01/22,Neurology ,Bell’s palsy presents acutely (<72 hours).
+216,02/01/22,Neurology ,"The important motor symptoms include: unilateral facial muscle paresis and hyperacusis (due to stapedius muscle dysfunction). Important sensory symptoms include: ear pain, post-auricular region pain and change in taste. Important parasympathetic symptoms include: dry eyes and dry mouth"
+217,02/01/22,Neurology ,Bell’s palsy’s aetiology is idiopathic but it is strongly associated with HSV-1 infection.
+218,02/01/22,Neurology ,"Risk factors of Bell’s palsy includes: pregnancy, immunocompromisation, hypertension, diabetes, obesity and the presence of an upper respiratory tract infection"
+219,02/01/22,Neurology ,"Important red flag features to identify on history and examination include: Uneven distribution of weakness across facial zones on presentation, insidious and painful onset, frontal headache, fever, or general malaise, bilateral involvement, prior episode of facial palsy, persistence of complete flaccid paralysis at 3-4 months, presence of other cranial or peripheral neuropathies or presence of otological symptoms (other than mild to moderate otalgia, hyperacusis, and post-auricular pain)"
+220,02/01/22,Neurology ,Bell’s palsy is a clinical diagnosis of exclusion.
+221,02/01/22,Neurology ,Routine lab and imaging tests are not required in primary care for new-onset Bell’s palsy.
+222,02/01/22,Neurology ,"Conservative management of Bell’s palsy includes reassurance of a good prognosis and symptom management - eye drops, sunglasses, avoid swimming, avoid dust, tape eyes with microporous tape or use liquid or soft foods with a straw, if needed."
+223,02/01/22,Neurology ,Corticosteroid therapy should be given to patients presenting within 72 hours of symptom onset.
+224,02/01/22,Neurology ,Do not provide antiviral therapy alone for the treatment of Bell’s palsy. It can be given adjunct with corticosteroids by a specialist in severe cases.
+225,02/01/22,Neurology ,"Refer to the ophthalmologist if there’s any eye pain, itchiness or irritation for appropriate eye care in Bell’s palsy management."
+226,02/01/22,Neurology ,"If any red flag symptoms are present on history and examination of Bell’s palsy, refer the patient urgently to secondary care."
+227,02/01/22,Neurology ,"If in doubt about the diagnosis of Bell’s palsy, if there’s no improvement after 3 weeks of treatment, and if there’s abnormal innervation after 5 months → refer to a neurologist / ENT specialist."
+228,02/01/22,Neurology ,"Complications of Bell’s palsy include: persistent hyperacusis, persistent dry mouth, inability to close eyes (keratoconjunctivitis sicca), facial pain and paresthesia, synkinesis."
+229,07/01/22,Ophthalmology,"In the eye, the parasympathetic nervous system causes pupil constriction by causing contraction of the sphincter pupillae muscle. Conversely, the sympathetic nervous system causes pupil dilation by causing contraction of the iris dilator muscle."
+230,07/01/22,Ophthalmology,Antimuscarinic drugs can be used for fundoscopy or treatment of anterior uveitis.
+231,07/01/22,Ophthalmology,"Examples of antimuscarinic drugs include tropicamide, cyclopentolate and atropine."
+232,07/01/22,Ophthalmology,Sympathomimetic drugs dilate the pupils and may be used safely in patients with myasthenia gravis.
+233,07/01/22,Ophthalmology,Antimuscarinic drugs work by blocking muscarinic receptors and inhibiting the parasympathetic system causing dilation.
+234,07/01/22,Ophthalmology,"Antimuscarinics should be avoided in patients with myasthenia gravis, dementia and used with caution in the elderly."
+235,07/01/22,Ophthalmology,"Antimuscarinic drugs may cause dry eyes, dry mouth, constipation, urinary retention and exacerbate acute glaucoma."
+236,07/01/22,Ophthalmology,"Tropicamide is a favourable antimuscarinic due to a low systemic side effect profile, quick onset of action and short length of effect."
+237,07/01/22,Ophthalmology,Sympathomimetic drugs work by upregulating the sympathetic nervous system (such as activating alpha 1 receptors) which leads to contraction of the iris dilator muscle and pupil dilation.
+238,07/01/22,Ophthalmology,"Sympathomimetic drugs are contraindicated in patients with hypertension, previous cardiac disease, diabetes, thyrotoxicosis or known aneurysms."
+239,07/01/22,Ophthalmology,"Sympathomimetic drugs should be avoided in patients taking mono-amide oxidase inhibitors, tricyclic antidepressants, or antihypertensive medication due to increased risk of hypertension, and cardiac glycosides such as digoxin or quinidine due to risk of arrhythmias."
+240,07/01/22,Ophthalmology,Cholinergic medications act as parasympathomimetics and therefore lead to pupil constriction.
+241,07/01/22,Ophthalmology,Pilocarpine is an example of a cholinergic drug used to treat glaucoma.
+242,07/01/22,Ophthalmology,"Cholinergic medications are contraindicated in anterior uveitis and used with caution in patients with asthma, cardiac disease, epilepsy, or Parkinson’s disease."
+243,07/01/22,Ophthalmology,"Cholinergic medications may cause hypersalivation, watery eyes, diarrhoea and increased urinary frequency."
+244,07/01/22,Ophthalmology,Most cases of open angle glaucoma are diagnosed incidentally.
+245,07/01/22,Ophthalmology,Optic disc cupping is a key feature seen on fundoscopy.
+246,07/01/22,Ophthalmology,Glaucoma is defined as optic disc injury which may or may not involve increases in intraocular pressure.
+247,07/01/22,Ophthalmology,"Open angle glaucoma is the most common type of glaucoma, and glaucoma overall is the second most common cause of blindness worldwide."
+248,07/01/22,Ophthalmology,"Key patient factors that are risks include age, myopia, black ethnicity and family history."
+249,07/01/22,Ophthalmology,"Key medical risk factors include increased intraocular pressure, cardiovascular disease, and hypercoagulability disorders."
+250,07/01/22,Ophthalmology,Main cells that are damaged in open angle glaucoma include retinal ganglion cells.
+251,07/01/22,Ophthalmology,"Open angle glaucoma may arise due to ischaemia, metabolic stress or axon compression related to increased intraocular pressure."
+252,07/01/22,Ophthalmology,Normal tension glaucoma involves no increase in intraocular pressure but damage to retinal ganglion cells.
+253,07/01/22,Haematology,"ALL is the most common cancer in childhood, with incidence peaking at 2-4 years of age."
+254,07/01/22,Haematology,"Presenting features for ALL include those of anaemia, thrombocytopenia, and leukopenia, as well as organomegaly and painless lymphadenopathy on palpation."
+255,07/01/22,Haematology,"NICE recommend any child with unexplained petechiae or palpable hepatosplenomegaly should be referred for immediate specialist assessment. A very urgent full blood count (within 48 hours) should be offered for children with unexplained fever, persistent infection, bruising or bleeding; pallor, generalised lymphadenopathy, persistent or unexplained bone pain, or persistent fatigue."
+256,08/01/22,Haematology,"Supportive investigations include blood tests (FBC, U&Es, LFTs, clotting studies, LDH), and a peripheral blood film. Imaging options include chest X-ray, testicular ultrasound (if enlarged) and CT/MRI brain (for CNS involvement)."
+257,08/01/22,Haematology,"Bone marrow biopsy (showing >20% lymphoblasts), cytogenetic studies (t(12;21) in 30% of children affected), and immunophenotyping (to identify the subtype) are diagnostic tests for ALL."
+258,08/01/22,Haematology,"Management of ALL usually involves intense chemotherapy for remission induction and consolidation, followed by maintenance therapy and relapse treatment."
+259,08/01/22,Haematology,"Tumour lysis syndrome is an oncological emergency that occurs when tumour cells are rapidly destroyed with intense chemotherapy, leading to the release of their intracellular components into the bloodstream. It is characterised by hyperkalaemia, hyperphosphataemia, hyperuricaemia, and hypocalcaemia."
+260,08/01/22,Haematology,"Supportive treatment involves proper nutrition, and prophylaxis against infection with antibiotic and antifungal treatment."
+261,08/01/22,Haematology,Complications of chemotherapy can be prevented with rasburicase (to prevent TLS) and irradiated blood (to reduce risk of GVHD).
+262,08/01/22,Haematology,"Poor prognostic factors for ALL include age of diagnosis <12 months or >10 years, male sex, t(9;22) translocation, extramedullary involvement at diagnosis, blast count >50x10^9 at diagnosis, hypodiploidy."
+263,08/01/22,Ophthalmology,Visual loss is typically peripheral in the initial stages if present.
+264,08/01/22,Ophthalmology,Optic disc pallor and bayoneting may be seen on fundoscopy in open angle glaucoma.
+265,08/01/22,Ophthalmology,Examination findings may include intraocular pressures over 21mmhg or cup-disc ratio of >0.7.
+266,08/01/22,Ophthalmology,"Key investigations include tonometry, pachymetry, gonioscopy and perimetry "
+267,08/01/22,Ophthalmology,Arcuate scotomas are often associated with open angle glaucoma.
+268,09/01/22,Haematology,"NICE recommend considering a very urgent full blood count (within 48 hours) in adults with unexplained bruising, fever, bleeding or petechiae; hepatosplenomegaly, generalised lymphadenopathy, recurrent or unexplained persistent infection, persistent fatigue, or pallor."
+269,09/01/22,Haematology,"Leukaemic lymphoblasts may infiltrate the CNS, leading to cranial nerve palsies. The most common of these is unilateral facial nerve palsy."
+270,09/01/22,Haematology,"Patients with Down’s syndrome are at 10-20-fold increased risk of developing acute leukaemias (ALL and AML). Other conditions associated with increased risk for ALL are neurofibromatosis type 1, Fanconi’s anaemia, and ataxia with telangiectasia. "
+272,09/01/22,Haematology,"Other risk factors include cigarette smoke, radiation exposure, family history, and poor maternal nutrition. "
+273,09/01/22,Haematology,Adults tend to have a poorer prognosis due to a higher proportion having t(9;22) translocation. These patients tend to have a poorer response to chemotherapy so a stem cell transplant tends to be most beneficial.
+274,09/01/22,Haematology,"Graft vs host disease is an important complication of allogeneic stem cell transplant that mainly affects the skin, liver and GI tract. Features include blistering and itchy rash, skin desquamation, jaundice, and watery or bloody diarrhoea."
+275,10/01/22,Ophthalmology,"Key symptoms include blurred central vision and impaired light adaptation, but later stages may include metamorphopsia, micropsia and macropsia."
+276,10/01/22,Ophthalmology,Symptoms are gradual for dry AMD and sudden with rapid escalation for wet AMD.
+277,10/01/22,Ophthalmology,"Drusen, pigmentary changes and geographic atrophy are key fundoscopic findings in dry AMD"
+278,10/01/22,Ophthalmology,"Macular degeneration leads to irreversible, central sight loss due to involvement of the macula."
+279,10/01/22,Ophthalmology,Age-related maculopathy differs from degeneration as there is no visual impairment.
+280,10/01/22,Ophthalmology,"AMD is associated with inflammation and lipofuscin deposition in Bruch’s membrane, which is seen as drusen."
+281,10/01/22,Ophthalmology,"Deposition of drusen leads to reduced nutrients delivered to the RPE, causing excess of VEGF and abnormal vessel growth."
+282,10/01/22,Ophthalmology,"Key patient risk factors of AMD include age, family history, smoking and diet."
+283,10/01/22,Ophthalmology,"Key medical risk factors of AMD include hypertension, cardiovascular disease, obesity, and history of AMD."
+284,10/01/22,Ophthalmology,All cases should be referred within a week to a specialist.
+285,10/01/22,Ophthalmology,"Dry AMD cannot be actively treated, and management involves symptom control and managing underlying risk factors."
+286,10/01/22,Ophthalmology,Symptoms are gradual for dry AMD and sudden with rapid escalation for wet AMD.
+287,10/01/22,Ophthalmology,Wet AMD is characterised by neovascularization which may bleed and cause significant visual loss.
+288,10/01/22,Ophthalmology,"AMD is classified based on the AREDS system, which spans from 4 levels of severity. Wet AMD is automatically stage 4."
+289,10/01/22,Ophthalmology,Charles Bonnet syndrome is a psychiatric disorder associated with eye pathologies leading to visual hallucinations.
+290,10/01/22,Ophthalmology,"OCT is the definitive test, but angiography also plays an important role in identifying abnormal vessels."
+291,10/01/22,Ophthalmology,Amslers’ grid can be helpful in identifying and monitoring disease progression through the presence of distortion.
+292,10/01/22,Ophthalmology,Wet AMD can be managed with anti VEGF and thermal laser photocoagulation procedures.
+293,10/01/22,Ophthalmology,Further treatment options for wet AMD include thermal laser photocoagulation and photodynamic therapy.
+294,10/01/22,Ophthalmology,"Geographic AMD is the most severe form of dry AMD, but wet AMD still has a worse prognosis."
+293,10/01/22,Ophthalmology,AMD is the most common cause of severe visual impairment in older patients living in developed countries.
+294,10/01/22,Haematology,"Risk factors include: underlying myelodysplastic condition, exposure to previous chemotherapy, benzene exposure, and radiotherapy. There is a slight male predominance."
+295,10/01/22,Haematology,"Presenting features for AML include those of anaemia, thrombocytopenia, and leukopenia as well as organomegaly, lymphadenopathy, bone pain, persistent fever, and weight loss."
+296,10/01/22,Haematology,"Diagnostic investigations for AML include: bone marrow biopsy (>20% blast composition in bone marrow), immunophenotyping (shows TDT negative and myeloperoxidase positive), cytogenetics, as well as visualisation of Auer rods on a blood film."
+297,10/01/22,Haematology,"AML is rare, but the most common acute leukaemia in adults. Occurrence is most common in the elderly, with a mean age of diagnosis of 67 years."
+298,10/01/22,Haematology,Management of AML involves induction of remission and intensification (consolidation) with chemotherapy.
+299,10/01/22,Haematology,A stem cell transplant may be given once remission has been achieved to restore haematopoiesis. Patients are HLA matched at diagnosis for stem cell transplantation.
+300,10/01/22,Haematology,"Graft vs host disease is a complication of stem cell transplant which arises due to an HLA mismatch. Features include blistering and itchy rash, skin desquamation, jaundice, and watery or bloody diarrhoea."
+301,11/01/22,Haematology,"Acute promyelocytic leukaemia occurs due to a translocation between chromosomes 15 and 17, creating the PML/RARA fusion gene. It typically affects younger adults than other types of AML."
+302,11/01/22,Haematology,Findings of DIC may be found on a clotting screen in APML.
+303,11/01/22,Haematology,APML treatment involves all-trans retinoic acid (ATRA) alongside chemotherapy.
+304,13/01/22,Haematology,Acute megakaryoblastic leukaemia most commonly occurs in children with Down’s syndrome.
+305,15/01/22,Neurology ,"GBS is characterised by ascending flaccid paralysis, which typically starts at the legs and ascends up the body"
+306,15/01/22,Neurology ,GBS typically presents with paresthesia of the hands and feet which progresses to ascending weakness. The weakness can be debilitating and leave patients bedbound.
+307,15/01/22,Neurology ,"GBS is a LMN lesion and thus examination may show reflexia, fasciculations and hypotonia."
+308,15/01/22,Neurology ,GBS typically sets in following a preceding infection of the respiratory or GI tract. Symptoms most commonly present within 3 weeks of the infection
+309,15/01/22,Neurology ,"Causative organisms for GBS include viruses (EBV and cytomegalovirus), bacteria (Campylobacter jejuni and mycoplasma pneumoniae). Of these viruses are the most common cause."
+310,15/01/22,Neurology ,Campylobacter jejuni is the most common bacterial cause of GBS which initially presents as GI upset 
+311,16/01/22,Neurology ,Respiratory depression is a common and important complication to rule out in GBS. It is ruled out with repeated spirometry measuring FVC.
+312,16/01/22,Neurology ,"GBS may affect the autonomic nervous system leading to labile blood pressures, arrhythmias, bowel or bladder retention. This is termed pandysautonomia. "
+313,16/01/22,Neurology ,Those with respiratory depression or severe autonomic dysfunction should be admitted to ITU for invasive cardiac monitoring as well as ventilatory support
+314,16/01/22,Neurology ,"Supportive measures of GBS includes thromboprophylaxis (with heparin), catheterisation (to aid voiding of bladder), continuous cardiac monitoring and adequate pain relief for neuropathic pain"
+315,17/01/22,Neurology ,"Cranial nerve manifestations of GBS include swallowing or speech difficulties, double vision as well as bilateral facial nerve palsies"
+316,17/01/22,Neurology ,"Miller-Fisher syndrome is a type of GBS characterised by the triad of areflexia, ataxia and ophthalmoplegia. It is caused by antibodies directed against the GQ1b gangliosides and typically presents with descending paralysis."
+317,17/01/22,Neurology ,The mechanism of GBS is thought to be molecular mimicry  
+318,17/01/22,Neurology ,"GBS is a clinical diagnosis. Supporting diagnosis includes nerve conduction studies (prolonged conduction time and reduced conduction velocity) CSF analysis (albuminocytologic dissociation), stool cultures and serology (to detect causative organisms such as campylobacter) and specific anti-ganglioside antibodies.   "
+319,17/01/22,Neurology ,"Indications for plasma exchange or IVIG include rapidly progressing weakness, inability to walk independently (<40m), bulbar symptoms (swallowing difficulties) or respiratory depression"
+320,17/01/22,Neurology ,"Management of mild GBS, i.e. those without respiratory depression, severe autonomic features, walking independently or have no bulbar symptoms is mainly conservative and supportive."
+321,20/01/22,Neurology ,"Common complications of GBS include severe respiratory depression, aspiration pneumonia, thromboembolic events and electrolyte abnormalities such as hyponatraemia. Cardiac arrhythmias are rare."
+322,20/01/22,Neurology ,Strokes most commonly cause contralateral symptoms due to the crossing of fibres in the spinal cord
+323,20/01/22,Neurology ,"General features of strokes include motor (contralateral hemiparesis, facial droop) sensory (contralateral hemisensory loss) visual (homonymous hemianopia) speech (broca's aphasia, wernicke's aphasia, dysarthria)"
+324,20/01/22,Neurology ,The ACA  supplies the part of the motor cortex which provides motor supply to the predominantly lower limbs. Thus arms and face weakness < leg weakness is more indicative of an ACA infarct
+325,20/01/22,Neurology ,The MCA supplies the part of the motor cortex which provides motor supply predominantly to the arms and face. Thus arms and face weakness> leg weakness is more indicative of an MCA infarct
+326,20/01/22,Neurology ,"When arriving at A&E, the ROSIER scale may be used to identify a stroke and rule out its differentials"
+327,20/01/22,Neurology ,Broca’s area of the brain is involved in the generation of speech. People with a stroke here often have word finding difficulties and may stutter however they can comprehend written or verbal commands (Broca's aphasia)
+328,20/01/22,Neurology ,"Wernicke’s area of the brain is involved in the comprehension of speech and sound. A stroke here leads to an inability to comprehend verbal or written commands, however generation of speech is unaffected. As such patients may appear to be speaking gibberish (Wernicke's aphasia)"
+329,20/01/22,Neurology ,Strokes most commonly leads to a contralateral homonymous hemianopia due to damage to the optic tract
+330,20/01/22,Neurology ,"Homonymous hemianopia with macular (central) sparing is a feature of a posterior circulation stroke, as the area of the brain which supplies the macula receives arterial supply from the MCA"
+331,20/01/22,Neurology ,Ischaemic strokes are classified based on the Bamford Oxford classification of strokes
+332,20/01/22,Neurology ,"Anterior strokes are divided up into TACI and PACI. A TACI is a triad of homonymous hemianopia, contralateral hemiparesis/hemisensory loss and higher cerebral dysfunction (broca's/wernicke's aphasia). A PACI is only 2 of the 3"
+333,20/01/22,Neurology ,"Posterior circulation strokes (PoCS) include any one of the following - cranial nerve involvement and contralateral weakness, cerebellar features (vertigo, nystagmus, ataxia), gaze paresis, isolated homonymous hemianopia  or bilateral weakness/sensory loss"
+334,20/01/22,Neurology ,"Lacunar infarcts occur due to a blockage of the perforating arteries near the basal ganglia. Features include isolated motor OR sensory deficit, isolated ataxia"
+335,21/01/22,Neurology ,The first step in management of a suspected stroke includes stabilisation with ABCDE. This includes checking for glucose early and ruling out hypoglycaemia as a differential. 
+336,21/01/22,Neurology ,A non-contrast CT head is the key diagnostic step in the diagnosis of an ischemic stroke. It should be performed ideally within 1 hour of presentation.
+337,21/01/22,Neurology ,"CT features of an ischemic stroke include normal CT head, loss of grey white differentiation/diffuse hypoattenuation and sulcal effacement, dense MCA sign (hyperacute stroke) and loss of the insular ribbon sign."
+338,21/01/22,Neurology ,"Patients presenting <4.5 hours of the onset of symptoms can be given thrombolysis with IV alteplase. If this is contraindicated, a thrombectomy may be considered if <6 hours since onset of symptoms. This may be combined with a thrombectomy if an MCA infarct is visualised on CT/MR angiography."
+339,21/01/22,Neurology ,Hypertension in an acute setting may be physiological and thus does not need to be reduced unless a hypertensive emergency is present
+340,21/01/22,Neurology ,"Effective inpatient management of a stroke involves swallowing assessment (ideally within 24 hours but no longer than 72 hours) nutrition delivery (if dysphagia is present, then initially via NG tube and the PEG tube for more permanent feeding) blood pressure and blood glucose optimisation."
+341,21/01/22,Neurology ,LMWH is often not used in stroke patients due to risk of haemorrhagic transformation. Instead intermittent pneumatic compressions are used to prevent VTE
+342,21/01/22,Neurology ,"Patients should receive 2 weeks of 300mg aspirin daily before being swapped to 75mg clopidogrel. If the patient cannot tolerate clopidogrel, aspirin + dipyridamole may be used as a substitute"
+343,21/01/22,Neurology ,Patients with atrial fibrillation should receive 300mg aspirin for 2 weeks followed by a DOAC or warfarin
+344,21/01/22,Neurology ,Strokes in younger patients more commonly occur due to haematological causes such as sickle cell disease or leukaemia
+345,21/01/22,Neurology ,"Patients who have had a haemorrhage ruled out with a non-contrast CT  should be given 300mg aspirin. Do not give this before a CT head, as if the stroke is hemorrhagic this may perpetuate the bleeding"
+346,21/01/22,Neurology ,"Complications of a stroke include aspiration pneumonia, shoulder subluxation, VTE, depression, falls, bowel and bladder incontinence, limb contracture as well as  hemorrhagic transformation"
+347,22/01/2022,Haematology,"Supportive investigations include a FBC (most commonly shows leukocytosis; may show pancytopenia), and LDH (elevated)."
+348,22/01/2022,Haematology,Most cases of CLL are asymptomatic and picked up incidentally via routine blood tests.
+349,22/01/2022,Haematology,"Features of CLL include painless lymphadenopathy (due to B cell infiltration). Later features may include early satiety (due to splenomegaly), hepatomegaly, and features of pancytopenia."
+350,22/01/2022,Haematology,"Chronic lymphocytic leukaemia is a clonal proliferation of mature-appearing but functionally incompetent B lymphocytes, that have acquired mutations meaning they cannot undergo apoptosis."
+351,22/01/2022,Haematology,CLL is the most common haematological malignancy in the Western world and is more common in the elderly.
+352,22/01/2022,Haematology,Blood film characteristically shows smear cells.
+353,22/01/2022,Haematology,CLL is most commonly managed using a wait and watch approach. Patients are followed up every 3-12 months for blood counts and clinical examination. Signs of CLL progression such as constitutional or pancytopenia symptoms are indications for treatment.
+354,22/01/2022,Haematology,"Richter’s transformation is the transformation of CLL to an aggressive diffuse large B-cell lymphoma, characterised by rapid lymphadenopathy and new onset constitutional symptoms such as night sweats, weight loss and fevers. This diagnosis is confirmed with a lymph node biopsy."
+355,22/01/2022,Haematology,"Complications of CLL include: Richter’s transformation, warm autoimmune haemolytic anaemia, and recurrent infections."
+356,22/01/2022,Haematology,"Diagnostic investigations for CLL include flow cytometry, immunophenotyping and bone marrow biopsy."
+357,22/01/2022,Haematology,Allogeneic stem cell transplant is the only curative management option. It is only considered if the patient is not suitable for other therapies or if they have not been responsive.
+358,22/01/2022,Haematology,"Patients should be offered immune prophylaxis including: HiB vaccine, PCV pneumococcal vaccine (every 5 years), annual influenza vaccine and prophylactic antibiotics."
